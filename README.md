@@ -5,11 +5,6 @@
 Galactic Legacy Labs along with its partners Space Blue and the Arch Mission Foundation
 made international headlines and history by sending human creativity to the lunar surface as Space Blue oversaw the curation of the 222 art projects on the Lunaprise Museum. The Lunaprise was attached to the Odesseyus Lunar Lander which landed on the Moon on February 22nd of 2024.  For the first time in over 50 years, NASA and the United States landed on the moon, and this time with the Lunaprise, it was with a historic human and artistic timestamp of past and present, lasting in space for over 1 billion years.
 
-  
-## Logo
-
-[![image](https://github.com/lunaprise/Lunaprise/blob/main/Space%20Blue%20Logo.jpg?raw=true)
-
 
 ## Press
 
@@ -60,6 +55,10 @@ The mission marked the first US moon landing in over 50 years.
 ![image](https://github.com/user-attachments/assets/631f2371-5490-4022-b606-dafabe4d91b1)
 
 ## About Space Blue
+
+
+[![image](https://github.com/lunaprise/Lunaprise/blob/main/Space%20Blue%20Logo.jpg?raw=true)
+
 Space Blue Makes History Curating Lunaprise Moon Museum. 
 Discover an extraordinary world where art, technology, and space exploration converge. Space Blue made history on February 22nd, 2024 when the Lunar Lander Odesseyus Landed on the moon, and attached to it was the Lunaprise Museum, with 222 art projects on board curated by Space Blue.  Space Blue will curate a second Lunaprise Museum and “Lunark” on a second mission-making history in 2025 .
 
@@ -68,8 +67,6 @@ Space Blue unites visionary artists, innovative NFTs, and groundbreaking project
 
 ![image](https://github.com/user-attachments/assets/6ddf069f-3ae5-4ddf-878e-6885b0925590)
 
-
-# Project Title
 
 
 

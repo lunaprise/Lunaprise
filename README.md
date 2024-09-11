@@ -52,8 +52,6 @@ The lander's weak signal while phoning home raised questions about its orientati
  
 The mission marked the first US moon landing in over 50 years.
 
-![image](https://github.com/user-attachments/assets/6ddf069f-3ae5-4ddf-878e-6885b0925590)
-
 ![image](https://github.com/user-attachments/assets/47f33769-2888-4a10-8400-fc30ec03a23b)
 
 ![image](https://github.com/user-attachments/assets/ea1f6f03-0858-4aca-841b-c298e478ec38)
@@ -70,6 +68,9 @@ Discover an extraordinary world where art, technology, and space exploration con
 
 Space Blue unites visionary artists, innovative NFTs, and groundbreaking projects, all fueled by our shared passion for space and a sustainable future. Engage with our global community embarking on a journey beyond the stars as we redefine the boundaries of creativity and imagination.
 ## Lunaprise Technical
+
+![image](https://github.com/user-attachments/assets/6ddf069f-3ae5-4ddf-878e-6885b0925590)
+
 ## About Us
 
 ![image](https://github.com/user-attachments/assets/3d04da93-6cda-436c-8814-85f55254731f)

@@ -50,7 +50,7 @@ Answer 2
 Insert gif or link to demo
 
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+![Logo](https://)
 
 
 ## Roadmap
@@ -76,7 +76,7 @@ For support, email fake@fake.com or join our Slack channel.
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://)
 
 
 ## Tech Stack
@@ -97,16 +97,12 @@ Please adhere to this project's `code of conduct`.
 
 ## Feedback
 
-If you have any feedback, please reach out to us at fake@fake.com
+
 
 
 ## Deployment
 
-To deploy this project run
 
-```bash
-  npm run deploy
-```
 
 
 ## Installation
@@ -120,16 +116,12 @@ Install my-project with npm
     
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+
 
 
 ## Running Tests
 
-To run tests, run the following command
 
-```bash
-  npm run test
-```
 
 
 ## Lunaprise Metadata

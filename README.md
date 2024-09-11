@@ -18,12 +18,10 @@ Any additional information goes here
 
 ## Authors
 
-- [@octokatherine](https://www.github.com/octokatherine)
-
 
 ## Documentation
 
-[Documentation](https://linktodocumentation)
+[Documentation]
 
 
 ## FAQ

@@ -3,36 +3,6 @@
 
 A brief description of what this project does and who it's for
 
-
-## Acknowledgements
-
-
-
-
-## Appendix
-
-Any additional information goes here
-
-
-## Authors
-
-
-## Documentation
-
-[Documentation]
-
-
-## FAQ
-
-#### Question 1
-
-Answer 1
-
-#### Question 2
-
-Answer 2
-
-
 ## Features
 
 - Light/dark mode toggle
@@ -64,47 +34,6 @@ https://spaceblue.club/press-kit
 ## Support
 
 For support, email Curator@spaceblue.club.
-
-
-## Screenshots
-
-![App Screenshot](https://)
-
-
-## Tech Stack
-
-**Client:** 
-
-**Server:** 
-
-
-## Contributing
-
-
-
-
-## Feedback
-
-
-
-
-## Deployment
-
-
-
-
-## Installation
-
-
-    
-## License
-
-
-
-
-## Running Tests
-
-
 
 
 ## Lunaprise Metadata

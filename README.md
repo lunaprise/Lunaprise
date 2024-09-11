@@ -56,17 +56,14 @@ Insert gif or link to demo
 - Add more integrations
 
 
-## Related
-
-Here are some related projects
-
+## Press
 
 https://spaceblue.club/press-kit
 
 
 ## Support
 
-For support, email fake@fake.com or join our Slack channel.
+For support, email Curator@spaceblue.club.
 
 
 ## Screenshots

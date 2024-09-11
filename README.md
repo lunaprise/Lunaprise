@@ -3,22 +3,6 @@
 
 A brief description of what this project does and who it's for
 
-## Features
-
-- Light/dark mode toggle
-- Live previews
-- Fullscreen mode
-- Cross platform
-
-
-## Demo
-
-Insert gif or link to demo
-
-
-![Logo](https://)
-
-
 ## Roadmap
 
 - Additional browser support
@@ -43,6 +27,10 @@ BitBasel UN SDG Challenge Winners, "The Sci-Fi 9th Raider" full feature film co-
 ## Space Mission Overview
 ## About Lunaprise
 ## About Space Blue
+Space Blue Makes History Curating Lunaprise Moon Museum. 
+Discover an extraordinary world where art, technology, and space exploration converge. Space Blue made history on February 22nd, 2024 when the Lunar Lander Odesseyus Landed on the moon, and attached to it was the Lunaprise Museum, with 222 art projects on board curated by Space Blue.  Space Blue will curate a second Lunaprise Museum and “Lunark” on a second mission-making history in 2025 .
+
+Space Blue unites visionary artists, innovative NFTs, and groundbreaking projects, all fueled by our shared passion for space and a sustainable future. Engage with our global community embarking on a journey beyond the stars as we redefine the boundaries of creativity and imagination.
 ## Lunaprise Technical
 ## About Us
 Galactic Legacy Labs along with its partners Space Blue and the Arch Mission Foundation

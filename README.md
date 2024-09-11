@@ -7,7 +7,7 @@ made international headlines and history by sending human creativity to the luna
 
 ## Lunaprise Museum Curator
  
-[![image](https://github.com/lunaprise/Lunaprise/blob/main/Space%20Blue%20Logo.jpg?raw=true)
+![image](https://github.com/lunaprise/Lunaprise/blob/main/Space%20Blue%20Logo.jpg?raw=true)
 
 ## Press
 
@@ -69,7 +69,6 @@ Space Blue unites visionary artists, innovative NFTs, and groundbreaking project
 ## Lunaprise Technical
 
 ![image](https://github.com/user-attachments/assets/6ddf069f-3ae5-4ddf-878e-6885b0925590)
-
 
 
 

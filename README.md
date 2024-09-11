@@ -12,7 +12,7 @@ A brief description of what this project does and who it's for
   
 ## Logo
 
-![image]([https://github.com/user-attachments/assets/951cdc95-2a50-455e-a263-e457f375d646](https://github.com/lunaprise/Lunaprise/blob/main/Space%20Blue%20Logo.jpg))
+[![image](https://github.com/lunaprise/Lunaprise/blob/main/Space%20Blue%20Logo.jpg?raw=true)
 
 
 ## Press

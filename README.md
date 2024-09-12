@@ -21,6 +21,10 @@ For support, email Curator@spaceblue.club
 
 ## Lunaprise Metadata
 
+Metadata organized from important records and data pertaining to the inscribing of artifacts and art onto to the Lunaprise discs and museum and important mission details and dates and time periods  is expected to be published here during Q4-2024. Artist names ( but a numeric key code will identify art projects) will not be included in the Metadata due to privacy policies protecting artists in the Lunaprise mission but may be shared by the artist publicly and in blockchain systems and public exhibits subject to the discretion of the artist.
+
+All Lunaprise Metadata issued is under limited  license to use by the artist and third parties  as described herein and no grant of ownership rights has been granted to  to such Metadata, which may be revoked at anytime by Space Blue for violation of the Space Blue terms and conditions referenced herein. Lunaprise reserve the right to determine the methods, practices in organizing and exporting  such data and determining the final sets of metadata issued under these terms and conditions.
+
 ## Lunaprise 222 Art Projects
 222 artists spanning over 30,000 including 100 of the greatest painters of all time, Lunar Records (compilation of music anthology including many notable Grammy winning icons) 
 BitBasel UN SDG Challenge Winners, "The Sci-Fi 9th Raider" full feature film co-starring "CL7" (NFT collector) and Disney star Daniel Curtis Lee, Kelly Max & Samy Halim's Modernist Art and Collections, "Capture The Moon [Modernist Edition]" by Brayden Pierce, the X PUNKS collection, Legion Universe (Stan Lee characters and screenplay), the award-winning documentary film and Sundance Winner "Climate Refugees I," NFT art from Climate Refugees I, beats from multi-Grammy-winning producer Timbaland (including contributions to Justin Timberlake and Jay-Z), Scott Page (Pink Floyd), seven-time Grammy-winning producer Malik Yusef (known for collaborations with "Beyonce"), Marshmello (aka @cryptopup) as the first dog character to return to the moon since "Snoopy" in 1969, the captivating photography of award-winning photographer Pepe Soho… and more.

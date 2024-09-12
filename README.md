@@ -1,4 +1,4 @@
-## About Us
+## The Project
 
 ![image](https://github.com/user-attachments/assets/3d04da93-6cda-436c-8814-85f55254731f)
 

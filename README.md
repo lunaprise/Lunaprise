@@ -56,6 +56,8 @@ https://en.m.wikipedia.org/wiki/IM-1
 
 https://www.space.com/intuitive-machines-odysseus-moon-lander-payloads
 
+https://www.youtube.com/live/Dg2ffigGcYM
+
 ![image](https://github.com/user-attachments/assets/47f33769-2888-4a10-8400-fc30ec03a23b)
 
 ![image](https://github.com/user-attachments/assets/ea1f6f03-0858-4aca-841b-c298e478ec38)

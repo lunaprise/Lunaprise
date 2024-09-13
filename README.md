@@ -16,7 +16,7 @@ Full 40 page pdf can be accessed here.
 
 https://github.com/lunaprise/Lunaprise/blob/main/IM-1_Press_Kit_V1.3..pdf
 
-Open the link and donwload by the clicking the arrow button on the right and it will show you the original. Please note, GitHub is not displaying some of the bacgkround images on its interface, thus it is best to download.
+Open the link and donwload by clicking the arrow button on the right, so you can access the full original file. Please note, GitHub is not displaying some of the bacgkround images on its interface, thus it is best to download.
 
 ## Support
 
@@ -98,7 +98,9 @@ Full 40 page pdf can be accessed here.
 
 https://github.com/lunaprise/Lunaprise/blob/main/IM-1_Press_Kit_V1.3..pdf
 
-Open the link and donwload by the clicking the arrow button on the right and it will show you the original. Please note, GitHub is not displaying some of the bacgkround images on its interface, thus it is best to download.
+Open the link and donwload by clicking the arrow button on the right, so you can access the full original file. Please note, GitHub is not displaying some of the bacgkround images on its interface, thus it is best to download.
+
+## BTS Pictures and Videos
 
 ## Roadmap
 

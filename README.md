@@ -12,6 +12,11 @@ Galactic Legacy Labs along with its partners Space Blue and the Arch Mission Fou
 
 https://spaceblue.club/press-kit
 
+Full 40 page pdf can be accessed here.
+
+https://github.com/lunaprise/Lunaprise/blob/main/IM-1_Press_Kit_V1.3..pdf
+
+Open the link and donwload by the clicking the arrow button on the right and it will show you the original. Please note, GitHub is not displaying some of the bacgkround images on its interface, thus it is best to download.
 
 ## Support
 
@@ -93,8 +98,7 @@ Full 40 page pdf can be accessed here.
 
 https://github.com/lunaprise/Lunaprise/blob/main/IM-1_Press_Kit_V1.3..pdf
 
-Please note, GitHub is not displaying some of the bacgkround images of the pdf. Donwloading by the clicking the arrow button would show you the original.
-
+Open the link and donwload by the clicking the arrow button on the right and it will show you the original. Please note, GitHub is not displaying some of the bacgkround images on its interface, thus it is best to download.
 
 ## Roadmap
 

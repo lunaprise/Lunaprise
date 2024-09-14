@@ -100,6 +100,8 @@ https://github.com/lunaprise/Lunaprise/blob/main/IM-1_Press_Kit_V1.3..pdf
 
 Open the link and donwload by clicking the arrow button on the right, so you can access the full original file. Please note, GitHub is not displaying some of the bacgkround images on its interface, thus it is best to download.
 
+Additional content: https://docs.google.com/presentation/d/1hauHUDtHvXVzF1bfsT54H6fpvNwSfgfA/edit?usp=drivesdk&ouid=101025432785951918263&rtpof=true&sd=true
+
 ## BTS Pictures and Videos
 
 ## Roadmap

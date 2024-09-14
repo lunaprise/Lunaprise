@@ -137,6 +137,12 @@ Additional content: https://docs.google.com/presentation/d/1hauHUDtHvXVzF1bfsT54
 
 ## BTS Pictures and Videos
 
+![image](https://github.com/user-attachments/assets/55b518ff-ef3f-441c-a7b5-f3fd844f84fd)
+
+![image](https://github.com/user-attachments/assets/7da79377-a958-40aa-bed2-193d6aa62d00)
+
+
+
 ## Roadmap
 
 

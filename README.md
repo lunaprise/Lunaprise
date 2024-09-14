@@ -9,7 +9,7 @@ Galactic Legacy Labs along with its partners Space Blue and the Arch Mission Fou
  
 ![image](https://github.com/lunaprise/Lunaprise/blob/main/Space%20Blue%20Logo.jpg?raw=true)
 
-## Press
+# Press
 
 https://spaceblue.club/press-kit
 
@@ -23,12 +23,12 @@ https://github.com/lunaprise/Lunaprise/blob/main/IM-1_Press_Kit_V1.3..pdf
 
 Open the link and donwload by clicking the arrow button on the right, so you can access the full original file. Please note, GitHub is not displaying some of the bacgkround images on its interface, thus it is best to download.
 
-## Support
+# Support
 
 For support email Curator@spaceblue.club
 
 
-## Lunaprise Metadata
+# Lunaprise Metadata
 
 Metadata organized from important records and data pertaining to the inscribing of artifacts and art onto to the Lunaprise discs and museum and important mission details and dates and time periods  is expected to be published here during Q4-2024. Artist names ( but a numeric key code will identify art projects) will not be included in the Metadata due to privacy policies protecting artists in the Lunaprise mission but may be shared by the artist publicly and in blockchain systems and public exhibits subject to the discretion of the artist.
 
@@ -36,7 +36,7 @@ All Lunaprise Metadata issued is under limited  license to use by the artist an
 
 The art piece/artifact identifier number along with important meta data will be minted and inscribed into bitcoin ordinal  blockchain archive system to be announced after the launch of the artwork on the moon. 
 
-Important meta data will include:
+## Important meta data will include:
 
 Additional artists metadata
 ( limited to 500 characters per artist)
@@ -63,7 +63,7 @@ Longitudinal/Latitude coordinates where artwork rests on the moon
 
 Other important scientific and historical metadata  as determined by Space Blue.
 
-Important meta data will not include:
+## Important meta data will not include:
 Confidential Data per confidentiality agreements with third parties.
 
 Artist Name
@@ -75,10 +75,11 @@ Photos/video protected by confidentiality agreements.
 
 Third party data not under the control of Galactic Legacy Labs and Space Blue
 
-## Lunaprise 222 Art Projects
+# Lunaprise 222 Art Projects
 222 artists spanning over 30,000 including 100 of the greatest painters of all time, Lunar Records (compilation of music anthology including many notable Grammy winning icons) 
 BitBasel UN SDG Challenge Winners, "The Sci-Fi 9th Raider" full feature film co-starring "CL7" (NFT collector) and Disney star Daniel Curtis Lee, Kelly Max & Samy Halim's Modernist Art and Collections, "Capture The Moon [Modernist Edition]" by Brayden Pierce, the X PUNKS collection, Legion Universe (Stan Lee characters and screenplay), the award-winning documentary film and Sundance Winner "Climate Refugees I," NFT art from Climate Refugees I, beats from multi-Grammy-winning producer Timbaland (including contributions to Justin Timberlake and Jay-Z), Scott Page (Pink Floyd), seven-time Grammy-winning producer Malik Yusef (known for collaborations with "Beyonce"), Marshmello (aka @cryptopup) as the first dog character to return to the moon since "Snoopy" in 1969, the captivating photography of award-winning photographer Pepe Soho… and more.
-## Space Mission Overview
+
+# Space Mission Overview
 
 ![image](https://github.com/user-attachments/assets/a81db917-9381-4212-805e-00d5392e50fc)
 
@@ -121,11 +122,11 @@ https://www.youtube.com/live/Dg2ffigGcYM
 
 
 
-## About Lunaprise
+# About Lunaprise
 
 ![image](https://github.com/user-attachments/assets/631f2371-5490-4022-b606-dafabe4d91b1)
 
-## About Space Blue
+# About Space Blue
 
 ![image](https://github.com/user-attachments/assets/daac9e87-823b-4e19-a227-43324b61e6c5)
 
@@ -135,7 +136,8 @@ Space Blue Makes History Curating Lunaprise Moon Museum.
 Discover an extraordinary world where art, technology, and space exploration converge. Space Blue made history on February 22nd, 2024 when the Lunar Lander Odesseyus Landed on the moon, and attached to it was the Lunaprise Museum, with 222 art projects on board curated by Space Blue. Space Blue will curate a second Lunaprise Museum and “Lunark” on a second mission-making history in 2025.
 
 Space Blue unites visionary artists, innovative NFTs, and groundbreaking projects, all fueled by our shared passion for space and a sustainable future. Engage with our global community embarking on a journey beyond the stars as we redefine the boundaries of creativity and imagination.
-## Lunaprise Technical
+
+# Lunaprise Technical
 
 ![image](https://github.com/user-attachments/assets/6ddf069f-3ae5-4ddf-878e-6885b0925590)
 
@@ -176,7 +178,7 @@ Open the link and donwload by clicking the arrow button on the right, so you can
 
 Additional content: https://docs.google.com/presentation/d/1hauHUDtHvXVzF1bfsT54H6fpvNwSfgfA/edit?usp=drivesdk&ouid=101025432785951918263&rtpof=true&sd=true
 
-## BTS Pictures and Videos
+# BTS Pictures and Videos
 
 ![image](https://github.com/user-attachments/assets/55b518ff-ef3f-441c-a7b5-f3fd844f84fd)
 
@@ -184,10 +186,10 @@ Additional content: https://docs.google.com/presentation/d/1hauHUDtHvXVzF1bfsT54
 
 
 
-## Roadmap
+# Roadmap
 
 
-## Blockchain Authentication
+# Blockchain Authentication
 
 
 

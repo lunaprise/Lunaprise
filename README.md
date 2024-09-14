@@ -13,6 +13,10 @@ Galactic Legacy Labs along with its partners Space Blue and the Arch Mission Fou
 
 https://spaceblue.club/press-kit
 
+https://www.space.com/intuitive-machines-odysseus-moon-lander-payloads
+
+https://www.thesilo.ca/marshmello-cryptocup-nft-makes-history-with-lunaprise-launch-on-spacex/
+
 Full 40 page pdf can be accessed here.
 
 https://github.com/lunaprise/Lunaprise/blob/main/IM-1_Press_Kit_V1.3..pdf

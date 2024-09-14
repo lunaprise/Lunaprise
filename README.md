@@ -94,6 +94,9 @@ Space Blue unites visionary artists, innovative NFTs, and groundbreaking project
 
 ![image](https://github.com/user-attachments/assets/c5c22707-f1e0-4154-9a0c-75b99c92c7a4)
 
+![image](https://github.com/user-attachments/assets/ceadeced-ea13-4999-9a95-cb5039d77ba2)
+
+
 Full 40 page pdf can be accessed here. 
 
 https://github.com/lunaprise/Lunaprise/blob/main/IM-1_Press_Kit_V1.3..pdf

@@ -86,6 +86,7 @@ https://www.youtube.com/live/Dg2ffigGcYM
 
 ## About Space Blue
 
+![image](https://github.com/user-attachments/assets/daac9e87-823b-4e19-a227-43324b61e6c5)
 
 [![image](https://github.com/lunaprise/Lunaprise/blob/main/Space%20Blue%20Logo.jpg?raw=true)
 

@@ -34,6 +34,47 @@ Metadata organized from important records and data pertaining to the inscribing 
 
 All Lunaprise Metadata issued is under limited  license to use by the artist and third parties  as described herein and no grant of ownership rights has been granted to to such Metadata, which may be revoked at anytime by Space Blue for violation of the Space Blue terms and conditions referenced herein. Lunaprise reserve the right to determine the methods, practices in organizing and exporting  such data and determining the final sets of metadata issued under these terms and conditions.
 
+The art piece/artifact identifier number along with important meta data will be minted and inscribed into bitcoin ordinal  blockchain archive system to be announced after the launch of the artwork on the moon. 
+
+Important meta data will include:
+
+Additional artists metadata
+( limited to 500 characters per artist)
+ 
+NASA Mission number 
+
+Space X Mission number
+ 
+Payload description 
+
+Company responsible for curating the Lunaprise discs
+
+Company responsible for storage of records and data.
+
+Ownership of Data
+
+Date of Lunaprise Disc Inscription
+
+Date of SpaceX launch
+
+Date and time payload landed on the moon.
+
+Longitudinal/Latitude coordinates where artwork rests on the moon
+
+Other important scientific and historical metadata  as determined by Space Blue.
+
+Important meta data will not include:
+Confidential Data per confidentiality agreements with third parties.
+
+Artist Name
+
+Confidential Imagery/Files
+Art Collection Name ( the artists property may be recessed publicly at their own discretion)
+
+Photos/video protected by confidentiality agreements.
+
+Third party data not under the control of Galactic Legacy Labs and Space Blue
+
 ## Lunaprise 222 Art Projects
 222 artists spanning over 30,000 including 100 of the greatest painters of all time, Lunar Records (compilation of music anthology including many notable Grammy winning icons) 
 BitBasel UN SDG Challenge Winners, "The Sci-Fi 9th Raider" full feature film co-starring "CL7" (NFT collector) and Disney star Daniel Curtis Lee, Kelly Max & Samy Halim's Modernist Art and Collections, "Capture The Moon [Modernist Edition]" by Brayden Pierce, the X PUNKS collection, Legion Universe (Stan Lee characters and screenplay), the award-winning documentary film and Sundance Winner "Climate Refugees I," NFT art from Climate Refugees I, beats from multi-Grammy-winning producer Timbaland (including contributions to Justin Timberlake and Jay-Z), Scott Page (Pink Floyd), seven-time Grammy-winning producer Malik Yusef (known for collaborations with "Beyonce"), Marshmello (aka @cryptopup) as the first dog character to return to the moon since "Snoopy" in 1969, the captivating photography of award-winning photographer Pepe Soho… and more.

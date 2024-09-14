@@ -36,7 +36,7 @@ All Lunaprise Metadata issued is under limited  license to use by the artist an
 
 The art piece/artifact identifier number along with important meta data will be minted and inscribed into bitcoin ordinal  blockchain archive system to be announced after the launch of the artwork on the moon. 
 
-## Important meta data will include:
+## Important Metadata will include:
 
 Additional artists metadata
 ( limited to 500 characters per artist)
@@ -63,7 +63,7 @@ Longitudinal/Latitude coordinates where artwork rests on the moon
 
 Other important scientific and historical metadata  as determined by Space Blue.
 
-## Important meta data will not include:
+## Important Metadata will not include:
 Confidential Data per confidentiality agreements with third parties.
 
 Artist Name

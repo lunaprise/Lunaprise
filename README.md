@@ -170,9 +170,13 @@ https://github.com/lunaprise/Lunaprise/blob/main/Lunaprise%20Disc%20Pictures/Lun
 Lunaprise Lander Video
 https://github.com/lunaprise/Lunaprise/blob/main/Lunar%20Lander%20Pictures/Lunaprise%20Lander%20Video.mp4
 
-Full 40 page pdf can be accessed here. 
+Full 40 page pdf IM-1_Press_Kit_V1.3 can be accessed here. 
 
 https://github.com/lunaprise/Lunaprise/blob/main/IM-1_Press_Kit_V1.3..pdf
+
+Full 14 page pdf IM-1 Payloads For Website can be accessed here. 
+
+https://github.com/lunaprise/Lunaprise/blob/main/IM-1 Payloads For Website.pdf
 
 Open the link and donwload by clicking the arrow button on the right, so you can access the full original file. Please note, GitHub is not displaying some of the bacgkround images on its interface, thus it is best to download.
 

@@ -38,42 +38,43 @@ The art piece/artifact identifier number along with important meta data will be 
 
 ## Important Metadata will include:
 
-Additional artists metadata
+• Additional artists metadata
 ( limited to 500 characters per artist)
  
-NASA Mission number 
+• NASA Mission number 
 
-Space X Mission number
+• Space X Mission number
  
-Payload description 
+• Payload description 
 
-Company responsible for curating the Lunaprise discs
+• Company responsible for curating the Lunaprise discs
 
-Company responsible for storage of records and data.
+• Company responsible for storage of records and data.
 
-Ownership of Data
+• Ownership of Data
 
-Date of Lunaprise Disc Inscription
+• Date of Lunaprise Disc Inscription
 
-Date of SpaceX launch
+• Date of SpaceX launch
 
-Date and time payload landed on the moon.
+• Date and time payload landed on the moon.
 
-Longitudinal/Latitude coordinates where artwork rests on the moon
+• Longitudinal/Latitude coordinates where artwork rests on the moon
 
-Other important scientific and historical metadata  as determined by Space Blue.
+• Other important scientific and historical metadata  as determined by Space Blue.
 
 ## Important Metadata will not include:
-Confidential Data per confidentiality agreements with third parties.
 
-Artist Name
+• Confidential Data per confidentiality agreements with third parties.
 
-Confidential Imagery/Files
+• Artist Name
+
+• Confidential Imagery/Files
 Art Collection Name ( the artists property may be recessed publicly at their own discretion)
 
-Photos/video protected by confidentiality agreements.
+• Photos/video protected by confidentiality agreements.
 
-Third party data not under the control of Galactic Legacy Labs and Space Blue
+• Third party data not under the control of Galactic Legacy Labs and Space Blue
 
 # Lunaprise 222 Art Projects
 222 artists spanning over 30,000 including 100 of the greatest painters of all time, Lunar Records (compilation of music anthology including many notable Grammy winning icons) 

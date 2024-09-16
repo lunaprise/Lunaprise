@@ -78,7 +78,11 @@ Art Collection Name ( the artists property may be recessed publicly at their own
 
 # Lunaprise 222 Art Projects
 222 artists spanning over 30,000 including 100 of the greatest painters of all time, Lunar Records (compilation of music anthology including many notable Grammy winning icons) 
-BitBasel UN SDG Challenge Winners, "The Sci-Fi 9th Raider" full feature film co-starring "CL7" (NFT collector) and Disney star Daniel Curtis Lee, Kelly Max & Samy Halim's Modernist Art and Collections, "Capture The Moon [Modernist Edition]" by Brayden Pierce, the X PUNKS collection, Legion Universe (Stan Lee characters and screenplay), the award-winning documentary film and Sundance Winner "Climate Refugees I," NFT art from Climate Refugees I, beats from multi-Grammy-winning producer Timbaland (including contributions to Justin Timberlake and Jay-Z), Scott Page (Pink Floyd), seven-time Grammy-winning producer Malik Yusef (known for collaborations with "Beyonce"), Marshmello (aka @cryptopup) as the first dog character to return to the moon since "Snoopy" in 1969, the captivating photography of award-winning photographer Pepe Soho… and more.
+BitBasel UN SDG Challenge Winners, "The Sci-Fi 9th Raider" full feature film co-starring "CL7" (NFT collector) and Disney star Daniel Curtis Lee, Kelly Max & Samy Halim's Modernist Art and Collections, "Capture The Moon [Modernist Edition]" by Brayden Pierce, the X PUNKS collection, Legion Universe (Stan Lee characters and screenplay), the award-winning documentary film and Sundance Winner "Climate Refugees I,"NFT art from Climate Refugees I, beats from multi-Grammy-winning producer Timbaland (including contributions to Justin Timberlake and Jay-Z), Scott Page (Pink Floyd), seven-time Grammy-winning producer Malik Yusef (known for collaborations with "Beyonce"), Marshmello (aka @cryptopup) as the first dog character to return to the moon since "Snoopy" in 1969, the captivating photography of award-winning photographer Pepe Soho… and more.
+
+![image](https://github.com/user-attachments/assets/1042d715-56c3-4c5c-8062-4c858e5d9ffe)
+
+Art Title "Moontage"  Artist: Michael P. Nash 2024. The image depicts a representation of bits of art pieces collected from the Lunaprise Discs sent to the moon. Only 222 of the 77,000+ artifacts sent on the Lunaprise 16 disc layers  are represented here in a commerative Art piece representing over 30,000 years of human art and culture,  done by Nash with collaboration with Lunaprise Museun curator Dallas Santana
 
 # Space Mission Overview
 
@@ -189,6 +193,8 @@ Space Blue unites visionary artists, innovative NFTs, and groundbreaking project
 ![image](https://github.com/user-attachments/assets/94718dcf-a000-4489-999e-0bb5fa8ea5c7)
 
 ![image](https://github.com/user-attachments/assets/9fb761ef-9db1-412f-bdde-a4fd49dc90bd)
+
+![image](https://github.com/user-attachments/assets/4c6fb135-56f4-4ad5-b9d5-e3b9dae792f0)
 
 
 Lunaprise Disc Video

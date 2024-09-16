@@ -82,7 +82,7 @@ BitBasel UN SDG Challenge Winners, "The Sci-Fi 9th Raider" full feature film co-
 
 ![image](https://github.com/user-attachments/assets/1042d715-56c3-4c5c-8062-4c858e5d9ffe)
 
-* Art Title "Moontage"  Artist: Michael P. Nash 2024. The image depicts a representation of bits of art pieces collected from the Lunaprise Discs sent to the moon. Only 222 of the 77,000+ artifacts sent on the Lunaprise 16 disc layers  are represented here in a commerative Art piece representing over 30,000 years of human art and culture,  done by Nash with collaboration with Lunaprise Museun curator Dallas Santana*
+_Art Title "Moontage"  Artist: Michael P. Nash 2024. The image depicts a representation of bits of art pieces collected from the Lunaprise Discs sent to the moon. Only 222 of the 77,000+ artifacts sent on the Lunaprise 16 disc layers  are represented here in a commerative Art piece representing over 30,000 years of human art and culture,  done by Nash with collaboration with Lunaprise Museun curator Dallas Santana_
 
 # Space Mission Overview
 

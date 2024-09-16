@@ -196,6 +196,7 @@ Space Blue unites visionary artists, innovative NFTs, and groundbreaking project
 
 ![image](https://github.com/user-attachments/assets/4c6fb135-56f4-4ad5-b9d5-e3b9dae792f0)
 
+![image](https://github.com/user-attachments/assets/08ac392d-cbda-4703-b134-43939222201b)
 
 Lunaprise Disc Video
 https://github.com/lunaprise/Lunaprise/blob/main/Lunaprise%20Disc%20Pictures/Lunaprise%20Disc%20Video.mp4

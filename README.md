@@ -234,6 +234,9 @@ Additional content: https://docs.google.com/presentation/d/1hauHUDtHvXVzF1bfsT54
 
 # KSC (Kennedy Space Center) Launch Event
 
+![image](https://github.com/user-attachments/assets/d3047585-160b-4de2-a641-0c951c642959)
+
+
 
 # Roadmap
 

@@ -3,10 +3,10 @@
 ![image](https://github.com/user-attachments/assets/2573aafd-2ad8-43ed-81d7-a1965595b6b3)
 
 
-Galactic Legacy Labs along with its partners Space Blue and the Arch Mission Foundation ("AMF") made international headlines and history by sending human creativity to the lunar surface Space Blue oversaw the final curation of the 222 art projects on the Lunaprise Museum compiling the final list of artwork, and artists and developing the certification processes for all artwork involved. The Lunaprise archive includes artists curated in the Lunar Art Archive a project steered by AMF. The Lunaprise was attached to the Odesseyus Lunar Lander which landed on the Moon on February 22nd of 2024. For the first time in over 50 years, NASA and the United States landed on the Moon, and this time with the Lunaprise, it was with a historic human and artistic timestamp of past and present, lasting in space for over 1 billion years.
+Galactic Legacy Labs along with its partners Space Blue and the Arch Mission Foundation ("AMF") made international headlines and history by sending human creativity to the lunar surface. Space Blue oversaw the final curation of the 222 art projects on the Lunaprise Museum compiling the final list of artwork, and artists and developing the certification processes for all artwork involved. The Lunaprise archive includes artists curated in the Lunar Art Archive a project steered by AMF. The Lunaprise was attached to the Odesseyus Lunar Lander which landed on the Moon on February 22nd of 2024. For the first time in over 50 years, NASA and the United States landed on the Moon, and this time with the Lunaprise, it was with a historic human and artistic timestamp of past and present, lasting in space for over 1 billion years.
 
 # Lunaprise Museum Curator
-Space Blue, under the leadership of Dallas Santana oversaw The Lunaprise museum curation.
+Space Blue, under the leadership of Dallas Santana oversaw The Lunaprise museum curation and employed art historians, professors of art, blockchain advisors, NFT (nonfungible token) experts, auctioneer advisors, art collectors, sports collectors, car collectors, renowned art galleries, and news editiorial relationshipos for the assistance in compiling the final art projects selected for the museum. Learn more at https://wwww.spaceblue.club
  
 ![image](https://github.com/lunaprise/Lunaprise/blob/main/Space%20Blue%20Logo.jpg?raw=true)
 
@@ -45,7 +45,7 @@ The art piece/artifact identifier number along with important meta data will be 
 ## Important Metadata will include:
 
 • Additional artist's metadata
-( limited to 500 characters per artist)
+(limited to 500 characters per artist)
  
 • NASA Mission number 
 

@@ -3,7 +3,7 @@
 ![image](https://github.com/user-attachments/assets/2573aafd-2ad8-43ed-81d7-a1965595b6b3)
 
 
-Galactic Legacy Labs along with its partners Space Blue and the Arch Mission Foundation made international headlines and history by sending human creativity to the lunar surface as Space Blue oversaw the curation of the 222 art projects on the Lunaprise Museum. The Lunaprise was attached to the Odesseyus Lunar Lander which landed on the Moon on February 22nd of 2024. For the first time in over 50 years, NASA and the United States landed on the Moon, and this time with the Lunaprise, it was with a historic human and artistic timestamp of past and present, lasting in space for over 1 billion years.
+Galactic Legacy Labs along with its partners Space Blue and the Arch Mission Foundation ("AMF") made international headlines and history by sending human creativity to the lunar surface Space Blue oversaw the final curation of the 222 art projects on the Lunaprise Museum compiling the final list of artwork, and artists and developing the certification processes for all artwork involved. The Lunaprise archive includes artists curated in the Lunar Art Archive a project steered by AMF. The Lunaprise was attached to the Odesseyus Lunar Lander which landed on the Moon on February 22nd of 2024. For the first time in over 50 years, NASA and the United States landed on the Moon, and this time with the Lunaprise, it was with a historic human and artistic timestamp of past and present, lasting in space for over 1 billion years.
 
 # Lunaprise Museum Curator
 Space Blue, under the leadership of Dallas Santana oversaw The Lunaprise museum curation.
@@ -44,7 +44,7 @@ The art piece/artifact identifier number along with important meta data will be 
 
 ## Important Metadata will include:
 
-• Additional artists metadata
+• Additional artist's metadata
 ( limited to 500 characters per artist)
  
 • NASA Mission number 
@@ -76,19 +76,19 @@ The art piece/artifact identifier number along with important meta data will be 
 • Artist Name
 
 • Confidential Imagery/Files
-Art Collection Name ( the artists property may be recessed publicly at their own discretion)
+Art Collection Name ( the artist's property may be recessed publicly at their own discretion)
 
 • Photos/video protected by confidentiality agreements.
 
-• Third party data not under the control of Galactic Legacy Labs and Space Blue
+• Third-party data not under the control of Galactic Legacy Labs and Space Blue
 
 # Lunaprise 222 Art Projects
-222 artists spanning over 30,000 years includes 100 of the greatest painters of all time, Lunar Records (compilation of music anthology including many notable Grammy winning icons like Jimmi Hendrix, The Who, Pink Floyd, James Brown, Elvis, Janis Joplin, Jefferson Airplane, Bob Dylan, and many more including contemporay artists Timbaland, Justin Timberlake, Taylor Swift, Journey, Yanni, Sabrina Carpenter, Becky G, Billy Ray Cyrus and hundreds more), 
+222 artists spanning over 30,000 years includes 100 of the greatest painters of all time, Lunar Records (compilation of music anthology including many notable Grammy-winning icons like Jimmi Hendrix, The Who, Pink Floyd, James Brown, Elvis, Janis Joplin, Jefferson Airplane, Bob Dylan, and many more including contemporary artists Timbaland, Justin Timberlake, Taylor Swift, Journey, Yanni, Sabrina Carpenter, Becky G, Billy Ray Cyrus and hundreds more), 
 BitBasel UN SDG Challenge Winners, "The Sci-Fi 9th Raider" full feature film co-starring "CL7" (NFT collector) and Disney star Daniel Curtis Lee, Kelly Max & Samy Halim's Modernist Art and Collections, "Capture The Moon [Modernist Edition]" by Brayden Pierce, the X PUNKS collection, Legion Universe (Stan Lee characters and screenplay), the award-winning documentary film and Sundance Winner "Climate Refugees I,"NFT art from Climate Refugees I, beats from multi-Grammy-winning producer Timbaland (including contributions to Justin Timberlake and Jay-Z), Scott Page (Pink Floyd), seven-time Grammy-winning producer Malik Yusef (known for collaborations with "Beyonce"), Marshmello (aka @cryptopup) as the first dog character to return to the moon since "Snoopy" in 1969, the captivating photography of award-winning photographer Pepe Soho, collectibles of 400 athletes of all time, rarest stamps, rare numisatic coins, Lunaprise Hall of Fame homorong the grreatest icons, leaders, business titans… and more.
 
 ![image](https://github.com/user-attachments/assets/1042d715-56c3-4c5c-8062-4c858e5d9ffe)
 
-_Art Title "Moontage"  Artist: Michael P. Nash 2024. The image depicts a representation of bits of art pieces collected from the Lunaprise Discs sent to the moon. Only 222 of the 77,000+ artifacts sent on the Lunaprise 16 disc layers  are represented here in a commerative Art piece representing over 30,000 years of human art and culture,  done by Nash with collaboration with Lunaprise Museun curator Dallas Santana_
+_Art Title "Moontage"  Artist: Michael P. Nash 2024. The image depicts a representation of bits of art pieces collected from the Lunaprise Discs sent to the moon. Only 222 of the 77,000+ artifacts sent on the Lunaprise 16 disc layers  are represented here in a commemorative Art piece representing over 30,000 years of human art and culture,  done by Nash in collaboration with Lunaprise Museum curator Dallas Santana_
 
 # Space Mission Overview
 
@@ -99,7 +99,7 @@ Studying radio astronomy, plume-surface interactions, and space weather interact
 Demonstrating communication and navigation node capabilities
 Demonstrating precision landing technologies 
 
-The Lunaprise Archive and art museum was bolted to the Odessyus lander and contained a series of 18 metallic and nanofiche discs which stores the content as both tiff image files inscribed onto the discs and a digital archive of mp4 and mp3 files. No battery or other power was required for the lunaprise payload assuring it's success regardless if the lander tipped over or even crashed 
+The Lunaprise Archive and art museum was bolted to the Odessyus lander and contained a series of 18 metallic and nanofiche discs which store the content as both tiff image files inscribed onto the discs and a digital archive of mp4 and mp3 files. No battery or other power was required for the lunaprise payload assuring its success regardless if the lander tipped over or even crashed 
  
 The Lander's Mission ended after it landed sideways near the moon's south pole and lost power during a lunar nightfall. The Lander's final image was sent on February 22, and it will remain inoperable on the Moon's surface. 
  
@@ -109,7 +109,7 @@ The mission was hailed as a success by NASA and Intuitive Machines, despite some
  
 The Lander's weak signal while phoning home raised questions about its orientation and health. 
 
-222 art projects in the Lunaprise spsnking over 30,000 years of human history set hundreds of space archive and art history records.
+222 art projects in the Lunaprise spanning over 30,000 years of human history set hundreds of space archives and art history records.
  
 The mission marked the first US Moon landing in over 50 years.
 
@@ -117,9 +117,9 @@ The mission marked the first US Moon landing in over 50 years.
 
 ![image](https://github.com/user-attachments/assets/3fb46ec7-9ac2-4b51-a5f4-9e5336fb88b1)
 
-COSPAR ID: Stands for ‘Committee on Space Research Identifier’. It is an international number assigned to man-made objects launched in space. It consists of the launch year, a three-digit incrementing launch number of that year and a letter code to distinguish objects between them. Only successful launches are given a COSPAR ID.
+COSPAR ID: Stands for ‘Committee on Space Research Identifier’. It is an international number assigned to man-made objects launched in space. It consists of the launch year, a three-digit incrementing launch number of that year, and a letter code to distinguish objects between them. Only successful launches are given a COSPAR ID.
 
-Name: Official name of the object. In the case of small objects, their type names are used. A ‘plus’ sign is used when several objects are still fixed together. Information in brackets are either engine names, serials or reference.
+Name: Official name of the object. In the case of small objects, their type names are used. A ‘plus’ sign is used when several objects are still fixed together. Information in brackets are either engine names, serials or references.
 
 type: Object type. In the case of small objects, it is identical to its name.
 
@@ -222,7 +222,7 @@ Full Lunagram Specifications pdf can be accessed here.
 
 https://github.com/lunaprise/Lunaprise/blob/main/Lunagram%20Specifications%202.pdf
 
-Open the link and donwload by clicking the arrow button on the right, so you can access the full original file. Please note, GitHub is not displaying some of the bacgkround images on its interface, thus it is best to download.
+Open the link and download by clicking the arrow button on the right, so you can access the full original file. Please note, GitHub is not displaying some of the background images on its interface, thus it is best to download.
 
 Additional content: https://docs.google.com/presentation/d/1hauHUDtHvXVzF1bfsT54H6fpvNwSfgfA/edit?usp=drivesdk&ouid=101025432785951918263&rtpof=true&sd=true
 

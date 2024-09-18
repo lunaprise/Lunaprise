@@ -6,7 +6,7 @@
 Galactic Legacy Labs along with its partners Space Blue and the Arch Mission Foundation made international headlines and history by sending human creativity to the lunar surface as Space Blue oversaw the curation of the 222 art projects on the Lunaprise Museum. The Lunaprise was attached to the Odesseyus Lunar Lander which landed on the Moon on February 22nd of 2024. For the first time in over 50 years, NASA and the United States landed on the Moon, and this time with the Lunaprise, it was with a historic human and artistic timestamp of past and present, lasting in space for over 1 billion years.
 
 # Lunaprise Museum Curator
-Space Blue, under the leadership of Dallas Santaa oversaw The Lunaprise museum curation.
+Space Blue, under the leadership of Dallas Santana oversaw The Lunaprise museum curation.
  
 ![image](https://github.com/lunaprise/Lunaprise/blob/main/Space%20Blue%20Logo.jpg?raw=true)
 
@@ -78,8 +78,8 @@ Art Collection Name ( the artists property may be recessed publicly at their own
 • Third party data not under the control of Galactic Legacy Labs and Space Blue
 
 # Lunaprise 222 Art Projects
-222 artists spanning over 30,000 including 100 of the greatest painters of all time, Lunar Records (compilation of music anthology including many notable Grammy winning icons) 
-BitBasel UN SDG Challenge Winners, "The Sci-Fi 9th Raider" full feature film co-starring "CL7" (NFT collector) and Disney star Daniel Curtis Lee, Kelly Max & Samy Halim's Modernist Art and Collections, "Capture The Moon [Modernist Edition]" by Brayden Pierce, the X PUNKS collection, Legion Universe (Stan Lee characters and screenplay), the award-winning documentary film and Sundance Winner "Climate Refugees I,"NFT art from Climate Refugees I, beats from multi-Grammy-winning producer Timbaland (including contributions to Justin Timberlake and Jay-Z), Scott Page (Pink Floyd), seven-time Grammy-winning producer Malik Yusef (known for collaborations with "Beyonce"), Marshmello (aka @cryptopup) as the first dog character to return to the moon since "Snoopy" in 1969, the captivating photography of award-winning photographer Pepe Soho… and more.
+222 artists spanning over 30,000 years includes 100 of the greatest painters of all time, Lunar Records (compilation of music anthology including many notable Grammy winning icons like Jimmi Hendrix, The Who, Pink Floyd, James Brown, Elvis, Janis Joplin, Jefferson Airplane, Bob Dylan, and many more including contemporay artists Timbaland, Justin Timberlake, Taylor Swift, Journey, Yanni, Sabrina Carpenter, Becky G, Billy Ray Cyrus and hundreds more), 
+BitBasel UN SDG Challenge Winners, "The Sci-Fi 9th Raider" full feature film co-starring "CL7" (NFT collector) and Disney star Daniel Curtis Lee, Kelly Max & Samy Halim's Modernist Art and Collections, "Capture The Moon [Modernist Edition]" by Brayden Pierce, the X PUNKS collection, Legion Universe (Stan Lee characters and screenplay), the award-winning documentary film and Sundance Winner "Climate Refugees I,"NFT art from Climate Refugees I, beats from multi-Grammy-winning producer Timbaland (including contributions to Justin Timberlake and Jay-Z), Scott Page (Pink Floyd), seven-time Grammy-winning producer Malik Yusef (known for collaborations with "Beyonce"), Marshmello (aka @cryptopup) as the first dog character to return to the moon since "Snoopy" in 1969, the captivating photography of award-winning photographer Pepe Soho, collectibles of 400 athletes of all time, rarest stamps, rare numisatic coins, Lunaprise Hall of Fame homorong the grreatest icons, leaders, business titans… and more.
 
 ![image](https://github.com/user-attachments/assets/1042d715-56c3-4c5c-8062-4c858e5d9ffe)
 

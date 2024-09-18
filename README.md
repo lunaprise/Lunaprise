@@ -30,6 +30,11 @@ For support email Curator@spaceblue.club
 
 
 # Lunaprise Metadata
+How to verify and artist/artifact or art piece is part of The Lunaprise:
+
+Visit the only authorized source for certification and authentication of artists and artifacts and art purces sent to the moon at:
+https://verify.spaceblue.club
+
 
 Metadata organized from important records and data pertaining to the inscribing of artifacts and art onto to the Lunaprise discs and museum and important mission details and dates and time periods  is expected to be published here during Q4-2024. Artist names ( but a numeric key code will identify art projects) will not be included in the Metadata due to privacy policies protecting artists in the Lunaprise mission but may be shared by the artist publicly and in blockchain systems and public exhibits subject to the discretion of the artist.
 
@@ -244,6 +249,7 @@ Additional content: https://docs.google.com/presentation/d/1hauHUDtHvXVzF1bfsT54
 
 # Blockchain Authentication
 
-
+Visit the only authorized source for certification and authentication including blockchain inscriptions of artists and artifacts and art purces sent to the moon at:
+https://verify.spaceblue.club
 
 

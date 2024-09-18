@@ -243,6 +243,7 @@ Additional content: https://docs.google.com/presentation/d/1hauHUDtHvXVzF1bfsT54
 ![image](https://github.com/user-attachments/assets/d3047585-160b-4de2-a641-0c951c642959)
 
 
+# KSC (Kennedy Space Center) Gala event with Space Blue and partners
 
 # Roadmap
 

@@ -252,4 +252,6 @@ Additional content: https://docs.google.com/presentation/d/1hauHUDtHvXVzF1bfsT54
 Visit the only authorized source for certification and authentication including blockchain inscriptions of artists and artifacts and art purces sent to the moon at:
 https://verify.spaceblue.club
 
+Note: Metadata, and blockchain authentication will commence being added to the above verification site during Fall,2024.
+
 

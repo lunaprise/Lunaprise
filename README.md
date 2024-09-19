@@ -172,8 +172,6 @@ Space Blue unites visionary artists, innovative NFTs, and groundbreaking project
 
 # Lunaprise Technical
 
-![image](https://github.com/user-attachments/assets/14c187cf-8bc8-4509-9678-d8eed0da9c6e)
-
 ![image](https://github.com/user-attachments/assets/c5c22707-f1e0-4154-9a0c-75b99c92c7a4)
 
 ![image](https://github.com/user-attachments/assets/6ddf069f-3ae5-4ddf-878e-6885b0925590)

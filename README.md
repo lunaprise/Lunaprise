@@ -178,8 +178,6 @@ Space Blue unites visionary artists, innovative NFTs, and groundbreaking project
 
 ![image](https://github.com/user-attachments/assets/2c6dd401-d80b-4dcb-8dea-8c8cc347a69c)
 
-![image](https://github.com/user-attachments/assets/eb804482-40b6-4b52-a458-b8ed10eb7350)
-
 ![image](https://github.com/user-attachments/assets/ceadeced-ea13-4999-9a95-cb5039d77ba2)
 
 ![image](https://github.com/user-attachments/assets/474a6b7e-192e-4991-b7f7-34ddbdd420dd)
@@ -201,6 +199,8 @@ Space Blue unites visionary artists, innovative NFTs, and groundbreaking project
 ![image](https://github.com/user-attachments/assets/9fb761ef-9db1-412f-bdde-a4fd49dc90bd)
 
 ![image](https://github.com/user-attachments/assets/4c6fb135-56f4-4ad5-b9d5-e3b9dae792f0)
+
+![image](https://github.com/user-attachments/assets/eb804482-40b6-4b52-a458-b8ed10eb7350)
 
 ![image](https://github.com/user-attachments/assets/08ac392d-cbda-4703-b134-43939222201b)
 

@@ -245,6 +245,8 @@ Additional content: https://docs.google.com/presentation/d/1hauHUDtHvXVzF1bfsT54
 
 # KSC (Kennedy Space Center) Gala Event with Space Blue and Partners
 
+https://www.canva.com/design/DAF8nuMr2rc/iyMTn77T1j7qffF3yhI-5w/view?utm_content=DAF8nuMr2rc&utm_campaign=designshare&utm_medium=link&utm_source=editor
+
 # Roadmap
 
 

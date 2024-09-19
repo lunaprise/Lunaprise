@@ -18,6 +18,8 @@ https://www.space.com/intuitive-machines-odysseus-moon-lander-payloads
 
 https://www.thesilo.ca/marshmello-cryptocup-nft-makes-history-with-lunaprise-launch-on-spacex/
 
+https://www.canva.com/design/DAF8nuMr2rc/iyMTn77T1j7qffF3yhI-5w/view?utm_content=DAF8nuMr2rc&utm_campaign=designshare&utm_medium=link&utm_source=editor
+
 Full 40 page pdf can be accessed here.
 
 https://github.com/lunaprise/Lunaprise/blob/main/IM-1_Press_Kit_V1.3..pdf

@@ -6,7 +6,7 @@
 Galactic Legacy Labs along with its partners Space Blue and the Arch Mission Foundation ("AMF") made international headlines and history by sending human creativity to the lunar surface. Space Blue oversaw the final curation of the 222 art projects on the Lunaprise Museum compiling the final list of artwork, and artists and developing the certification processes for all artwork involved. The Lunaprise archive includes artists curated in the Lunar Art Archive a project steered by AMF. The Lunaprise was attached to the Odesseyus Lunar Lander which landed on the Moon on February 22nd of 2024. For the first time in over 50 years, NASA and the United States landed on the Moon, and this time with the Lunaprise, it was with a historic human and artistic timestamp of past and present, lasting in space for over 1 billion years.
 
 # Lunaprise Museum Curator
-Space Blue, under the leadership of Dallas Santana oversaw The Lunaprise museum curation and employed art historians, professors of art, blockchain advisors, NFT (nonfungible token) experts, auctioneer advisors, art collectors, sports collectors, car collectors, renowned art galleries, and news editiorial relationshipos for the assistance in compiling the final art projects selected for the museum. Learn more at https://wwww.spaceblue.club
+Space Blue, under the leadership of Dallas Santana, oversaw The Lunaprise museum curation and employed art historians, professors of art, blockchain advisors, NFT (nonfungible token) experts, auctioneer advisors, art collectors, sports collectors, car collectors, renowned art galleries, and news editorial relationships for the assistance in compiling the final art projects selected for the museum. Learn more at https://wwww.spaceblue.club
  
 ![image](https://github.com/lunaprise/Lunaprise/blob/main/Space%20Blue%20Logo.jpg?raw=true)
 
@@ -20,11 +20,11 @@ https://www.thesilo.ca/marshmello-cryptocup-nft-makes-history-with-lunaprise-lau
 
 https://www.canva.com/design/DAF8nuMr2rc/iyMTn77T1j7qffF3yhI-5w/view?utm_content=DAF8nuMr2rc&utm_campaign=designshare&utm_medium=link&utm_source=editor
 
-Full 40 page pdf can be accessed here.
+A full 40-page pdf of the IM Mission Overview can be accessed here.
 
 https://github.com/lunaprise/Lunaprise/blob/main/IM-1_Press_Kit_V1.3..pdf
 
-Open the link and donwload by clicking the arrow button on the right, so you can access the full original file. Please note, GitHub is not displaying some of the bacgkround images on its interface, thus it is best to download.
+Open the link and download by clicking the arrow button on the right, so you can access the full original file. Please note, GitHub is not displaying some of the background images on its interface, thus it is best to download them.
 
 # Support
 
@@ -34,15 +34,15 @@ For support email Curator@spaceblue.club
 # Lunaprise Metadata
 How to verify and artist/artifact or art piece is part of The Lunaprise:
 
-Visit the only authorized source for certification and authentication of artists and artifacts and art purces sent to the moon at:
+Visit the only authorized source for certification and authentication of artists and artifacts and art pieces sent to the moon at:
 https://verify.spaceblue.club
 
 
 Metadata organized from important records and data pertaining to the inscribing of artifacts and art onto to the Lunaprise discs and museum and important mission details and dates and time periods  is expected to be published here during Q4-2024. Artist names ( but a numeric key code will identify art projects) will not be included in the Metadata due to privacy policies protecting artists in the Lunaprise mission but may be shared by the artist publicly and in blockchain systems and public exhibits subject to the discretion of the artist.
 
-All Lunaprise Metadata issued is under limited  license to use by the artist and third parties  as described herein and no grant of ownership rights has been granted to to such Metadata, which may be revoked at anytime by Space Blue for violation of the Space Blue terms and conditions referenced herein. Lunaprise reserve the right to determine the methods, practices in organizing and exporting  such data and determining the final sets of metadata issued under these terms and conditions.
+All Lunaprise Metadata issued is under limited license to use by the artist and third parties as described herein and no grant of ownership rights has been granted to such Metadata, which may be revoked at any time by Space Blue for violation of the Space Blue terms and conditions referenced herein. Lunaprise reserves the right to determine the methods, and practices in organizing and exporting such data and determining the final sets of metadata issued under these terms and conditions.
 
-The art piece/artifact identifier number along with important meta data will be minted and inscribed into bitcoin ordinal  blockchain archive system to be announced after the launch of the artwork on the moon. 
+The art piece/artifact identifier number along with important metadata will be minted and inscribed into the Bitcoin ordinal  blockchain archive system to be announced after the launch of the artwork on the moon. 
 
 ## Important Metadata will include:
 
@@ -161,17 +161,19 @@ https://spaceartefacts.com/human-objects-on-the-moon
 ![image](https://github.com/user-attachments/assets/631f2371-5490-4022-b606-dafabe4d91b1)
 
 # About Space Blue
-
-![image](https://github.com/user-attachments/assets/daac9e87-823b-4e19-a227-43324b61e6c5)
-
-[![image](https://github.com/lunaprise/Lunaprise/blob/main/Space%20Blue%20Logo.jpg?raw=true)
-
 Space Blue Makes History Curating Lunaprise Moon Museum. 
 Discover an extraordinary world where art, technology, and space exploration converge. Space Blue made history on February 22nd, 2024 when the Lunar Lander Odesseyus Landed on the moon, and attached to it was the Lunaprise Museum, with 222 art projects on board curated by Space Blue. Space Blue will curate a second Lunaprise Museum and “Lunark” on a second mission-making history in 2025.
 
 Space Blue unites visionary artists, innovative NFTs, and groundbreaking projects, all fueled by our shared passion for space and a sustainable future. Engage with our global community embarking on a journey beyond the stars as we redefine the boundaries of creativity and imagination.
 
+
+![image](https://github.com/user-attachments/assets/daac9e87-823b-4e19-a227-43324b61e6c5)
+
+[![image](https://github.com/lunaprise/Lunaprise/blob/main/Space%20Blue%20Logo.jpg?raw=true)
+
+
 # Lunaprise Technical
+The images contained in this section include a sample of  actual disk images taken before during and after the installation process. (copyright Galactic Legacy Labs)
 
 ![image](https://github.com/user-attachments/assets/c5c22707-f1e0-4154-9a0c-75b99c92c7a4)
 
@@ -230,6 +232,7 @@ Open the link and download by clicking the arrow button on the right, so you can
 Additional content: https://docs.google.com/presentation/d/1hauHUDtHvXVzF1bfsT54H6fpvNwSfgfA/edit?usp=drivesdk&ouid=101025432785951918263&rtpof=true&sd=true
 
 # BTS Pictures and Videos
+BTS -behind the scenes pictures and images of both the projects development, art curation, events and launch event are being updated to be included here. Copyright Space Blue
 
 ![image](https://github.com/user-attachments/assets/55b518ff-ef3f-441c-a7b5-f3fd844f84fd)
 
@@ -244,6 +247,7 @@ Additional content: https://docs.google.com/presentation/d/1hauHUDtHvXVzF1bfsT54
 # KSC (Kennedy Space Center) Launch Event
 
 ![image](https://github.com/user-attachments/assets/d3047585-160b-4de2-a641-0c951c642959)
+Above: Dallas Santana -Space Blue Founder, Lori Taylor-Galatic Legacy Labs Co-Founder, Nova Spivach-Arch Mission Co-Founder.
 
 
 # KSC (Kennedy Space Center) Gala Event with Space Blue and Partners

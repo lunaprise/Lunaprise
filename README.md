@@ -222,13 +222,6 @@ BTS -behind the scenes pictures and images of both the projects development, art
 
 ![image](https://github.com/user-attachments/assets/55b518ff-ef3f-441c-a7b5-f3fd844f84fd)
 
-![image](https://github.com/user-attachments/assets/f8f1b7d9-850e-41a1-96ef-a32224bf2c1c)
-
-![image](https://github.com/user-attachments/assets/7da79377-a958-40aa-bed2-193d6aa62d00)
-
-![image](https://github.com/user-attachments/assets/d6ab9df3-b0f8-408d-ae79-7720628d7a6c)
-
-![image](https://github.com/user-attachments/assets/1bfef1d2-1b7d-4483-9431-8861c6485a8a)
 
 # KSC (Kennedy Space Center) Launch Event
 

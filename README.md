@@ -228,9 +228,12 @@ BTS -behind the scenes pictures and images of both the projects development, art
 ![image](https://github.com/user-attachments/assets/d3047585-160b-4de2-a641-0c951c642959)
 Above: Dallas Santana -Space Blue Founder, Lori Taylor-Galatic Legacy Labs Co-Founder, Nova Spivach-Arch Mission Co-Founder.
 
+Dignatairies and influential persons attended a black tie gala held at Kennedy Space Center on February 14th, 2024 including Shark Tank Founder Kevin Harrington, former Forbes Monaco Crypto Editor Dustin Plantholt, NASA Astronaut Trainer/Art Curator Mike Mongo,  Prince Lorenzo Di'Medici,  Galactic Legacy Labs Co Founder Lori Taylor, Space Blue Founder Dallas Santana, 7X Grammy Winner Malik Yusef,  Founders of Moon Party Kelly Max and Brayden Pierce, Bitbasel Co Founders Scott Spielberg, Scarlet Arana and Jorge Cortes, Pink Floyd former band Member Scott Page,Sundance Film Winner Michael P. Nash, Hollywood Actors and Influencers, Fashion Designers LCamero, and Dalia Mcphee, Socialite and Art Curator Stacy Engman, Chief Izzy of Lakota Indian Nation,  and numerous hedge funds/family offices, crypto and blockchain advisors and funds, and art galleries founders inlcuding Budja Gallery and artists from over 19 different countries flew in for the special occassion.
+
 
 # KSC (Kennedy Space Center) Gala Event with Space Blue and Partners
 
+View The Deck of the Keynote Speakers for the launch gala:
 https://www.canva.com/design/DAF8nuMr2rc/iyMTn77T1j7qffF3yhI-5w/view?utm_content=DAF8nuMr2rc&utm_campaign=designshare&utm_medium=link&utm_source=editor
 
 # Roadmap

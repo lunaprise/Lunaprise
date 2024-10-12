@@ -189,8 +189,6 @@ Below: Odessyus Lander Ejected from Space X Falcon 9 (illustration)
 
 ![image](https://github.com/user-attachments/assets/f16d5d69-8930-49b0-b031-1c9a983cd7c6)
 
-![image](https://github.com/user-attachments/assets/adee7ebf-ba06-46a9-9939-08ea4e4766df)
-
 ![image](https://github.com/user-attachments/assets/08ac392d-cbda-4703-b134-43939222201b)
 
 ![image](https://github.com/user-attachments/assets/eb804482-40b6-4b52-a458-b8ed10eb7350)

@@ -193,8 +193,6 @@ The images contained in this section include a sample of  actual disk images tak
 
 ![image](https://github.com/user-attachments/assets/adee7ebf-ba06-46a9-9939-08ea4e4766df)
 
-![image](https://github.com/user-attachments/assets/9fb761ef-9db1-412f-bdde-a4fd49dc90bd)
-
 ![image](https://github.com/user-attachments/assets/4c6fb135-56f4-4ad5-b9d5-e3b9dae792f0)
 
 ![image](https://github.com/user-attachments/assets/08ac392d-cbda-4703-b134-43939222201b)

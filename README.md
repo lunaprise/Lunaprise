@@ -28,7 +28,7 @@ Open the link and download by clicking the arrow button on the right, so you can
 
 # Support
 
-For support email Curator@spaceblue.club
+For support email curator@spaceblue.club
 
 
 # Lunaprise Metadata
@@ -36,6 +36,7 @@ How to verify and artist/artifact or art piece is part of The Lunaprise:
 
 Visit the only authorized source for certification and authentication of artists and artifacts and art pieces sent to the moon at:
 https://verify.spaceblue.club
+This database, and important metadata is being updated and expected that by January, 2025 will have updated with all 77,000 artifact details sent to the moon in the Lunaprise Museum.
 
 
 Metadata organized from important records and data pertaining to the inscribing of artifacts and art onto to the Lunaprise discs and museum and important mission details and dates and time periods  is expected to be published here during Q4-2024. Artist names ( but a numeric key code will identify art projects) will not be included in the Metadata due to privacy policies protecting artists in the Lunaprise mission but may be shared by the artist publicly and in blockchain systems and public exhibits subject to the discretion of the artist.
@@ -128,6 +129,8 @@ type: Object type. In the case of small objects, it is identical to its name.
 
 Mission: Official name of the mission with alternate known mission names in brackets.
 
+![image](https://github.com/user-attachments/assets/59fb2ce1-a403-4e09-8785-916709dbe3d7)
+
 https://www.spacex.com/launches/mission/?missionId=im1
 
 https://en.m.wikipedia.org/wiki/IM-1
@@ -150,10 +153,7 @@ https://spaceartefacts.com/human-objects-on-the-moon
 
 ![image](https://github.com/user-attachments/assets/a0036e78-5e24-4a65-978a-545e12e7ffd7)
 
-![image](https://github.com/user-attachments/assets/59fb2ce1-a403-4e09-8785-916709dbe3d7)
-
 ![image](https://github.com/user-attachments/assets/8fa8a315-ba21-4f60-897c-e475a842cadb)
-
 
 
 # About Lunaprise
@@ -169,8 +169,6 @@ Space Blue unites visionary artists, innovative NFTs, and groundbreaking project
 
 ![image](https://github.com/user-attachments/assets/daac9e87-823b-4e19-a227-43324b61e6c5)
 
-[![image](https://github.com/lunaprise/Lunaprise/blob/main/Space%20Blue%20Logo.jpg?raw=true)
-
 
 # Lunaprise Technical
 The images contained in this section include a sample of  actual disk images taken before during and after the installation process. (copyright Galactic Legacy Labs)
@@ -185,8 +183,6 @@ The images contained in this section include a sample of  actual disk images tak
 
 ![image](https://github.com/user-attachments/assets/474a6b7e-192e-4991-b7f7-34ddbdd420dd)
 
-![image](https://github.com/user-attachments/assets/5092db49-3546-41e0-94b3-add208848932)
-
 ![image](https://github.com/user-attachments/assets/86978369-c031-4340-bc34-43fc9ea98b3e)
 
 ![image](https://github.com/user-attachments/assets/46a77819-8f8e-4150-a522-31843397cf40)
@@ -196,8 +192,6 @@ The images contained in this section include a sample of  actual disk images tak
 ![image](https://github.com/user-attachments/assets/f16d5d69-8930-49b0-b031-1c9a983cd7c6)
 
 ![image](https://github.com/user-attachments/assets/adee7ebf-ba06-46a9-9939-08ea4e4766df)
-
-![image](https://github.com/user-attachments/assets/94718dcf-a000-4489-999e-0bb5fa8ea5c7)
 
 ![image](https://github.com/user-attachments/assets/9fb761ef-9db1-412f-bdde-a4fd49dc90bd)
 

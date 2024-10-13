@@ -77,10 +77,8 @@ The art piece/artifact identifier number along with important metadata will be m
 
 • Confidential Data per confidentiality agreements with third parties.
 
-• Artist Name
-
 • Confidential Imagery/Files
-Art Collection Name ( the artist's property may be recessed publicly at their own discretion)
+Art Collection Name ( the artist's property may be relesed publicly at their own discretion as it is protected from public viewing except with consent or artist)
 
 • Photos/video protected by confidentiality agreements.
 

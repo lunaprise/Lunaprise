@@ -177,6 +177,7 @@ The images contained in this section include a sample of  actual disk images tak
 ![image](https://github.com/user-attachments/assets/c5c22707-f1e0-4154-9a0c-75b99c92c7a4)
 
 ![image](https://github.com/user-attachments/assets/6ddf069f-3ae5-4ddf-878e-6885b0925590)
+Above "explosion" illustration reveals multiple layers on the Lunarpise discs (18 total disc levels)
 
 ![image](https://github.com/user-attachments/assets/08ac392d-cbda-4703-b134-43939222201b)
 

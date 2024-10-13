@@ -192,7 +192,8 @@ Below: Odessyus Lander Ejected from Space X Falcon 9 (illustration)
 
 ![image](https://github.com/user-attachments/assets/eb804482-40b6-4b52-a458-b8ed10eb7350)
 
-![image](https://github.com/user-attachments/assets/1bfef1d2-1b7d-4483-9431-8861c6485a8a)
+![image](https://github.com/user-attachments/assets/0046ab2a-5996-4ecf-873c-d11bc6b25321)
+
 
 Lunaprise Disc Video
 https://github.com/lunaprise/Lunaprise/blob/main/Lunaprise%20Disc%20Pictures/Lunaprise%20Disc%20Video.mp4

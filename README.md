@@ -178,10 +178,6 @@ The images contained in this section include a sample of  actual disk images tak
 
 ![image](https://github.com/user-attachments/assets/6ddf069f-3ae5-4ddf-878e-6885b0925590)
 
-Below: Odessyus Lander Ejected from Space X Falcon 9 (illustration)
-
-![image](https://github.com/user-attachments/assets/2c6dd401-d80b-4dcb-8dea-8c8cc347a69c)
-
 ![image](https://github.com/user-attachments/assets/86978369-c031-4340-bc34-43fc9ea98b3e)
 
 ![image](https://github.com/user-attachments/assets/46a77819-8f8e-4150-a522-31843397cf40)
@@ -189,6 +185,10 @@ Below: Odessyus Lander Ejected from Space X Falcon 9 (illustration)
 ![image](https://github.com/user-attachments/assets/f16d5d69-8930-49b0-b031-1c9a983cd7c6)
 
 ![image](https://github.com/user-attachments/assets/08ac392d-cbda-4703-b134-43939222201b)
+
+Below: Odessyus Lander Ejected from Space X Falcon 9 (illustration)
+
+![image](https://github.com/user-attachments/assets/2c6dd401-d80b-4dcb-8dea-8c8cc347a69c)
 
 ![image](https://github.com/user-attachments/assets/eb804482-40b6-4b52-a458-b8ed10eb7350)
 

@@ -7,8 +7,9 @@ Galactic Legacy Labs along with its partners Space Blue and the Arch Mission Fou
 
 # Lunaprise Museum Curator
 Space Blue, under the leadership of Dallas Santana, oversaw The Lunaprise museum curation and employed art historians, professors of art, blockchain advisors, NFT (nonfungible token) experts, auctioneer advisors, art collectors, sports collectors, car collectors, renowned art galleries, and news editorial relationships for the assistance in compiling the final art projects selected for the museum. Learn more at https://wwww.spaceblue.club
- 
-![image](https://github.com/lunaprise/Lunaprise/blob/main/Space%20Blue%20Logo.jpg?raw=true)
+
+![image](https://github.com/user-attachments/assets/18c6a1e0-5ccd-4bd8-a5ee-ca0c40c21238)
+
 
 # Press
 

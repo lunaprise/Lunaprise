@@ -4,6 +4,7 @@
 
 
 Galactic Legacy Labs along with its partners Space Blue and the Arch Mission Foundation ("AMF") made international headlines and history by sending human creativity to the lunar surface. Space Blue oversaw the final curation of the 222 art projects at the Lunaprise Museum compiling the final list of artwork, and artists and developing the certification processes for all artwork involved. The Lunaprise archive includes artists curated in the Lunar Art Archive a project steered by AMF. The Lunaprise was attached to the Odesseyus Lunar Lander which landed on the Moon on February 22nd of 2024. For the first time in over 50 years, NASA and the United States landed on the Moon, and this time with the Lunaprise, it was with a historic human and artistic timestamp of past and present, lasting in space for over 1 billion years.
+The landing site is within proximity of where NASA's Artemis mission is planning to send humans to land there and build a colony on the south pole region of the moon.
 
 ACCEPTABLE USES: Lunaprise retains the rights to any derived products including such as metadata used in part or whole, in part and in whole. Lunaprise hereby grants permission for news media, educators, personal, and scientific users to download and use individual metadata and related content and captions if applicable for personal, educational, and research uses without express permission. The following credit line is required: "Lunaprise-Galatic Legacy Labs-Space Bluecr 2024, used with permission". Photos and videos owned by third parties we advise you to check sources to verify if you can use them in news media and we have listed herein any such credits to third parties who supplied photos and videos.
 
@@ -118,6 +119,16 @@ The Lander's weak signal while phoning home raised questions about its orientati
  
 The mission marked the first US Moon landing in over 50 years.
 
+LUNAPRISE IS LANDED IN THE PROXIMITY OF FUTURE PLANNED NASA ARTEMIS MISSIONS TO THE SOUTH POLE OF MOON.
+As NASA prepares to send astronauts back to the Moon under Artemis, the agency has identified 13 candidate landing regions, each within proximity of the Lunaprise archives,  near the lunar South Pole. Each region contains multiple potential landing sites for Artemis III, which will be the first of the Artemis missions to bring crew to the lunar surface, including the first woman to set foot on the Moon.
+
+![image](https://github.com/user-attachments/assets/c4b9d54c-67ad-426a-9744-432db0322695)
+
+Each of these regions is located within six degrees of latitude of the lunar South Pole and, collectively, contains diverse geologic features. Together, the regions provide landing options for all potential Artemis III launch opportunities. Specific landing sites are tightly coupled to the timing of the launch window, so multiple regions ensure flexibility to launch throughout the year.
+
+To select the regions, an agency-wide team of scientists and engineers assessed the area near the lunar South Pole using data from NASA’s Lunar Reconnaissance Orbiter and decades of publications and lunar science findings. In addition to considering launch window availability, the team evaluated regions based on their ability to accommodate a safe landing, using criteria including terrain slope, ease of communications with Earth, and lighting conditions. To determine accessibility, the team also considered the combined capabilities of the Space Launch System rocket, the Orion spacecraft, and the SpaceX-provided Starship human landing system.
+
+
 ## Lunaprise  COSPAR ID: 2024- 030A
 
 ![image](https://github.com/user-attachments/assets/3fb46ec7-9ac2-4b51-a5f4-9e5336fb88b1)
@@ -197,10 +208,9 @@ Below: Odessyus Lander Ejected from Space X Falcon 9 (illustration)
 ![image](https://github.com/user-attachments/assets/c5d42047-eff4-429f-8935-c8fff3b73e33)
 Above: Oblique image showing the IM-1 landing area, acquired from an altitude of 78 kilometers with a slew angle of 64° on 2023-04-02. North is to the right, 57 kilometers wide at the center, LROC NAC M1435077792LR [NASA/GSFC/Arizona State University].
 
-![image](https://github.com/user-attachments/assets/0046ab2a-5996-4ecf-873c-d11bc6b25321)
+![image](https://github.com/user-attachments/assets/8999e490-ecc1-4ee4-98ff-deb94e5cbba8)
 
 Above: Odysseus, touched down on the Moon Thursday, 22 February, at 23:23:53 UTC (17:23 CST). The arrow indicates the Nova-C lander; the image width is 973 meters, NAC M1463440322L [NASA/GSFC/Arizona State University
-
 
 Lunaprise Disc Video
 https://github.com/lunaprise/Lunaprise/blob/main/Lunaprise%20Disc%20Pictures/Lunaprise%20Disc%20Video.mp4
@@ -242,9 +252,6 @@ Dignatairies and influential persons attended a black tie gala held at Kennedy S
 
 View The Deck of the Keynote Speakers for the launch gala:
 https://www.canva.com/design/DAF8nuMr2rc/iyMTn77T1j7qffF3yhI-5w/view?utm_content=DAF8nuMr2rc&utm_campaign=designshare&utm_medium=link&utm_source=editor
-
-# Roadmap
-
 
 # Blockchain Authentication
 

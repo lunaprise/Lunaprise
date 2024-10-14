@@ -192,6 +192,9 @@ Below: Odessyus Lander Ejected from Space X Falcon 9 (illustration)
 
 ![image](https://github.com/user-attachments/assets/eb804482-40b6-4b52-a458-b8ed10eb7350)
 
+![image](https://github.com/user-attachments/assets/c5d42047-eff4-429f-8935-c8fff3b73e33)
+Above: Oblique image showing the IM-1 landing area, acquired from an altitude of 78 kilometers with a slew angle of 64° on 2023-04-02. North is to the right, 57 kilometers wide at the center, LROC NAC M1435077792LR [NASA/GSFC/Arizona State University].
+
 ![image](https://github.com/user-attachments/assets/0046ab2a-5996-4ecf-873c-d11bc6b25321)
 
 Above: Odysseus, touched down on the Moon Thursday, 22 February, at 23:23:53 UTC (17:23 CST). The arrow indicates the Nova-C lander; the image width is 973 meters, NAC M1463440322L [NASA/GSFC/Arizona State University

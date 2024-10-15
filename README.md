@@ -6,10 +6,13 @@
 Galactic Legacy Labs along with its partners Space Blue and the Arch Mission Foundation ("AMF") made international headlines and history by sending human creativity to the lunar surface. Space Blue oversaw the final curation of the 222 art projects at the Lunaprise Museum compiling the final list of artwork, and artists and developing the certification processes for all artwork involved. The Lunaprise archive includes artists curated in the Lunar Art Archive a project steered by AMF. The Lunaprise was attached to the Odesseyus Lunar Lander which landed on the Moon on February 22nd of 2024. For the first time in over 50 years, NASA and the United States landed on the Moon, and this time with the Lunaprise, it was with a historic human and artistic timestamp of past and present, lasting in space for over 1 billion years.
 The landing site is within proximity of where NASA's Artemis mission is planning to send humans to land there and build a colony on the south pole region of the moon.
 
-![image](https://github.com/user-attachments/assets/d02734ed-9b22-44af-8a4e-820fd89e9c2f)
-The image above shows the location of 18 layered Lunaprise Time Capsule Disc Systems bolted to the Odessyus lander,  which stored over 77,000 artifacts(images, mp3s, mp4 files). The image on the right part shows an actual image of the Odessyus lunar lander on the south pole of the moon snapped by Lunar camera "selfie".
+GitHub USE: The purpose of the Lunaprise archive and depository in Github is to deposit and provide the public worldwide access to important metadata from the Lunaprise Time Capsule and Moon-based Lunar Museum, along with important descriptive information about the project.
 
-ACCEPTABLE USES: Lunaprise retains the rights to any derived products including such as metadata used in part or whole, in part and in whole. Lunaprise hereby grants permission for news media, educators, personal, and scientific users to download and use individual metadata and related content and captions if applicable for personal, educational, and research uses without express permission. The following credit line is required: "Lunaprise-Galatic Legacy Labs-Space Bluecr 2024, used with permission". Photos and videos owned by third parties we advise you to check sources to verify if you can use them in news media and we have listed herein any such credits to third parties who supplied photos and videos.
+
+![image](https://github.com/user-attachments/assets/d02734ed-9b22-44af-8a4e-820fd89e9c2f)
+The image above shows the location of 18 layered Lunaprise Time Capsule Disc Systems bolted to the Odessyus lander,  which stored over 77,000 artifacts(images, mp3s, mp4 files). The image on the right part shows an actual image of the Odessyus lunar lander on the south pole of the moon snapped by a Lunar camera "selfie".
+
+ACCEPTABLE PUBLIC USES: Lunaprise retains the rights to any derived products including search engine-type applications, and metadata retrieval programs developed using such metadata used in part or whole, in part and in whole. Lunaprise hereby grants permission for news media, educators, personal, and scientific users to download and use individual metadata and related content and captions if applicable for personal, educational, and research uses without express permission. The following credit line is required: "Lunaprise-Galatic Legacy Labs-Space Bluecr 2024, used with permission". Photos and videos owned by third parties we advise you to check sources to verify if you can use them in news media and we have listed herein any such credits to third parties who supplied photos and videos.
 
 # Lunaprise Museum Curator
 Space Blue, under the leadership of Dallas Santana, oversaw The Lunaprise museum curation and employed art historians, professors of art, blockchain advisors, NFT (nonfungible token) experts, auctioneer advisors, art collectors, sports collectors, car collectors, renowned art galleries, and news editorial relationships for the assistance in compiling the final art projects selected for the museum. Learn more at https://wwww.spaceblue.club
@@ -18,6 +21,7 @@ Space Blue, under the leadership of Dallas Santana, oversaw The Lunaprise museum
 
 
 # Press
+Impoortant press descibing the project:
 
 https://spaceblue.club/press-kit
 
@@ -149,7 +153,8 @@ Mission: Official name of the mission with alternate known mission names in br
 
 ![image](https://github.com/user-attachments/assets/59fb2ce1-a403-4e09-8785-916709dbe3d7)
 
-OTHER IMPORTANT LINKS TO THE SPACE MISSION HISTORY
+OTHER IMPORTANT LINKS TO THE LUNAPRISE MISSION HISTORY
+Lunaprise is a private payload organized by Galatic Legacy Labs and, curated by Space Blue, and bolted to the exterior Odessyus lander. Neither SpaceX, NASA, or The manufacturer of the Odesyus lander have any involvement in the content of the Lunaprise archive including its artwork, artifacts, and metadata. 
 
 https://www.spacex.com/launches/mission/?missionId=im1
 

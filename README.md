@@ -7,7 +7,7 @@ Galactic Legacy Labs along with its partners Space Blue and the Arch Mission Fou
 The landing site is within proximity of where NASA's Artemis mission is planning to send humans to land there and build a colony on the south pole region of the moon.
 
 ![image](https://github.com/user-attachments/assets/6ddf069f-3ae5-4ddf-878e-6885b0925590)
-Above "explosion" illustration reveals multiple layers on the Lunarpise discs (18 total disc levels)
+ The above "explosion" illustration reveals multiple layers on the Lunarpise discs (18 total disc levels)
 
 ACCEPTABLE USES: Lunaprise retains the rights to any derived products including such as metadata used in part or whole, in part and in whole. Lunaprise hereby grants permission for news media, educators, personal, and scientific users to download and use individual metadata and related content and captions if applicable for personal, educational, and research uses without express permission. The following credit line is required: "Lunaprise-Galatic Legacy Labs-Space Bluecr 2024, used with permission". Photos and videos owned by third parties we advise you to check sources to verify if you can use them in news media and we have listed herein any such credits to third parties who supplied photos and videos.
 

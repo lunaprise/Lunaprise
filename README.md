@@ -173,9 +173,6 @@ https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=IM-1-NOVA
 
 https://en.wikipedia.org/wiki/List_of_artificial_objects_on_the_Moon
 
-
-![image](https://github.com/user-attachments/assets/47f33769-2888-4a10-8400-fc30ec03a23b)
-
 ![image](https://github.com/user-attachments/assets/ea1f6f03-0858-4aca-841b-c298e478ec38)
 
 ![image](https://github.com/user-attachments/assets/ee27bd59-87b1-4666-ae50-29ec8c86390f)
@@ -199,6 +196,9 @@ Space Blue unites visionary artists, innovative NFTs, and groundbreaking project
 
 # Lunaprise Technical
 The images contained in this section include a sample of  actual disk images taken before during and after the installation process. (copyright Galactic Legacy Labs)
+
+![image](https://github.com/user-attachments/assets/9fd57cbf-1693-4287-81b9-eaddbd57c2cf)
+
 
 ![image](https://github.com/user-attachments/assets/6ddf069f-3ae5-4ddf-878e-6885b0925590)
  The above "explosion" illustration reveals multiple layers on the Lunarpise discs (18 total disc levels)

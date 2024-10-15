@@ -81,7 +81,7 @@ The art piece/artifact identifier number along with important metadata will be m
 • Confidential Data per confidentiality agreements with third parties.
 
 • Confidential Imagery/Files
-Art Collection Name ( the artist's property may be relesed publicly at their own discretion as it is protected from public viewing except with consent or artist)
+Art Collection Name ( the artist's property may be released publicly at their own discretion as it is protected from public viewing except with consent or artist)
 
 • Photos/video protected by confidentiality agreements.
 
@@ -121,6 +121,7 @@ The mission marked the first US Moon landing in over 50 years.
 
 LUNAPRISE IS LANDED IN THE PROXIMITY OF FUTURE PLANNED NASA ARTEMIS MISSIONS TO THE SOUTH POLE OF MOON.
 As NASA prepares to send astronauts back to the Moon under Artemis, the agency has identified 13 candidate landing regions, each within proximity of the Lunaprise archives,  near the lunar South Pole. Each region contains multiple potential landing sites for Artemis III, which will be the first of the Artemis missions to bring crew to the lunar surface, including the first woman to set foot on the Moon.
+https://www.nasa.gov/news-release/nasa-identifies-candidate-regions-for-landing-next-americans-on-moon/
 
 ![image](https://github.com/user-attachments/assets/c4b9d54c-67ad-426a-9744-432db0322695)
 

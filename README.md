@@ -21,7 +21,7 @@ Space Blue, under the leadership of Dallas Santana, oversaw The Lunaprise museum
 
 
 # Press
-Impoortant press descibing the project:
+Important press descibing the project:
 
 https://spaceblue.club/press-kit
 

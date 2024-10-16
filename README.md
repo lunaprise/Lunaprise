@@ -106,8 +106,6 @@ BitBasel UN SDG Challenge Winners, "The Sci-Fi 9th Raider" full feature film co-
 _Art Title "Moontage"  Artist: Michael P. Nash 2024. The image depicts a representation of bits of art pieces collected from the Lunaprise Discs sent to the moon. Only 222 of the 77,000+ artifacts sent on the Lunaprise 16 disc layers  are represented here in a commemorative Art piece representing over 30,000 years of human art and culture,  done by Nash in collaboration with Lunaprise Museum curator Dallas Santana_
 
 # Space Mission Overview:
-# -Launched from Kennedy Space Center on February 15th, 2024
-# -Landed on the South Pole of the Moon on February 22nd, 2024
 
 ![image](https://github.com/user-attachments/assets/a81db917-9381-4212-805e-00d5392e50fc)
 

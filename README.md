@@ -125,6 +125,10 @@ The Lander's weak signal while phoning home raised questions about its orientati
 222 art projects in the Lunaprise spanning over 30,000 years of human history set hundreds of space archives and art history records.
  
 The mission marked the first US Moon landing in over 50 years.
+![image](https://github.com/user-attachments/assets/2df26a2c-509f-42ba-a00c-3ace13ffb21e)
+Above: Odessyus Lander Ejected from Space X Falcon 9 (illustration)
+
+![image](https://github.com/user-attachments/assets/ee27bd59-87b1-4666-ae50-29ec8c86390f)
 
 LUNAPRISE IS LANDED ON MOON'S SOUTH POLE- THE PROXIMITY OF FUTURE PLANNED NASA ARTEMIS MISSIONS TO THE SOUTH POLE OF MOON.
 ![image](https://github.com/user-attachments/assets/c3ce0cba-127c-484d-a2e3-c3b59ee87649)
@@ -173,12 +177,6 @@ https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=IM-1-NOVA
 
 https://en.wikipedia.org/wiki/List_of_artificial_objects_on_the_Moon
 
-![image](https://github.com/user-attachments/assets/2df26a2c-509f-42ba-a00c-3ace13ffb21e)
-Above: Odessyus Lander Ejected from Space X Falcon 9 (illustration)
-
-![image](https://github.com/user-attachments/assets/ea1f6f03-0858-4aca-841b-c298e478ec38)
-
-![image](https://github.com/user-attachments/assets/ee27bd59-87b1-4666-ae50-29ec8c86390f)
 
 ![image](https://github.com/user-attachments/assets/8fa8a315-ba21-4f60-897c-e475a842cadb)
 

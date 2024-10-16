@@ -1,8 +1,8 @@
 # The Project
 
 ![image](https://github.com/user-attachments/assets/2573aafd-2ad8-43ed-81d7-a1965595b6b3)
-# launched on Space X Falcon 9 on 2.25.2024 from Kennedy Space Center
-# landed on Moon South Pole on 2.22.2024 
+# Launched on Space X Falcon 9 on 2.25.2024 from Kennedy Space Center
+# Landed on Moon South Pole on 2.22.2024 
 # Location: Malapert Latitude Longitude Diameter A 80.13°S 1.44°E
 
 Galactic Legacy Labs along with its partners Space Blue and the Arch Mission Foundation ("AMF") made international headlines and history by sending human creativity to the lunar surface. Space Blue oversaw the final curation of the 222 art projects at the Lunaprise Museum compiling the final list of artwork, and artists and developing the certification processes for all artwork involved. The Lunaprise archive includes artists curated in the Lunar Art Archive, a project steered by AMF. The Lunaprise was attached to the Odesseyus Lunar Lander which landed on the Moon on February 22nd of 2024. For the first time in over 50 years, NASA and the United States landed on the Moon, and this time with the Lunaprise, it was with a historic human and artistic timestamp of past and present, lasting in space for over 1 billion years.

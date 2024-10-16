@@ -23,7 +23,7 @@ Space Blue, under the leadership of Dallas Santana, oversaw The Lunaprise museum
 
 
 # Press
-Important press descibing the project:
+Important press describing the project:
 
 https://spaceblue.club/press-kit
 
@@ -47,12 +47,12 @@ For support email curator@spaceblue.club
 # Lunaprise Metadata
 How to verify and artist/artifact or art piece is part of The Lunaprise:
 
-Visit the only authorized source for certification and authentication of artists and artifacts and art pieces sent to the moon at:
-https://verify.spaceblue.club
-This database, and important metadata is being updated and expected that by January, 2025 will have updated with all 77,000 artifact details sent to the moon in the Lunaprise Museum.
+# Visit the only authorized source for certification and authentication of artists and artifacts and art pieces sent to the moon at: https://verify.spaceblue.club
+
+This database and important metadata are being updated and expected that by January 2025 will have been updated with all 77,000 artifact details sent to the moon in the Lunaprise Museum.
 
 
-Metadata organized from important records and data pertaining to the inscribing of artifacts and art onto to the Lunaprise discs and museum and important mission details and dates and time periods  is expected to be published here during Q4-2024. Artist names ( but a numeric key code will identify art projects) will not be included in the Metadata due to privacy policies protecting artists in the Lunaprise mission but may be shared by the artist publicly and in blockchain systems and public exhibits subject to the discretion of the artist.
+Metadata organized from important records and data pertaining to the inscribing of artifacts and art onto to the Lunaprise discs and museum and important mission details and dates and time periods is expected to be published here during Q4-2024. Artist names ( but a numeric key code will identify art projects) will not be included in the Metadata due to privacy policies protecting artists in the Lunaprise mission but may be shared by the artist publicly and in blockchain systems and public exhibits subject to the discretion of the artist.
 
 All Lunaprise Metadata issued is under limited license to use by the artist and third parties as described herein and no grant of ownership rights has been granted to such Metadata, which may be revoked at any time by Space Blue for violation of the Space Blue terms and conditions referenced herein. Lunaprise reserves the right to determine the methods, and practices in organizing and exporting such data and determining the final sets of metadata issued under these terms and conditions.
 
@@ -90,7 +90,7 @@ The art piece/artifact identifier number along with important metadata will be m
 • Confidential Data per confidentiality agreements with third parties.
 
 • Confidential Imagery/Files
-Art Collection Name ( the artist's property may be released publicly at their own discretion as it is protected from public viewing except with consent or artist)
+Art Collection Name ( the artist's property may be released publicly at their own discretion as it is protected from public viewing except with consent or the artist)
 
 • Photos/video protected by confidentiality agreements.
 
@@ -246,7 +246,7 @@ Open the link and download by clicking the arrow button on the right, so you can
 Additional content: https://docs.google.com/presentation/d/1hauHUDtHvXVzF1bfsT54H6fpvNwSfgfA/edit?usp=drivesdk&ouid=101025432785951918263&rtpof=true&sd=true
 
 # BTS Pictures and Videos
-BTS -behind the scenes pictures and images of both the projects development, art curation, events and launch event are being updated to be included here. Copyright Space Blue
+BTS -behind-the-scenes pictures and images of both the project development, art curation, events, and launch event are being updated to be included here. Copyright Space Blue
 [Being updated here October, 2024]
 
 # KSC (Kennedy Space Center) Launch Event
@@ -254,7 +254,7 @@ BTS -behind the scenes pictures and images of both the projects development, art
 ![image](https://github.com/user-attachments/assets/d3047585-160b-4de2-a641-0c951c642959)
 Above: Dallas Santana -Space Blue Founder, Lori Taylor-Galatic Legacy Labs Co-Founder, Nova Spivach-Arch Mission Co-Founder.
 
-Dignatairies and influential persons attended a black tie gala held at Kennedy Space Center on February 14th, 2024 including Shark Tank Founder Kevin Harrington, former Forbes Monaco Crypto Editor Dustin Plantholt, NASA Astronaut Trainer/Art Curator Mike Mongo,  Prince Lorenzo Di'Medici,  Galactic Legacy Labs Co Founder Lori Taylor, Space Blue Founder Dallas Santana, 7X Grammy Winner Malik Yusef,  Founders of Moon Party Kelly Max and Brayden Pierce, Bitbasel Co Founders Scott Spielberg, Scarlet Arana and Jorge Cortes, Pink Floyd former band Member Scott Page,Sundance Film Winner Michael P. Nash, Hollywood Actors and Influencers, Fashion Designers LCamero, and Dalia Mcphee, Socialite and Art Curator Stacy Engman, Chief Izzy of Lakota Indian Nation,  and numerous hedge funds/family offices, crypto and blockchain advisors and funds, and art galleries founders inlcuding Budja Gallery and artists from over 19 different countries flew in for the special occassion.
+Dignitaries and influential persons attended a black tie gala held at Kennedy Space Center on February 14th, 2024 including Shark Tank Founder Kevin Harrington, former Forbes Monaco Crypto Editor Dustin Plantholt, NASA Astronaut Trainer/Art Curator Mike Mongo,  Prince Lorenzo Di'Medici,  Galactic Legacy Labs Co-Founder Lori Taylor, Space Blue Founder Dallas Santana, 7X Grammy Winner Malik Yusef,  Founders of Moon Party Kelly Max and Brayden Pierce, Bitbasel Co-Founders Scott Spielberg, Scarlet Arana and Jorge Cortes, Pink Floyd former band Member Scott Page, Sundance Film Winner Michael P. Nash, Hollywood Actors and Influencers, Fashion Designers LCamero, and Dalia Mcphee, Socialite and Art Curator Stacy Engman, Chief Izzy of Lakota Indian Nation,  and numerous hedge funds/family offices, crypto and blockchain advisors and funds, and art galleries founders including Budja Gallery and artists from over 19 different countries flew in for the special occasion.
 
 
 # KSC (Kennedy Space Center) Gala Event with Space Blue and Partners
@@ -264,9 +264,9 @@ https://www.canva.com/design/DAF8nuMr2rc/iyMTn77T1j7qffF3yhI-5w/view?utm_content
 
 # Blockchain Authentication
 
-Visit the only authorized source for certification and authentication including blockchain inscriptions of artists and artifacts and art purces sent to the moon at:
+Visit the only authorized source for certification and authentication including blockchain inscriptions of artists and artifacts and art pieces sent to the moon at:
 https://verify.spaceblue.club
 
-Note: Metadata, and blockchain authentication will commence being added to the above verification site during Fall,2024.
+# Note: Metadata and blockchain authentication will commence being added to the above verification site during Fall,2024.
 
 

@@ -214,8 +214,6 @@ The images contained in this section include a sample of  actual disk images tak
 
 ![image](https://github.com/user-attachments/assets/f16d5d69-8930-49b0-b031-1c9a983cd7c6)
 
-![image](https://github.com/user-attachments/assets/eb804482-40b6-4b52-a458-b8ed10eb7350)
-
 ![image](https://github.com/user-attachments/assets/c5d42047-eff4-429f-8935-c8fff3b73e33)
 Above: Oblique image showing the IM-1 landing area, acquired from an altitude of 78 kilometers with a slew angle of 64° on 2023-04-02. North is to the right, 57 kilometers wide at the center, LROC NAC M1435077792LR [NASA/GSFC/Arizona State University].
 

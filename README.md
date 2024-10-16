@@ -245,9 +245,7 @@ Additional content: https://docs.google.com/presentation/d/1hauHUDtHvXVzF1bfsT54
 
 # BTS Pictures and Videos
 BTS -behind the scenes pictures and images of both the projects development, art curation, events and launch event are being updated to be included here. Copyright Space Blue
-
-![image](https://github.com/user-attachments/assets/55b518ff-ef3f-441c-a7b5-f3fd844f84fd)
-
+[Being updated here October, 2024]
 
 # KSC (Kennedy Space Center) Launch Event
 

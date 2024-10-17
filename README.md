@@ -97,6 +97,8 @@ Art Collection Name ( the artist's property may be released publicly at their ow
 • Third-party data not under the control of Galactic Legacy Labs and Space Blue
 
 # Lunaprise 222 Art Projects
+![image](https://github.com/user-attachments/assets/d3e29072-b233-4e99-aac1-19aa12cff7db)
+
 222 artists spanning over 30,000 years includes 100 of the greatest painters of all time, Lunar Records (compilation of music anthology including many notable Grammy-winning icons like Jimmi Hendrix, The Who, Pink Floyd, James Brown, Elvis, Janis Joplin, Jefferson Airplane, Bob Dylan, and many more including contemporary artists Timbaland, Justin Timberlake, Taylor Swift, Scott Page, 99Journey, Yanni, Sabrina Carpenter, Becky G, Billy Ray Cyrus and hundreds more), 
 BitBasel UN SDG Challenge Winners, "The Sci-Fi 9th Raider" full feature film co-starring "CL7" (NFT collector) and Disney star Daniel Curtis Lee, Kelly Max & Samy Halim's Modernist Art and Collections, "Capture The Moon [Modernist Edition]" by Brayden Pierce, the X PUNKS collection, Legion Universe (Stan Lee characters and screenplay), the award-winning documentary film and Sundance Winner "Climate Refugees I,"NFT art from Climate Refugees I, beats from multi-Grammy-winning producer Timbaland (including contributions to Justin Timberlake and Jay-Z), Scott Page (Pink Floyd), seven-time Grammy-winning producer Malik Yusef (known for collaborations with "Beyonce"), Marshmello (aka @cryptopup) as the first dog character to return to the moon since "Snoopy" in 1969, the captivating photography of award-winning photographer Pepe Soho, collectibles of 400 athletes of all time, rarest stamps, rare numisatic coins, Lunaprise Hall of Fame homorong the grreatest icons, leaders, business titans… and more.
 

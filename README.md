@@ -1,7 +1,7 @@
 # The Project
 
 ![image](https://github.com/user-attachments/assets/2573aafd-2ad8-43ed-81d7-a1965595b6b3)
-# Launched on Space X Falcon 9 on 2.25.2024 from Kennedy Space Center
+# Launched on Space X Falcon 9 on 2.15.2024 from Kennedy Space Center
 # Landed on Moon South Pole on 2.22.2024 
 # Location: Malapert Latitude Longitude Diameter A 80.13°S 1.44°E
 

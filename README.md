@@ -247,6 +247,10 @@ Open the link and download by clicking the arrow button on the right, so you can
 
 Additional content: https://docs.google.com/presentation/d/1hauHUDtHvXVzF1bfsT54H6fpvNwSfgfA/edit?usp=drivesdk&ouid=101025432785951918263&rtpof=true&sd=true
 
+# Lunaprise Mission Identity
+
+Access the full Lunaprise Mission Identity pdf here: https://github.com/lunaprise/Lunaprise/blob/main/Lunaprise%20Mission%20Identity.pdf
+
 # BTS Pictures and Videos
 BTS -behind-the-scenes pictures and images of both the project development, art curation, events, and launch event are being updated to be included here. Copyright Space Blue
 [Being updated here October, 2024]

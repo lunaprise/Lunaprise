@@ -109,7 +109,8 @@ _Art Title "Moontage"  Artist: Michael P. Nash 2024. The image depicts a represe
 
 # Lunaprise Official Certified Artist and Fact Sheet Report Version 1.0 Dated 2.22.2024
 
-https://github.com/lunaprise/Lunaprise/blob/main/Lunaprise%20Official%20Certified%20Artist%20and%20Fact%20Sheet%20Report.pdf
+Access the Lunaprise Official Certified Artist and Fact Sheet Report Version 1.0 Dated 2.22.2024 full version here:
+https://github.com/lunaprise/Lunaprise/blob/main/Lunaprise%20Official%20Certified%20Artist%20and%20Fact%20Sheet%20Report%20Version%201.pdf
 
 # Space Mission Overview:
 

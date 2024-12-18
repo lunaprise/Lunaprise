@@ -112,6 +112,21 @@ _Art Title "Moontage"  Artist: Michael P. Nash 2024. The image depicts a represe
 Access the Lunaprise Official Certified Artist and Fact Sheet Report Version 1.0 Dated 2.22.2024 full version here:
 https://github.com/lunaprise/Lunaprise/blob/main/Lunaprise%20Official%20Certified%20Artist%20and%20Fact%20Sheet%20Report%20Version%201.pdf
 
+Title: The Making of Lunar Artifact #777- CL7-Dallas Santana- The 9th Raider Movie .
+Commissioned by director Dallaa Samtana, director of The 9th Raider, an experimental NFT Digital Bircoin Powered Film starring art collectors CL7, their desire to create a live painting envisioning thr future in space. 3 years later that vision became a reality with the first feature film archived on the moon. Learn more at www the9thraider.com 
+
+https://vimeo.com/momentumstudiosusa/review/712660981/891331a680
+
+https://apnews.com/press-release/ez-newswire/movies-marshmello-television-0ba1eced4b36857ccb0fab2987ba6e9f
+
+https://www.niftygateway.com/collections/9thraidermovie/
+
+https://www.imdb.com/title/tt30131675/
+
+https://youtu.be/zWefZEX0JvY?feature=shared
+
+https://vimeo.com/momentumstudiosusa/review/911110319/b5b37a3446
+
 # Space Mission Overview:
 
 ![image](https://github.com/user-attachments/assets/a81db917-9381-4212-805e-00d5392e50fc)

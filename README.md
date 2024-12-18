@@ -113,7 +113,7 @@ Access the Lunaprise Official Certified Artist and Fact Sheet Report Version 1.0
 https://github.com/lunaprise/Lunaprise/blob/main/Lunaprise%20Official%20Certified%20Artist%20and%20Fact%20Sheet%20Report%20Version%201.pdf
 
 Title: The Making of Lunar Artifact #777- CL7-Dallas Santana- The 9th Raider Movie .
-Commissioned by director Dallaa Samtana, director of The 9th Raider, an experimental NFT Digital Bircoin Powered Film starring art collectors CL7, their desire to create a live painting envisioning thr future in space. 3 years later that vision became a reality with the first feature film archived on the moon. Learn more at www the9thraider.com 
+Commissioned by director Dallas Samtana, director of The 9th Raider, an experimental NFT Digital Bircoin Powered Film starring art collector CL7, their desire to create a live painting envisioning thr future in space. 3 years later that vision became a reality with the first feature film archived on the moon. Learn more at www the9thraider.com 
 
 https://vimeo.com/momentumstudiosusa/review/712660981/891331a680
 

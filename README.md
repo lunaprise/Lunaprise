@@ -114,26 +114,24 @@ https://github.com/lunaprise/Lunaprise/blob/main/Lunaprise%20Official%20Certifie
 
 This section below highlights the groundbreaking art and cultural projects representing significant "firsts" for the Lunaprise Mission, marking notable contributions to the lunar art museum. Of the 77,000 artifacts sent to the Lunaprise Museum on the moon, the following 10 projects are being highlighted and a full list of all art projects is above.
 
+# First Renaissance Era Art "Twin" 1:1 Priceless Artifacts Inscribed into the Lunaprise Museum On the Moon:
+Curator: Space Blue along with its art advisors, art professors, art media leaders, and key opinion leaders.
+Collection: "Eternals Collection"-From Leonardo Da Vinci, Van Gough, Michaelangelo -centuries of what has become "Eternal Art" featuring 100 masterpieces, encapsulating the evolution of  fine art over five centuries.
 
-# First Renaissance Era Art History Museum on the Moon:
-Curator: Space Blue
-Collection: "Eternals Collection"-From Leonardo Da Vinci, Van Gough, Michangelo -centuries of "Eternal Art" featuring 100 masterpieces, encapsulating the evolution of  fine art over five centuries.
+# First Bitcion Artwork and Bitcoin White Paper On the Moon.
+The first installation of the earth of Bitcoin White Paper is now archived for over 1 billion years, along with private keys for Bitcoin, and archiving of Bitcoin storytelling and art collections through Bitcoin crypto art projects which are inscribed onto the metal discs in the Lunaprise Museum on the moon and pre-planned prior to the landing to be inscribed as bitcoin ordinal artifacts which will also last forever there. A prior attempt was made unsuccessfully in January 2024 by a previous mission to land Bitcoin on the moon, and the mission ended with the capsule burning up in the earth's atmosphere, resulting in the Lunaprise and Space Blue and its curator Dallas Santana taking credit for the first bitcoin to land on the moon literally.
 
-# Bitcion Artwork and Bitcoin White Paper
-The first installation off the earth of the Bitcoin White Paper is now archived for over 1 billion years, and private keys for Bitcoin, and archiving of Bitcoin storytelling through Bitcoin crypto art projects inscribed onto the metal discs in the Lunaprise Museum on the moon. 
-
-# First Grammy Winning and Iconic Music Archive on Moon: Lunar Records
-Details: A compilation of 777 top songs of all time, including a special focus on the Woodstock era "Summer of Love" top 30 music artists which were in the same month as the Apollo 11 first moon landing. Plus nearly 7000 artifacts of art, photographs, and video by Scott Page (Pink Floyd Band Member) including Pink Floyd tours, moments with Mick Jagger and the Rolling Stones, captured moments with Princess Diana, and other historic moments. Music archives in private  playlists include Grammy hits and beats of Timbaland, Justin Timberlake, Taylor Swift, Becky G, and earlier works of Sabrina Carpenter.
+# First Grammy Winning and Iconic Music Archive on Moon: 777 top songs of all time by Lunar Records
+Details: A compilation of 777 top songs of all time, including a special focus on the Woodstock era "Summer of Love" top 30 music artists airing worldwide in the same month as the Apollo 11 first moon landing by humans in July 1969. Plus nearly 7000 artifacts of art, photographs, and video by Scott Page (Pink Floyd Band Member) including Pink Floyd tours, moments with Mick Jagger and the Rolling Stones, captured moments with Princess Diana, and other historic moments. Music archives in private  playlists include Grammy hits and beats of Timbaland, Justin Timberlake, Taylor Swift, Becky G, and earlier works of Sabrina Carpenter.
 
 # First Numismatic Super Rare Coin Collection:
 Collection: Numismatic Rare Coins Spanning 30,000+ Years
-Curator: NFT Blue, showcasing a vast collection of rare coins, including "Coins of the Bible" inscribed as 1:1 exact replicas.
+Curator: NFT Blue, showcasing a vast collection of rare coins, including "Coins of the Bible" inscribed as 1:1 exact replicas onto the metallic plates in the Lunaprise archive.
 
 # First  Super Rare Stamps of the World on the Moon:
 Collection: Curated by NFT Blue, this represents the first comprehensive collection of rare stamps throughout history, inscribed as 1:1 twins onto the metal discs of the Lunaprise museum.
 
 # First Sports Hall of Fame on Moon:
-
 Collection: 400 Masters Of Sports
 Curator: NFT Blue, documenting the achievements of sports legends through  art and sports collectibles from Tom Brady, Muhammed Ali, and Jesse Ownes, including the greatest 100 pro football players of all time, the greatest 20 basketball players of all time, and legends of Boxing, Formula 1, Olympic stars and top female athletes.
 
@@ -151,6 +149,8 @@ Yielding 222 million lunarbits of space which is mirrored to the first Bitcoin O
 
 # Hall of Fame: Top Titans and Influential Leaders and Icons Inscribed in Lunar Hall of Fame
 Recognizing the top leaders of the past century. Notable Names inscribed into the hall of fame onto the metallic disks of the Lunaprise,  include SpaceX Founder Elon Musk, Thomas Edison, Nickoli Tesla,  President Donald J. Trump, Mother Theresa, Queen Elizabeth, Dr. Martin Luther King, President John F. Kennedy, Olympian Jesse Owens, President Ronald Reagan,  Theodore Roosevelt, Thomas Edison;  a total of 100 of the most influential persons in 100 past years are recognized and an additional list of 100 top influencers and key opinion leaders are inscribed into the Lunar Hall of Fame, along  100 top Web 3.0/cryptocurrency pioneers including Satoshi Nakamoto, whose innovation makes it possible to authenticate earth artifacts, collectibles and art assets linked to the Lunaprise Archive on the Moon.
+![image](https://github.com/user-attachments/assets/10016f5c-16cd-4d49-85c0-31ac41f1ba14)
+
 
 
 # Title: The Making of Lunar Artifact #777- CL7-Dallas Santana- The 9th Raider Movie .

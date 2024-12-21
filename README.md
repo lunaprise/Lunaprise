@@ -112,22 +112,18 @@ _Art Title "Moontage"  Artist: Michael P. Nash 2024. The image depicts a represe
 Access the Lunaprise Official Certified Artist and Fact Sheet Report Version 1.0 Dated 2.22.2024 full version here:
 https://github.com/lunaprise/Lunaprise/blob/main/Lunaprise%20Official%20Certified%20Artist%20and%20Fact%20Sheet%20Report%20Version%201.pdf
 
-This section highlights the groundbreaking art and cultural projects that represent significant "firsts" for the Lunaprise Mission, marking notable contributions to the lunar art museum. Of the 77,000 artifacts sent to the Lunaprise museum on the moon, the following 10 projects are being highlighted.
+This section below highlights the groundbreaking art and cultural projects representing significant "firsts" for the Lunaprise Mission, marking notable contributions to the lunar art museum. Of the 77,000 artifacts sent to the Lunaprise Museum on the moon, the following 10 projects are being highlighted and a full list of all art projects is above.
 
 
 # First Renaissance Era Art History Museum on the Moon:
 Curator: Space Blue
-Collection: "Eternals Collection"-From Leonardo Davinci, Van Gough, Michangelo -centuries of "Eternal Art" featuring 100 masterpieces, encapsulating the evolution of  fine art over five centuries.
+Collection: "Eternals Collection"-From Leonardo Da Vinci, Van Gough, Michangelo -centuries of "Eternal Art" featuring 100 masterpieces, encapsulating the evolution of  fine art over five centuries.
 
 # Bitcion Artwork and Bitcoin White Paper
-The first installation off the earth of the Bitcoin White Paper, private keys for Bitcoin and Bitcoin storytelling through Bitcoin crypto art projects inscribed onto the metal discs in the Lunaprise Museum on the moon. 
+The first installation off the earth of the Bitcoin White Paper is now archived for over 1 billion years, and private keys for Bitcoin, and archiving of Bitcoin storytelling through Bitcoin crypto art projects inscribed onto the metal discs in the Lunaprise Museum on the moon. 
 
-# First Award-Winning Climate Change Documentary Film:
-Film: Climate Refugees Documentary+Art
-Creator: Michael P. Nash, marking the first documentary film project on the moon, and interviews with George Dicaprio (father of Leonardo Dicaprio) and treatment and poster art of the second film executive produced with Michael P. Nash and Leonardo Dicaprio.
-
-# First Music Archive on Moon: Lunar Records
-Details: A compilation of 777 top songs of all time, including a special focus on the Woodstock era "Summer of Love" top 30 music artists which were in the same month as the Apollo 11 first moon landing. Plus nearly 7000 artifacts of art, photographs, and video by Scott Page (Pink Floyd Band Member) including Pink Floyd tours, moments with Mick Jagger and the Rolling Stones, captured moments with Princess Diana, and other historic moments. Music archives in private  playlists include grammy hits and beats of Timbaland, Justin Timberlake, Taylor Swift, Becky G, and earlier works of Sabrina Carpenter.
+# First Grammy Winning and Iconic Music Archive on Moon: Lunar Records
+Details: A compilation of 777 top songs of all time, including a special focus on the Woodstock era "Summer of Love" top 30 music artists which were in the same month as the Apollo 11 first moon landing. Plus nearly 7000 artifacts of art, photographs, and video by Scott Page (Pink Floyd Band Member) including Pink Floyd tours, moments with Mick Jagger and the Rolling Stones, captured moments with Princess Diana, and other historic moments. Music archives in private  playlists include Grammy hits and beats of Timbaland, Justin Timberlake, Taylor Swift, Becky G, and earlier works of Sabrina Carpenter.
 
 # First Numismatic Super Rare Coin Collection:
 Collection: Numismatic Rare Coins Spanning 30,000+ Years
@@ -150,11 +146,11 @@ Details: A tribute to Stan Lee's legacy, inscribed as a Bitcoin Ordinal in 2023.
 
 # Tardigees: Characters based on the actual alleged Tardigee crash on moon in the 2018 Berkeshet (Israel) space mission.
 
-# Lunarbits, the first Bitcoin ordinal asset twins representing actual physical space on the Lunaprise discs through QR Codes. 
+# Lunarbits, the first Bitcoin ordinal Runes asset twins representing actual physical space on the Lunaprise discs on the moon. 
 Yielding 222 million lunarbits of space which is mirrored to the first Bitcoin Ordinals Runes token "twins" inscriptions  on the moon and mirrors the virtualized  meme coin-based ecosystem on earth supported by creators, crypto funds, and traders worldwide.
 
-# Hall of Fame: Top icons of the past century.
-Recognizing the top leaders of the past century. Notable Names inscribed into the hall of fame onto the metallic disks of the Lunaprise,  include SpaceX Founder Elon Musk, Thomas Edison, Nickoli Tesla,  President Donald J Trump, Mother Theresa, Queen Elizabeth, Dr. Martin Luther King, President John F. Kennedy, a total of 100 of the most influential in 100 past years are recognized and an additional list of 100 top influencers and key opinion leaders and 100 top Web 3.0/cryptocurrency pioneers.
+# Hall of Fame: Top Titans and Influential Leaders and Icons Inscribed in Lunar Hall of Fame
+Recognizing the top leaders of the past century. Notable Names inscribed into the hall of fame onto the metallic disks of the Lunaprise,  include SpaceX Founder Elon Musk, Thomas Edison, Nickoli Tesla,  President Donald J. Trump, Mother Theresa, Queen Elizabeth, Dr. Martin Luther King, President John F. Kennedy, Olympian Jesse Owens, President Ronald Reagan,  Theodore Roosevelt, Thomas Edison;  a total of 100 of the most influential persons in 100 past years are recognized and an additional list of 100 top influencers and key opinion leaders are inscribed into the Lunar Hall of Fame, along  100 top Web 3.0/cryptocurrency pioneers including Satoshi Nakamoto, whose innovation makes it possible to authenticate earth artifacts, collectibles and art assets linked to the Lunaprise Archive on the Moon.
 
 
 # Title: The Making of Lunar Artifact #777- CL7-Dallas Santana- The 9th Raider Movie .

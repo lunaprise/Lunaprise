@@ -118,11 +118,13 @@ This section below highlights the groundbreaking art and cultural projects repre
 Curator: Space Blue along with its art advisors, art professors, art media leaders, and key opinion leaders.
 Collection: "Eternals Collection"-From Leonardo Da Vinci, Van Gough, Michaelangelo -centuries of what has become "Eternal Art" featuring 100 masterpieces, encapsulating the evolution of  fine art over five centuries.
 
-# First Bitcion Artwork and Bitcoin White Paper On the Moon.
-The first installation of the earth of Bitcoin White Paper is now archived for over 1 billion years, along with private keys for Bitcoin, and archiving of Bitcoin storytelling and art collections through Bitcoin crypto art projects which are inscribed onto the metal discs in the Lunaprise Museum on the moon and pre-planned prior to the landing to be inscribed as bitcoin ordinal artifacts which will also last forever there. A prior attempt was made unsuccessfully in January 2024 by a previous mission to land Bitcoin on the moon, and the mission ended with the capsule burning up in the earth's atmosphere, resulting in the Lunaprise and Space Blue and its curator Dallas Santana taking credit for the first bitcoin to land on the moon literally.
+
+# First Bitcoin, Bitcoin Crypto Artwork, and Bitcoin White Paper On the Moon.
+The first installation of the earth of Bitcoin White Paper is now archived for over 1 billion years, along with private keys for Bitcoin, and archiving of Bitcoin storytelling and art collections through Bitcoin crypto art projects which are inscribed onto the metal discs in the Lunaprise Museum on the moon and pre-planned prior to the landing to be inscribed as bitcoin ordinal artifacts which will also last forever there. A prior attempt was made unsuccessfully in January 2024 by a previous Astrobotics mission to land Bitcoin private keys and a physical art representation of a bitcoin on the moon, and the mission ended with the capsule burning up in the earth's atmosphere, resulting in the Lunaprise and Space Blue and its curator Dallas Santana taking credit for the first bitcoin to land on the moon literally when the Lunaprise landed about 30 days later on 2.22.2024 A.D..
 
 # First Grammy Winning and Iconic Music Archive on Moon: 777 top songs of all time by Lunar Records
 Details: A compilation of 777 top songs of all time, including a special focus on the Woodstock era "Summer of Love" top 30 music artists airing worldwide in the same month as the Apollo 11 first moon landing by humans in July 1969. Plus nearly 7000 artifacts of art, photographs, and video by Scott Page (Pink Floyd Band Member) including Pink Floyd tours, moments with Mick Jagger and the Rolling Stones, captured moments with Princess Diana, and other historic moments. Music archives in private  playlists include Grammy hits and beats of Timbaland, Justin Timberlake, Taylor Swift, Becky G, and earlier works of Sabrina Carpenter.
+![image](https://github.com/user-attachments/assets/443bdff4-620e-4f9f-9e85-c1a7303b84c3)
 
 # First Numismatic Super Rare Coin Collection:
 Collection: Numismatic Rare Coins Spanning 30,000+ Years

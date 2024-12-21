@@ -173,6 +173,10 @@ https://youtu.be/zWefZEX0JvY?feature=shared
 
 https://vimeo.com/momentumstudiosusa/review/911110319/b5b37a3446
 
+# A failed attempt by another spacecraft not involving Lunaprise resulted in Bitcoin burning up in failed spacecraft.
+
+Another mission attempted to send actual bitcoin to the moon aboard the Astrobotic Peregrine mission in January 2024, but the spacecraft had a fuel leak on the way to the moon, sending the payload ( including the bitcoin) to crash back and burn up in the atmosphere, leaving Space Blue and the Lunaprise museum 2months later in February 2024 as the first project to successfully land bitcoin art and bitcoin white paper and bitcoin projects stowed inside of the Lunaprise time capsule.BitMEX had announced previously their plans, one large step for Bitcoin but it failed. The crypto exchange had previously announced plans to deposit a physical wallet containing a single bitcoin on the surface of the moon. The wallet was in the form of a commemorative coin but was presumed burnt up over the Pacific ocean.
+
 # Space Mission Overview:
 
 ![image](https://github.com/user-attachments/assets/a81db917-9381-4212-805e-00d5392e50fc)

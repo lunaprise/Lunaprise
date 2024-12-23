@@ -347,6 +347,6 @@ https://verify.spaceblue.club
 
 # Future Space Missions:
 
-There are currently plans to participate in 2025 in future advances of sending bitcoin mining tools for test bitcoin nodes on the moon, additional  digital art to the moon ( limited to a maximum of 22 projects), and physical and holographic art to the moon by 2026. Also, SpaceBlue's team has met with SpaceX about the possibility of having humans who are part of SpaceBlue's expanding music, art, film, and blockchain communities participate in future space missions. Marshmello the Artic Pet Dog project also has been onboarded and accepted for inclusions in NASAs own digital archiving planned on Mars under the plans for Arttemis mission.
+There are currently plans to participate in 2025 in future advances of sending bitcoin mining tools for test bitcoin nodes on the moon, additional  digital art to the moon ( limited to a maximum of 22 projects), and physical and holographic art to the moon by 2026. Also, SpaceBlue's team has met with SpaceX about the possibility of having humans who are part of SpaceBlue's expanding music, art, film, and blockchain communities participate in future space missions. Marshmello the Artic Pet Dog project also has been onboarded and accepted for inclusion in NAS'As own digital archiving planned for NASA's arrival on Mars under the plans for Artemis mission.
 
 

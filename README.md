@@ -257,7 +257,6 @@ https://en.wikipedia.org/wiki/List_of_artificial_objects_on_the_Moon
 
 # About Lunaprise
 
-![image](https://github.com/user-attachments/assets/631f2371-5490-4022-b606-dafabe4d91b1)
 ![image](https://github.com/lunaprise/Lunaprise/blob/main/The%20Lunaprise%20Mission%20Updated.jpg?raw=true)
 
 # About Space Blue

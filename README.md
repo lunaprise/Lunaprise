@@ -40,6 +40,11 @@ https://github.com/lunaprise/Lunaprise/blob/main/IM-1_Press_Kit_V1.3..pdf
 
 Open the link and download by clicking the arrow button on the right, so you can access the full original file. Please note, GitHub is not displaying some of the background images on its interface, thus it is best to download them.
 
+
+# Space Blue Kennedy Space Center 2024 Launch Event Photo Gallery
+
+https://photos.app.goo.gl/ZmHxaXLY1yT5Nzny7
+
 # Support
 
 For support email curator@spaceblue.club
@@ -327,6 +332,11 @@ BTS -behind-the-scenes pictures and images of both the project development, art 
 [Being updated here October, 2024]
 
 # KSC (Kennedy Space Center) Launch Event
+
+Space Blue Kennedy Space Center 2024 Launch Event Photo Gallery
+
+https://photos.app.goo.gl/ZmHxaXLY1yT5Nzny7
+
 
 ![image](https://github.com/user-attachments/assets/d3047585-160b-4de2-a641-0c951c642959)
 Above: Dallas Santana -Space Blue Founder, Lori Taylor-Galatic Legacy Labs Co-Founder, Nova Spivach-Arch Mission Co-Founder.

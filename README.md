@@ -166,11 +166,9 @@ Recognizing the top leaders of the past century. Notable Names inscribed into th
 
 #Other digital and analog inscriptions include Ponaganset High School of Foster-Glocester, Rhode Island USA: photographs of 2023 Women's Basketball divisional champs, plus Ponaganset High School: 1980 and 2023 High School Varsity team photos, plus photos of Lunaprise curator Dallas Santana playing football with New England Superbowl stars Tom Brady, Rob Gronkowski, and Julian Edleman, and Chsrgers quarterback  during  charity events in Florida, and California during 2022. 
 
-Also photos of Nike executive Tommie Pham and hos family along with son Raiden, and the mission statement of Raiden Foundation, a project they sent to the moon to bring attention to rare diseases, something hos son Raiden was afflicted with at the time of the landing on the moon of the Lunzprise Archive.
+Also photos of Nike executive Tommie Pham and his family along with son Raiden, and the mission statement of Raiden Foundation, a project they sent to the moon to bring attention to rare diseases, something hos son Raiden was afflicted with at the time of the landing on the moon of the Lunzprise Archive.
 
-Photos and Videos and Tribal reports of American Indians and in particular the story of Dennis Banks, an internationally known civil rights leader and founder of AIM- American Indian Movement
-
-Inscriptions of the names of the 100 most influential persons in the world fron 1900-2023. notable names include Dr. Martin Luther King, Ghandi, Presidents John F. Kennedy and 45th and 47th President Donakd J. Trump, innovators like Nickoli Tesla, Thomas Edison and Elon Musk. 
+Photos and Videos and Tribal reports of American Indians and in particular the story of Dennis Banks and his family's encounter and friendship with Oscar winner Marlon Brando. Dennis was an internationally known Native American civil rights leader and founder of AIM- American Indian Movement.
 
 Short Video Docunentsries on the life of Queen Elizabeth, Jesse Owens, JFK, Borak Obama, and Muhsmmed Ali 
 

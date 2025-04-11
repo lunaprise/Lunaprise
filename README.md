@@ -156,9 +156,23 @@ Details: A tribute to Stan Lee's legacy, inscribed as a Bitcoin Ordinal in 2023.
 Yielding 222 million lunarbits of space which is mirrored to the first Bitcoin Ordinals Runes token "twins" inscriptions  on the moon and mirrors the virtualized  meme coin-based ecosystem on earth supported by creators, crypto funds, and traders worldwide.
 
 # Hall of Fame: Top Titans and Influential Leaders and Icons Inscribed in Lunar Hall of Fame
-Recognizing the top leaders of the past century. Notable Names inscribed into the hall of fame onto the metallic disks of the Lunaprise,  include SpaceX Founder Elon Musk, Thomas Edison, Nickoli Tesla,  President Donald J. Trump, Mother Theresa, Queen Elizabeth, Dr. Martin Luther King, President John F. Kennedy, Olympian Jesse Owens, President Ronald Reagan,  Theodore Roosevelt, Thomas Edison;  a total of 100 of the most influential persons in 100 past years are recognized and an additional list of 100 top influencers and key opinion leaders are inscribed into the Lunar Hall of Fame, along  100 top Web 3.0/cryptocurrency pioneers including Satoshi Nakamoto, whose innovation makes it possible to authenticate earth artifacts, collectibles and art assets linked to the Lunaprise Archive on the Moon.
+Recognizing the top leaders of the past century. Notable Names inscribed into the hall of fame onto the metallic disks of the Lunaprise,  include SpaceX Founder Elon Musk, Thomas Edison, Nickoli Tesla,  President Donald J. Trump, Mother Theresa, Queen Elizabeth, Dr. Martin Luther King, President John F. Kennedy, Olympian Jesse Owens, President Ronald Reagan,  Theodore Roosevelt, Thomas Edison;  a total of 100 of the most influential persons in 100 past years are recognized and an additional list of 100 top influencers and key opinion leaders are inscribed into the Lunar Hall of Fame, along 
+100 top Web 3.0/cryptocurrency pioneers including Satoshi Nakamoto, whose innovation makes it possible to authenticate earth artifacts, collectibles and art assets linked to the Lunaprise Archive on the Moon.
 ![image](https://github.com/user-attachments/assets/10016f5c-16cd-4d49-85c0-31ac41f1ba14)
 
+#Cryptopunk entire initial collectibles. considered the "OG" project of digital collectibles.
+
+#Bitmap entire initial collectibles.
+
+#Other digital and analog inscriptions include Ponaganset High School of Foster-Glocester, Rhode Island USA: photographs of 2023 Women's Basketball divisional champs, plus Ponaganset High School: 1980 and 2023 High School Varsity team photos, plus photos of Lunaprise curator Dallas Santana playing football with New England Superbowl stars Tom Brady, Rob Gronkowski, and Julian Edleman, and Chsrgers quarterback  during  charity events in Florida, and California during 2022. 
+
+Also photos of Nike executive Tommie Pham and hos family along with son Raiden, and the mission statement of Raiden Foundation, a project they sent to the moon to bring attention to rare diseases, something hos son Raiden was afflicted with at the time of the landing on the moon of the Lunzprise Archive.
+
+Photos and Videos and Tribal reports of American Indians and in particular the story of Dennis Banks, an internationally known civil rights leader and founder of AIM- American Indian Movement
+
+Inscriptions of the names of the 100 most influential persons in the world fron 1900-2023. notable names include Dr. Martin Luther King, Ghandi, Presidents John F. Kennedy and 45th and 47th President Donakd J. Trump, innovators like Nickoli Tesla, Thomas Edison and Elon Musk. 
+
+Short Video Docunentsries on the life of Queen Elizabeth, Jesse Owens, JFK, Borak Obama, and Muhsmmed Ali 
 
 
 # Title: The Making of Lunar Artifact #777- CL7-Dallas Santana- The 9th Raider Movie .

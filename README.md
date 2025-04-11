@@ -44,6 +44,7 @@ Open the link and download by clicking the arrow button on the right, so you can
 # Space Blue Kennedy Space Center 2024 Launch Event Photo Gallery
 
 https://photos.app.goo.gl/ZmHxaXLY1yT5Nzny7
+https://photos.app.goo.gl/TdpwRo2cX32vyJuk6
 
 # Support
 

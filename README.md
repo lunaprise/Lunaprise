@@ -159,6 +159,7 @@ Yielding 222 million lunarbits of space which is mirrored to the first Bitcoin O
 Recognizing the top leaders of the past century. Notable Names inscribed into the hall of fame onto the metallic disks of the Lunaprise,  include SpaceX Founder Elon Musk, Thomas Edison, Nickoli Tesla,  President Donald J. Trump, Mother Theresa, Queen Elizabeth, Dr. Martin Luther King, President John F. Kennedy, Olympian Jesse Owens, President Ronald Reagan,  Theodore Roosevelt, Thomas Edison;  a total of 100 of the most influential persons in 100 past years are recognized and an additional list of 100 top influencers and key opinion leaders are inscribed into the Lunar Hall of Fame, along 
 100 top Web 3.0/cryptocurrency pioneers including Satoshi Nakamoto, whose innovation makes it possible to authenticate earth artifacts, collectibles and art assets linked to the Lunaprise Archive on the Moon.
 ![image](https://github.com/user-attachments/assets/10016f5c-16cd-4d49-85c0-31ac41f1ba14)
+#OTHER PROJECTS NOT LUSTED AS PART OF THE "222" CURATED ART PROJECTS:
 
 #Cryptopunk entire initial collectibles. considered the "OG" project of digital collectibles.
 
@@ -168,10 +169,15 @@ Recognizing the top leaders of the past century. Notable Names inscribed into th
 
 Also photos of Nike executive Tommy Pham and his family along with son Raiden, and the mission statement of Raiden Foundation, a non profit project they sent to the moon to bring attention to rare diseases, something his son Raiden was afflicted with at the time of the landing on the moon of the Lunaprise Archive.
 
-Photos and Videos and Tribal reports of American Indians and in particular the story of Dennis Banks and his family's encounter and friendship with Oscar winner Marlon Brando. Dennis was an internationally known Native American civil rights leader and founder of AIM- American Indian Movement.
+Photos and Videos and Tribal reports of American Indians and in particular the story of Dennis Banks and his family's encounter and friendship with Oscar winner Marlon Brando. Dennis was an internationally known Native American civil rights leader and founder of AIM- American Indian Movement. Also QR code linked art of Natuve American artist Paul Walker 
 
 Short Video Docunentsries on the life of Queen Elizabeth, Jesse Owens, JFK, Borak Obama, and Muhsmmed Ali 
 
+A compilation of the names of the top ranked NFT Artists and Art Projects as of 2023 including Beeples, PAK, The 9th Raider, Michah Johnson,Justin Aversarano, Chad Knight
+
+Ethereun Whitepaper and Ethereum Artwork and coins.
+
+Dogecoin Whitepaper and Dogecoin and Shibu Nu coins and artwork.
 
 # Title: The Making of Lunar Artifact #777- CL7-Dallas Santana- The 9th Raider Movie .
 

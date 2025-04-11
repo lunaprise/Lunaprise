@@ -173,7 +173,7 @@ Photos and Videos and Tribal reports of American Indians and in particular the s
 
 Short Video Docunentsries on the life of Queen Elizabeth, Jesse Owens, JFK, Borak Obama, and Muhsmmed Ali 
 
-A compilation of the names of the top ranked NFT Artists and Art Projects as of 2023 including Beeples, Snowflake, TylerXHobbs, PAK, The 9th Raider/Dallas Santana, Michah Johnson,Justin Aversarano, Chad Knight Fewocious,Steve Aoki, Snoop Dog, and more.Also listed was top ranked wwb 3.0 leaders, companies and venture funds.
+A compilation of the names of the top ranked NFT Artists and Art Projects as of 2023 including Beeples, Snowfro/Artblocka, TylerXHobbs, PAK, The 9th Raider/Dallas Santana, Michah Johnson,Justin Aversarano, Chad Knight Fewocious,Steve Aoki, Snoop Dog, and more. Also listed was top ranked Web 3.0 leaders, Women of Web 3.0, Top blockchain innovatirs and companies and venture funds supporting web 3.0 innovation.
 
 Ethereun Whitepaper and Ethereum Artwork and coins.
 

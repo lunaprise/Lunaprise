@@ -170,13 +170,13 @@ Recognizing the top leaders of the past century. Notable Names inscribed into th
 
 #Other digital and analog inscriptions include Ponaganset High School of Foster-Glocester, Rhode Island USA: photographs of 2023 Women's Basketball divisional champs, plus Ponaganset High School: 1980 and 2023 High School Varsity team photos, plus photos of Lunaprise curator Dallas Santana playing football ("catch and pass") with New England Patriots NFL and Superbowl stars Tom Brady, Rob Gronkowski, and Julian Edleman, as well as Chargers quarterback Justin Hebert, all during  charity events in Florida, and California during 2022. 
 
-Also photos of leading executive and innovation evangelist Tommy Pham and his family, along with his son Raiden, and the mission statement of Raiden Science Foundation, a non profit project they sent to the moon to bring attention to rare diseases and share their journey towards developing a cure for a genetic condition affecting Raiden and other children, at the time of the landing on the moon of the Lunaprise Archive.
 
+Also photos of Nike leader and innovation evangelist Tommy Pham and his family, along with his son Raiden, and the mission statement of Raiden Science Foundation, a non profit project they sent to the moon to bring attention to rare diseases and share their journey towards developing a cure for a genetic condition affecting Raiden and other children, at the time of the landing on the moon of the Lunaprise Archive.
 Photos and Videos and Tribal reports of American Indians and in particular the story of American Indian Movement civil rights leader Dennis Banks and his family's encounter and friendship with Oscar winner Marlon Brando. Dennis was an internationally known Native American civil rights leader and founder of AIM- American Indian Movement. Also QR code linked art of Native American artist Paul Walker 
 
 Short Video Docunentsries on the life of Queen Elizabeth, Dennis Banks, Tom Brady, Jesse Owens, JFK, Barak Obama, and Muhsmmed Ali. 
 
-A compilation of the names of the top ranked NFT Artists and Art Projects as of 2023 including Beeples, Snowfro/Artblocka, TylerXHobbs, PAK, The 9th Raider/Dallas Santana, Michah Johnson,Justin Aversarano, Minic Rizzolli, Pussy Riot, Chad Knight Fewocious,Steve Aoki, Snoop Dog, and more. Also listed was top ranked Web 3.0 leaders, Women of Web 3.0, Top blockchain innovators and companies and venture funds leading and  supporting web 3.0 innovation.
+A compilation of the names of the top ranked NFT Artists and Art Projects as of 2023 including Beeples, Snowfro/Artblocks, TylerXHobbs, PAK, The 9th Raider/Dallas Santana, Michah Johnson,Justin Aversarano, Minic Rizzolli, Pussy Riot, Chad Knight Fewocious,Steve Aoki, Snoop Dog, and more. Also listed was top ranked Web 3.0 leaders, Women of Web 3.0, Top blockchain innovators and companies and venture funds leading and  supporting web 3.0 innovation.
 
 Ethereun Whitepaper and Ethereum Artwork and coins.
 

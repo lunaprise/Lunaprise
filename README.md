@@ -30,8 +30,10 @@ Some images in the official Lunaprise book nay be for illustration purposes only
 The curators may assign such QR Codes to be linked  on the blockchain back to certain bona fide Lunaprise authorized art projects ,  content or missing images/files that may have been lost during the delivery or inscription process onto the discs. 
 
 Only Lunaprise is the official payload of  digital and inscribed art (other then Jeff Koons "Moon Phases" which were attached to the Odessyus Lander separately under separate arrangements with the lander company). 
+#LEGAL NOTICE. Should any bogus party falsely make fraudulent  claims that they are an authorized party regarding the Lunaprise, Lunaprise discs,  please contact legal@gll.space and legal@spaceblue.club with such information. all tips will be kept confidential 
 
-Only Galactic Legacy Labs and its partner Space Blue is authorized to certify the contents of the Lunaprise ss the only official contracted party to attach the Lunaprise discs to the  lunar lander. Learn more at github.com/lunaprise
+#SOLE LEGAL AUTHORITY 
+Only Galactic Legacy Labs and its partner Space Blue is authorized to certify the contents of the Lunaprise and the only official contracted party to have attached the Lunaprise discs to the  lunar lander. Learn more at github.com/lunaprise
 
 ![image](https://github.com/user-attachments/assets/18c6a1e0-5ccd-4bd8-a5ee-ca0c40c21238)
 

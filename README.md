@@ -19,6 +19,19 @@ ACCEPTABLE PUBLIC USES: Lunaprise retains the rights to any derived products inc
 
 # Lunaprise Museum Curator
 Space Blue, under the leadership of Dallas Santana, oversaw The Lunaprise museum curation and employed art historians, professors of art, blockchain advisors, NFT (nonfungible token) experts, auctioneer advisors, art collectors, sports collectors, car collectors, renowned art galleries, and news editorial relationships for the assistance in compiling the final art projects selected for the museum. Learn more at https://wwww.spaceblue.club
+#Im going to publish this too .
+
+Additional Notes:
+Some artists listed here may not have their artwork published in the Official Lunaprise Book.
+
+Some images in the official Lunaprise book nay be for illustration purposes only but are based on stories, text, or linked QR Codes archived on The Lunaprise Discs.
+
+# QR Codes Archived On The Lunaprise. 
+The curators may assign such QR Codes to be linked  on the blockchain back to certain bona fide Lunaprise authorized art projects ,  content or missing images/files that may have been lost during the delivery or inscription process onto the discs. 
+
+Only Lunaprise is the official payload of  digital and inscribed art (other then Jeff Koons "Moon Phases" which were attached to the Odessyus Lander separately under separate arrangements with the lander company). 
+
+Only Galactic Legacy Labs and its partner Space Blue is authorized to certify the contents of the Lunaprise ss the only official contracted party to attach the Lunaprise discs to the  lunar lander. Learn more at github.com/lunaprise
 
 ![image](https://github.com/user-attachments/assets/18c6a1e0-5ccd-4bd8-a5ee-ca0c40c21238)
 

@@ -73,7 +73,11 @@ How to verify and artist/artifact or art piece is part of The Lunaprise:
 
 # Visit the only authorized source for certification and authentication of artists and artifacts and art pieces sent to the moon at: https://verify.spaceblue.club
 
-This database and important metadata are being updated and expected that by January 2025 will have been updated with all 77,000 artifact details sent to the moon in the Lunaprise Museum.
+<img width="1179" height="880" alt="image" src="https://github.com/user-attachments/assets/4dd0473d-72e8-4ea5-b32a-ba5320bcf525" />
+
+Only Lunaprise, and its official curator Space Blue, has the authority to review and approve certified art and content on the Lunaprise discs and is the only recognized payload contractor for Lunaprise. Any parties who distribute any copyrighted information on the Lunaprise discs, or sell any of the data, copies, or the discs or metadata without written permission, will be prosecuted for criminal theft and criminal copyright violation by Galactic Legacy Labs. Please refer any bogus claims made by third parties to legal@gll.space and legal@spaceblue.club
+
+This database and important metadata may be updated from time to time.
 
 
 Metadata is solely owned by Lunaprise and  organized from important records and data pertaining to the inscribing of artifacts and art onto to the Lunaprise discs and museum and important mission details and dates and time periods is expected to be published soley at www.verify.spaceblue.club during Q4-2024. Artist names ( but a numeric key code will identify art projects) will not be included in the Metadata due to privacy policies protecting artists in the Lunaprise mission but may be shared by the artist publicly and in blockchain systems and public exhibits subject to the discretion of the artist.

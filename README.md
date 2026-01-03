@@ -174,11 +174,11 @@ Details: A tribute to Stan Lee's legacy, inscribed as a Bitcoin Ordinal in 2023.
 # Tardigees: Characters based on the actual alleged Tardigee crash on moon in the 2018 Berkeshet (Israel) space mission.
 
 # Lunarbits, the first Bitcoin ordinal Runes asset twins representing actual physical space on the Lunaprise discs on the moon. 
-Yielding 222 million lunarbits of space which is mirrored to the first Bitcoin Ordinals Runes token "twins" inscriptions  on the moon and mirrors the virtualized  meme coin-based ecosystem on earth supported by creators, crypto funds, and traders worldwide.
+Yielding 222 million lunarbits of space, which is mirrored to the first Bitcoin Ordinals Runes token "twins" inscriptions  on the moon and mirrors the virtualized  meme coin-based ecosystem on earth supported by creators, crypto funds, and traders worldwide.
 
-# Hall of Fame: Top Titans and Influential Leaders and Icons Inscribed in Lunar Hall of Fame
+# Hall of Fame: Top Titans, Influential Leaders, and Icons Inscribed in Lunar Hall of Fame
 Recognizing the top leaders of the past century. Notable Names inscribed into the hall of fame onto the metallic disks of the Lunaprise,  include SpaceX Founder Elon Musk, Thomas Edison, Nickoli Tesla,  President Donald J. Trump, Mother Theresa, Queen Elizabeth, Dr. Martin Luther King, President John F. Kennedy, Olympian Jesse Owens, President Ronald Reagan,  Theodore Roosevelt, Thomas Edison;  a total of 100 of the most influential persons in 100 past years are recognized and an additional list of 100 top influencers and key opinion leaders are inscribed into the Lunar Hall of Fame, along 
-100 top Web 3.0/cryptocurrency pioneers including Satoshi Nakamoto, whose innovation makes it possible to authenticate earth artifacts, collectibles and art assets linked to the Lunaprise Archive on the Moon.
+100 top Web 3.0/cryptocurrency pioneers, including Satoshi Nakamoto, whose innovation makes it possible to authenticate earth artifacts, collectibles, and art assets linked to the Lunaprise Archive on the Moon.
 ![image](https://github.com/user-attachments/assets/10016f5c-16cd-4d49-85c0-31ac41f1ba14)
 #OTHER PROJECTS NOT LUSTED AS PART OF THE "222" CURATED ART PROJECTS:
 
@@ -388,13 +388,13 @@ https://www.canva.com/design/DAF8nuMr2rc/iyMTn77T1j7qffF3yhI-5w/view?utm_content
 
 # Blockchain Authentication
 
-Visit the only authorized source for certification and authentication including blockchain inscriptions of artists and artifacts and art pieces sent to the moon at:
+Visit the only authorized source for certification and authentication, including blockchain inscriptions of artists and artifacts and art pieces sent to the moon at:
 https://verify.spaceblue.club
 
-# Note: Metadata and blockchain authentication will commence being added to the above verification site during Fall,2024.
+# Note: Metadata and blockchain authentication will commence being added to the  verification site during Fall,2024 at www.verify.spaceblue.club. It is the opinion of Lunaprise that blockchain is not the only method for verifying ownership or provenance of art in the Lunaprise museum
 
-# Future Space Missions:
+# Future Space Missions: AI (Artificial Intelligence) will play a significant role in future space missions led by Lunaprise and SpaceBlue.
 
-There are currently plans to participate in 2025 in future advances of sending bitcoin mining tools for test bitcoin nodes on the moon, additional  digital art to the moon ( limited to a maximum of 22 projects), and physical and holographic art to the moon by 2026. Also, SpaceBlue's team has met with SpaceX about the possibility of having humans who are part of SpaceBlue's expanding music, art, film, and blockchain communities participate in future space missions. Marshmello the Artic Pet Dog project also has been onboarded and accepted for inclusion in NAS'As own digital archiving planned for NASA's arrival on Mars under the plans for Artemis mission.
+There are currently plans to participate in 2026-2030 in future advances of sending bitcoin mining tools for testing bitcoin nodes on the moon, additional  digital art to the moon ( limited to a maximum of 22 projects), AI (Artificial Intelligence) generative art,  and physical and holographic art to the moon in missions between 2026 and 2030. Also, SpaceBlue's team has met with SpaceX about the plans of having humans who are part of SpaceBlue's expanding music, art, film, and blockchain communities participate in future space missions. Marshmello the Arctic Pet Dog project has also been onboarded and accepted for inclusion in NASA's own digital archiving planned for NASA's arrival on Mars under the plans for the Artemis mission.
 
 

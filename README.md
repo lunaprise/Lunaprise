@@ -26,8 +26,8 @@ Some artists listed here may not have their artwork published in the Official Lu
 
 Some images in the official Lunaprise book may be for illustration purposes only but are based on stories, text, or linked QR Codes archived on The Lunaprise Discs.
 
-# QR Codes Archived On The Lunaprise. 
-The curators may assign such QR Codes to be linked  on the blockchain back to certain bona fide Lunaprise authorized art projects,  content, or missing images/files that may have been lost during the delivery or inscription process onto the discs. 
+# QR Codes Stored On Lunaprise Discs To Be Linked To Future AI generative content and/or Inscribed on Blockchain.
+1500 unique QR codes are archived by Space Blue on The Lunaprise discs and The curators may assign such QR Codes to be linked together using AI-Artificial Intelligence generative art, film, music and content prograns to create an almost unlimited derivative number of content elements.The QR codes could also be inscribed together with content  on the blockchain linked back to certain bona fide Lunaprise authorized art projects,  content, or missing images/files that may have been lost during the delivery or inscription process onto the discs. 
 
 Only Lunaprise is the official payload of  digital and inscribed art (other than Jeff Koons "Moon Phases," which were attached to the Odysseus Lander separately under separate arrangements with the lander company. 
 

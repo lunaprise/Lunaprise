@@ -26,8 +26,7 @@ Some artists listed here may not have their artwork published in the Official Lu
 
 Some images in the official Lunaprise book may be for illustration purposes only but are based on stories, text, or linked QR Codes archived on The Lunaprise Discs.
 
-# QR Codes Stored On Lunaprise Discs To Be Linked To Future AI generative content and/or Inscribed on Blockchain.
-1500 unique QR codes are archived by Space Blue on The Lunaprise discs and The curators may assign such QR Codes to be linked together using AI-Artificial Intelligence generative art, film, music and content prograns to create an almost unlimited derivative number of content elements.The QR codes could also be inscribed together with content  on the blockchain linked back to certain bona fide Lunaprise authorized art projects,  content, or missing images/files that may have been lost during the delivery or inscription process onto the discs. 
+
 
 Only Lunaprise is the official payload of  digital and inscribed art (other than Jeff Koons "Moon Phases," which were attached to the Odysseus Lander separately under separate arrangements with the lander company. 
 
@@ -153,6 +152,9 @@ The first installation of the earth of Bitcoin White Paper is now archived for o
 # First Grammy Winning and Iconic Music Archive on Moon: 777 top songs of all time by Lunar Records
 Details: A compilation of 777 top songs of all time, including a special focus on the Woodstock era "Summer of Love" top 30 music artists, airing worldwide in the same month as the Apollo 11 first moon landing by humans in July 1969. Plus nearly 7000 artifacts of art, photographs, and video by Scott Page (Pink Floyd Band Member), including Pink Floyd tours, moments with Mick Jagger and the Rolling Stones, captured moments with Princess Diana, and other historic moments. Music archives in private  playlists include Grammy hits and beats of Timbaland, Justin Timberlake, Taylor Swift, Becky G, and earlier works of Sabrina Carpenter.
 ![image](https://github.com/user-attachments/assets/443bdff4-620e-4f9f-9e85-c1a7303b84c3)
+
+# QR Codes Stored On Lunaprise Discs To Be Linked To Future AI generative content and/or Inscribed on Blockchain.
+Hundreds of unique QR codes are archived by Space Blue on The Lunaprise discs and The curators may assign such QR Codes to be linked together using AI-Artificial Intelligence generative art, film, music and content prograns to create an almost unlimited derivative number of content elements.The QR codes could also be inscribed together with content  on the blockchain linked back to certain bona fide Lunaprise authorized art projects,  content, or missing images/files that may have been lost during the delivery or inscription process onto the discs. 
 
 # First Numismatic Super Rare Coin Collection:
 Collection: Numismatic Rare Coins Spanning 30,000+ Years

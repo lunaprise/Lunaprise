@@ -185,8 +185,10 @@ Yielding 222 million lunarbits of space, which is mirrored to the first Bitcoin 
 Recognizing the top leaders of the past century. Notable Names inscribed into the hall of fame onto the metallic disks of the Lunaprise,  include SpaceX Founder Elon Musk, Thomas Edison, Nickoli Tesla,  President Donald J. Trump, Mother Theresa, Queen Elizabeth, Dr. Martin Luther King, President John F. Kennedy, Olympian Jesse Owens, President Ronald Reagan,  Theodore Roosevelt, Thomas Edison;  a total of 100 of the most influential persons in 100 past years are recognized and an additional list of 100 top influencers and key opinion leaders are inscribed into the Lunar Hall of Fame, along 
 100 top Web 3.0/cryptocurrency pioneers, including Satoshi Nakamoto, whose innovation makes it possible to authenticate earth artifacts, collectibles, and art assets linked to the Lunaprise Archive on the Moon.
 ![image](https://github.com/user-attachments/assets/10016f5c-16cd-4d49-85c0-31ac41f1ba14)
-# MICHAEL JACKSON'S ORIGINAL ART PIECE LOVE FANTASIA, 
+
+# MICHAEL JACKSON'S ORIGINAL ART PIECE LOVE FANTASIA
 An artpiece Michael Jackson  drew inspired by his love of Walt Disney's famed project Fantasia. An exclusive project owned by collector J&B GLOBAL RESOURCES INC, and planned to be tokenized and fractionalized in the future. Tagged by Lunaprise QR tagged assets inscribed on the Lunaprise discs 
+
 #OTHER PROJECTS NOT LUSTED AS PART OF THE "222" CURATED ART PROJECTS:
 
 #Cryptopunk entire initial collectibles. considered the "OG" project of digital collectibles.

@@ -11,6 +11,15 @@ The landing site is within proximity of where NASA's Artemis mission is planning
 
 GitHub USE: The purpose of the Lunaprise archive and depository in GitHub is to deposit and provide the public worldwide access to important information from the Lunaprise Time Capsule and Moon-based Lunar Museum, along with important descriptive information about the project.
 
+##AWARDS
+
+During Oscars Weekend 2026 (specifically at the Luxury Gala Oscar's Screening Party at the Universal Hilto) Dallas Santana, founder and curator of Space Blue (which curated the Lunaprise Museum), was honored with the inaugural Space and Film Innovator of the Century Award (also referred to as the first-ever Space Innovation in Film Award or Space Film Innovation Award).
+The award recognized his visionary leadership in curating the world's first lunar museum/time capsule, digital vault, and associated film projects on the Moon via the historic Lunaprise mission (landed February 22, 2024, on the Moon's south pole aboard the Odysseus/IM-1 lander launched by SpaceX).
+Highlights included:
+Pioneering the placement of the first museum, digital vault, and movie (The 9th Raider) on the Moon.
+Preservation of cultural legacies, such as Stan Lee's last story and characters/screenplay (Legion of 5).
+Advancing the first AI-generated film project on the Moon, Raise, executive produced by Leonardo DiCaprio and created by Michael P. Nash.
+Also noted: Cinematographer Isauro Mercado III received recognition for placing a record 2,777 photographic images in the lunar museum.
 
 ![image](https://github.com/user-attachments/assets/d02734ed-9b22-44af-8a4e-820fd89e9c2f)
 The image above shows the location of 18 layered Lunaprise Time Capsule Disc Systems bolted to the Odessyus lander,  which stored over 77,000 artifacts (images, mp3s, mp4 files). The image on the right shows an actual image of the Odessyus lunar lander on the south pole of the moon snapped by a Lunar camera "selfie".

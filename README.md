@@ -13,8 +13,9 @@ GitHub USE: The purpose of the Lunaprise archive and depository in GitHub is to 
 
 ##AWARDS
 
-During Oscars Weekend 2026 (specifically at the Luxury Gala Oscar's Screening Party at the Universal Hilto) Dallas Santana, founder and curator of Space Blue (which curated the Lunaprise Museum), was honored with the inaugural Space and Film Innovator of the Century Award (also referred to as the first-ever Space Innovation in Film Award or Space Film Innovation Award).
-The award recognized his visionary leadership in curating the world's first lunar museum/time capsule, digital vault, and associated film projects on the Moon via the historic Lunaprise mission (landed February 22, 2024, on the Moon's south pole aboard the Odysseus/IM-1 lander launched by SpaceX).
+During Oscars Weekend 2026 (specifically at the Luxury Gala Oscar's Screening Party at the Universal Hilton) Dallas Santana, founder and curator of Space Blue (which curated the Lunaprise Museum), was honored with the inaugural Space and Film Innovator of the Century Award (also referred to as the first-ever Space Innovation in Film Award or Space Film Innovation Award).
+The award recognized his visionary leadership in curating the world's first lunar museum/time capsule, digital vault, and associated film projects on the Moon via the historic Lunaprise mission.
+
 Highlights included:
 Pioneering the placement of the first museum, digital vault, and movie (The 9th Raider) on the Moon.
 Preservation of cultural legacies, such as Stan Lee's last story and characters/screenplay (Legion of 5).

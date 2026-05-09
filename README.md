@@ -361,6 +361,9 @@ Above: Odysseus touched down on the Moon on Thursday, 22 February, at 23:23:53 U
 Lunar Disc Etching Exanple 
 https://drive.google.com/file/d/1AyajXiaz8TMlJXr5NO5dOT9KGEaRVm73/view?usp=drivesdk
 
+Lunaprise Flight Video 
+https://drive.google.com/file/d/1BANTN0NBzxKXgiqEAljveoBonCgpZjQe/view?usp=drivesdk
+
 Full 40 page pdf IM-1_Press_Kit_V1.3 can be accessed here. 
 
 https://github.com/lunaprise/Lunaprise/blob/main/IM-1_Press_Kit_V1.3..pdf

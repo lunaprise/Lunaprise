@@ -6,7 +6,7 @@ l# The 1st Art and Digital Assets Museum On The Moon
 # Location: Malapert Latitude Longitude Diameter A 80.13°S 1.44°E
 # Estimated $7.0+ Billion in RWA ( Real World Assets, Art, Music Catalogs, A List Brands, and Bitcoin Projects) have their twin digital and metallic and bitcoin inscribed assets installed in the Lunaprise Museum.
 
-Galactic Legacy Labs, along with its partners Space Blue and the Arch Mission Foundation ("AMF") made international headlines and history by sending human creativity to the lunar surface. Space Blue oversaw the final curation of the 222 art projects at the Lunaprise Museum, compiling the final list of artwork, artists, and developing the certification processes for all artwork involved. The Lunaprise archive includes artists curated in the Lunar Art Archive, a project steered by AMF. The Lunaprise was attached to the Odesseyus Lunar Lander, which landed on the Moon on February 22nd of 2024. For the first time in over 50 years, NASA and the United States landed on the Moon, and this time with the Lunaprise, it was with a historic human and artistic timestamp of past and present, lasting in space for over 1 billion years.
+Galactic Legacy Labs, along with its partners Space Blue and the Arch Mission Foundation ("AMF") made international headlines and history by sending human creativity to the lunar surface. Space Blue oversaw the final curation of the 222 art projects at the Lunaprise Museum, compiling the final list of artwork, artists, and developing the certification processes for all artwork involved. The Lunaprise archive includes artists curated in the Lunar Art Archive, a project steered by AMF. The Lunaprise was attached to the Odysseus Lunar Lander, which landed on the Moon on February 22nd of 2024. For the first time in over 50 years, NASA and the United States landed on the Moon, and this time with the Lunaprise, it was with a historic human and artistic timestamp of past and present, lasting in space for over 1 billion years.
 The landing site is within proximity of where NASA's Artemis mission is planning to send humans to land and build a colony on the south pole region of the moon.
 
 GitHub USE: The purpose of the Lunaprise archive and depository in GitHub is to deposit and provide the public worldwide access to important information from the Lunaprise Time Capsule and Moon-based Lunar Museum, along with important descriptive information about the project.
@@ -28,7 +28,7 @@ The image above shows the location of 18 layered Lunaprise Time Capsule Disc Sys
 ACCEPTABLE PUBLIC USES: Lunaprise retains the rights to any derived products, including search engine-type applications, and metadata retrieval programs developed using such metadata, used in part or whole, including blockchain use; such rights belong solely to Lunaprise. Lunaprise only grants permission for approved in writing official space bona fide news media, educators, personnel, and scientific users to download and use related content and captions, if applicable, for personal, educational, and research uses and only with written approval by Lunaprise. Any use otherwise is considered an infringement of Lunaprise's intellectual property and will be prosecuted to the fullest extent of the law. For approved parties,  the following credit line is required: "Lunaprise-Galactic Legacy Labs-Space Bluecr 2024, used with permission. Photos and videos owned by third parties we advise you to check sources to verify if you can use them in news media and we have listed herein any such credits to third parties who supplied photos and videos. Logos and tradenames of The Lunaprise, Space Blue, and other parties who collaborated on the space mission are not allowed for use in any worldwide media or project and remain the sole property of the respective owners of such tradenames and logos.
 
 # Lunaprise Museum Curator
-Space Blue, under the leadership of Dallas Santana, oversaw the Lunaprise museum curation and employed art historians, professors of art, blockchain advisors, NFT (nonfungible token) experts, auctioneer advisors, art collectors, sports collectors, car collectors, renowned art galleries, and news editorial relationships for assistance in compiling the final art projects selected for the museum. Learn more at https://wwww.spaceblue.club
+Space Blue, under the leadership of Dallas Santana, oversaw the Lunaprise museum curation and employed art historians, professors of art, blockchain advisors, NFT (nonfungible token) experts, auctioneer advisors, art collectors, sports collectors, car collectors, renowned art galleries, and news editorial relationships for assistance in compiling the final art projects selected for the museum. Learn more at https://www.spaceblue.club
 
 
 Additional Notes:
@@ -78,7 +78,7 @@ https://photos.app.goo.gl/TdpwRo2cX32vyJuk6
 For support email curator@spaceblue.club
 
 # Lunaprise Metadata
-How to verify and artist/artifact or art piece is part of The Lunaprise:
+How to verify and artist/artifact or art piece is part of The Lunaprise.
 
 # Visit the only authorized source for certification and authentication of artists and artifacts and art pieces sent to the moon at: https://verify.spaceblue.club
 
@@ -89,7 +89,7 @@ Only Lunaprise, and its official curator Space Blue, has the authority to review
 This database and important metadata may be updated from time to time.
 
 
-Metadata is solely owned by Lunaprise and  organized from important records and data pertaining to the inscribing of artifacts and art onto to the Lunaprise discs and museum and important mission details and dates, and time periods are expected to be published solely at www.verify.spaceblue.club during Q4-2024. Artist names ( but a numeric key code will identify art projects) will not be included in the Metadata due to privacy policies protecting artists in the Lunaprise mission but may be shared by the artist publicly and in blockchain systems and public exhibits, subject to the discretion of the artist.
+Metadata is solely owned by Lunaprise and  organized from important records and data pertaining to the inscribing of artifacts and art onto to the Lunaprise discs and museum and important mission details and dates, and time periods are expected to be published solely at https://verify.spaceblue.club during Q4-2024. Artist names ( but a numeric key code will identify art projects) will not be included in the Metadata due to privacy policies protecting artists in the Lunaprise mission but may be shared by the artist publicly and in blockchain systems and public exhibits, subject to the discretion of the artist.
 
 All Lunaprise Metadata issued is under a limited license to use by the artist and third parties as described herein, and no grant of ownership rights has been granted to such Metadata, which may be revoked at any time by Space Blue for violation of the Space Blue terms and conditions referenced herein. Lunaprise reserves the right to determine the methods and practices in organizing and exporting such data and determining the final sets of metadata issued under these terms and conditions.
 

@@ -358,11 +358,8 @@ Above: Oblique image showing the IM-1 landing area, acquired from an altitude of
 
 Above: Odysseus touched down on the Moon on Thursday, 22 February, at 23:23:53 UTC (17:23 CST). The arrow indicates the Nova-C lander; the image width is 973 meters, NAC M1463440322L [NASA/GSFC/Arizona State University
 
-Lunaprise Disc Video
-https://github.com/lunaprise/Lunaprise/blob/main/Lunaprise%20Disc%20Pictures/Lunaprise%20Disc%20Video.mp4
-
-Lunaprise Lander Video
-https://github.com/lunaprise/Lunaprise/blob/main/Lunar%20Lander%20Pictures/Lunaprise%20Lander%20Video.mp4
+Lunar Disc Etching Exanple 
+https://drive.google.com/file/d/1AyajXiaz8TMlJXr5NO5dOT9KGEaRVm73/view?usp=drivesdk
 
 Full 40 page pdf IM-1_Press_Kit_V1.3 can be accessed here. 
 

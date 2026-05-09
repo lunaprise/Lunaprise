@@ -226,11 +226,9 @@ Dogecoin Whitepaper and Dogecoin and Shibu Nu coins and artwork.
 
 Commissioned by director Dallas Santana, director of The 9th Raider, an experimental NFT Digital Bitcoin Powered Film starring art collector CL7, their desire to create a live painting envisioning the future in space. 3 years later, that vision became a reality with the first feature film archived on the moon. Learn more at www.the9thraider.com 
 
-https://vimeo.com/momentumstudiosusa/review/712660981/891331a680
+https://vimeo.com/712660981
 
 https://apnews.com/press-release/ez-newswire/movies-marshmello-television-0ba1eced4b36857ccb0fab2987ba6e9f
-
-https://www.niftygateway.com/collections/9thraidermovie/
 
 https://www.imdb.com/title/tt30131675/
 
@@ -265,7 +263,7 @@ The Lander's weak signal while phoning home raised questions about its orientati
  
 The mission marked the first US Moon landing in over 50 years.
 ![image](https://github.com/user-attachments/assets/2df26a2c-509f-42ba-a00c-3ace13ffb21e)
-Above: Odessyus Lander Ejected from SpaceX Falcon 9 (illustration)
+Above: Odysseus Lander Ejected from SpaceX Falcon 9 (illustration)
 
 ![image](https://github.com/user-attachments/assets/ee27bd59-87b1-4666-ae50-29ec8c86390f)
 
@@ -302,7 +300,7 @@ Mission: Official name of the mission with alternate known mission names in br
 ![image](https://github.com/user-attachments/assets/59fb2ce1-a403-4e09-8785-916709dbe3d7)
 
 OTHER IMPORTANT LINKS TO THE LUNAPRISE MISSION HISTORY
-Lunaprise is a private payload organized by Galactic Legacy Labs and curated by Space Blue, and bolted to the exterior of the Odessyus lander. Neither SpaceX, NASA, nor the manufacturer of the Odesyus lander has any involvement in the content of the Lunaprise archive, including its artwork, artifacts, and metadata. 
+Lunaprise is a private payload organized by Galactic Legacy Labs and curated by Space Blue, and bolted to the exterior of the Odysseus lander. Neither SpaceX, NASA, nor the manufacturer of the Odysseus lander has any involvement in the content of the Lunaprise archive, including its artwork, artifacts, and metadata. 
 
 https://www.spacex.com/launches/mission/?missionId=im1
 
@@ -326,7 +324,7 @@ https://en.wikipedia.org/wiki/List_of_artificial_objects_on_the_Moon
 
 # About Space Blue
 Space Blue Makes History Curating Lunaprise Moon Museum. 
-Discover an extraordinary world where art, technology, and space exploration converge. Space Blue made history on February 22nd, 2024, when the Lunar Lander Odesseyus landed on the moon, and attached to it was the Lunaprise Museum, with 222 art projects on board curated by Space Blue. Space Blue will curate a second Lunaprise Museum and “Lunark” on a second mission, making history in 2025.
+Discover an extraordinary world where art, technology, and space exploration converge. Space Blue made history on February 22nd, 2024, when the Lunar Lander Odysseus landed on the moon, and attached to it was the Lunaprise Museum, with 222 art projects on board curated by Space Blue. Space Blue will curate a second Lunaprise Museum and “Lunark” on a second mission, making history in 2025.
 
 Space Blue unites visionary artists, innovative NFTs, and groundbreaking projects, all fueled by our shared passion for space and a sustainable future. Engage with our global community, embarking on a journey beyond the stars as we redefine the boundaries of creativity and imagination.
 
@@ -410,7 +408,7 @@ https://www.canva.com/design/DAF8nuMr2rc/iyMTn77T1j7qffF3yhI-5w/view?utm_content
 Visit the only authorized source for certification and authentication, including blockchain inscriptions of artists and artifacts and art pieces sent to the moon at:
 https://verify.spaceblue.club
 
-# Note: Metadata and blockchain authentication will commence being added to the  verification site during Fall,2024 at www.verify.spaceblue.club.
+# Note: Metadata and blockchain authentication will commence being added to the  verification site during Fall,2024 at https://verify.spaceblue.club.
 It is the opinion of curators for the Lunaprise museum that blockchain is not the only method for verifying ownership or provenance of art in the Lunaprise museum, and that methods long held by the art industry for chain of title, such as written authorized certification by the artists, also co-signed by Lunaprise's official curator; Space Blue,   may also be used by artists.
 
 # Future Space Missions: AI (Artificial Intelligence) will play a significant role in future space missions led by Lunaprise and SpaceBlue.

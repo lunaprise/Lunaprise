@@ -372,6 +372,9 @@ Full 14 page pdf IM-1 Payloads For Website can be accessed here.
 
 https://www.space.com/intuitive-machines-odysseus-moon-lander-payloads
 
+Lunaprise/GLL Stack Specifications
+https://docs.google.com/presentation/d/1hauHUDtHvXVzF1bfsT54H6fpvNwSfgfA/edit?usp=drivesdk&ouid=101025432785951918263&rtpof=true&sd=true
+
 Full Lunagram Specifications pdf can be accessed here.
 
 https://github.com/lunaprise/Lunaprise/blob/main/Lunagram%20Specifications%202.pdf

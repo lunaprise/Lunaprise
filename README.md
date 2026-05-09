@@ -224,7 +224,7 @@ Dogecoin Whitepaper and Dogecoin and Shibu Nu coins and artwork.
 
 ![1731432599415](https://github.com/user-attachments/assets/cdc7d7f5-2c0d-4bc9-9a7a-85d3f54beddc)
 
-Commissioned by director Dallas Santana, director of The 9th Raider, an experimental NFT Digital Bitcoin Powered Film starring art collector CL7, their desire to create a live painting envisioning the future in space. 3 years later, that vision became a reality with the first feature film archived on the moon. Learn more at www the9thraider.com 
+Commissioned by director Dallas Santana, director of The 9th Raider, an experimental NFT Digital Bitcoin Powered Film starring art collector CL7, their desire to create a live painting envisioning the future in space. 3 years later, that vision became a reality with the first feature film archived on the moon. Learn more at www.the9thraider.com 
 
 https://vimeo.com/momentumstudiosusa/review/712660981/891331a680
 

@@ -370,7 +370,7 @@ https://github.com/lunaprise/Lunaprise/blob/main/IM-1_Press_Kit_V1.3..pdf
 
 Full 14 page pdf IM-1 Payloads For Website can be accessed here. 
 
-https://github.com/lunaprise/Lunaprise/blob/main/IM-1 Payloads For Website.pdf
+https://www.space.com/intuitive-machines-odysseus-moon-lander-payloads
 
 Full Lunagram Specifications pdf can be accessed here.
 

@@ -197,7 +197,7 @@ Recognizing the top leaders of the past century. Notable Names inscribed into th
 ![image](https://github.com/user-attachments/assets/10016f5c-16cd-4d49-85c0-31ac41f1ba14)
 
 # MICHAEL JACKSON'S ORIGINAL ART PIECE LOVE FANTASIA
-An artpiece Michael Jackson  drew inspired by his love of Walt Disney's famed project Fantasia. An exclusive project owned by collector J&B GLOBAL RESOURCES INC, and planned to be tokenized and fractionalized in the future. Tagged by Lunaprise QR tagged assets inscribed on the Lunaprise discs 
+An art piece Michael Jackson drew inspired by his love of Walt Disney's famed project Fantasia. An exclusive project owned by collector J&B GLOBAL RESOURCES INC, and planned to be tokenized and fractionalized in the future. Tagged by Lunaprise QR tagged assets inscribed on the Lunaprise discs 
 
 #OTHER PROJECTS NOT LUSTED AS PART OF THE "222" CURATED ART PROJECTS:
 
@@ -208,19 +208,19 @@ An artpiece Michael Jackson  drew inspired by his love of Walt Disney's famed pr
 #Other digital and analog inscriptions include Ponaganset High School of Foster-Glocester, Rhode Island USA: photographs of 2023 Women's Basketball divisional champs, plus Ponaganset High School: 1980 and 2023 High School Varsity team photos, plus photos of Lunaprise curator Dallas Santana playing football ("catch and pass") with New England Patriots NFL and Superbowl stars Tom Brady, Rob Gronkowski, and Julian Edleman, as well as Chargers quarterback Justin Hebert, all during  charity events in Florida, and California during 2022. 
 
 
-Also photos of Nike leader and innovation evangelist Tommy Pham and his family, along with his son Raiden, and the mission statement of Raiden Science Foundation, a non profit project they sent to the moon to bring attention to rare diseases and share their journey towards developing a cure for a genetic condition affecting Raiden and other children, at the time of the landing on the moon of the Lunaprise Archive.
+Also photos of Nike leader and innovation evangelist Tommy Pham and his family, along with his son Raiden, and the mission statement of Raiden Science Foundation, a nonprofit project they sent to the moon to bring attention to rare diseases and share their journey towards developing a cure for a genetic condition affecting Raiden and other children, at the time of the landing on the moon of the Lunaprise Archive.
 
 Photos and Videos and Tribal reports of American Indians, and in particular the story of American Indian Movement civil rights leader Dennis Banks and his family's encounter and friendship with Oscar-winning Marlon Brando. Dennis was an internationally known Native American civil rights leader and founder of AIM- American Indian Movement. Also, QR code linked art of Native American artist Paul Walker 
 
-Short Video Documentaries on the life of Queen Elizabeth, Dennis Banks, Tom Brady, Jesse Owens, JFK, Barack Obama, and Muhsmmed Ali. 
+Short Video Documentaries on the life of Queen Elizabeth, Dennis Banks, Tom Brady, Jesse Owens, JFK, Barack Obama, and Muhammed Ali. 
 
-A compilation of the names of the top-ranked NFT Artists and Art Projects as of 2023, including Beeples, Snowfro/Artblocks, TylerXHobbs, PAK, The 9th Raider/Dallas Santana, Michah Johnson, Justin Aversarano, Minic Rizzolli, Pussy Riot, Chad Knight Fewocious, Steve Aoki, Snoop Dog, and more. Also listed was top ranked Web 3.0 leaders, Women of Web 3.0, Top blockchain innovators and companies, and venture funds leading and  supporting Web 3.0 innovation.
+A compilation of the names of the top-ranked NFT Artists and Art Projects as of 2023, including Beeples, Snowfro/Artblocks, TylerXHobbs, PAK, The 9th Raider/Dallas Santana, Michah Johnson, Justin Aversarano, Minic Rizzolli, Pussy Riot, Chad Knight Fewocious, Steve Aoki, Snoop Dog, and more. Also listed were top ranked Web 3.0 leaders, Women of Web 3.0, Top blockchain innovators and companies, and venture funds leading and supporting Web 3.0 innovation.
 
 Ethereum Whitepaper, Ethereum Artwork, and coins.
 
 Dogecoin Whitepaper and Dogecoin and Shibu Nu coins and artwork.
 
-# Title: The Making of Lunar Artifact #777- CL7-Dallas Santana- The 9th Raider Movie .
+# Title: The Making of Lunar Artifact #777- CL7-Dallas Santana- The 9th Raider Movie.
 
 ![1731432599415](https://github.com/user-attachments/assets/cdc7d7f5-2c0d-4bc9-9a7a-85d3f54beddc)
 
@@ -238,7 +238,7 @@ https://vimeo.com/911110319
 
 # A failed attempt by another spacecraft not involving Lunaprise resulted in Bitcoin burning up in a failed spacecraft.
 
-Another mission attempted to send actual bitcoin to the moon aboard the Astrobotic Peregrine mission in January 2024, but the spacecraft had a fuel leak on the way to the moon, sending the payload ( including the bitcoin) to crash back and burn up in the atmosphere, leaving Space Blue and the Lunaprise museum 2months later in February 2024 as the first project to successfully land bitcoin art and bitcoin white paper and bitcoin projects stowed inside of the Lunaprise time capsule.BitMEX had announced previously their plans, one large step for Bitcoin but it failed. The crypto exchange had previously announced plans to deposit a physical wallet containing a single bitcoin on the surface of the moon. The wallet was in the form of a commemorative coin but was presumed to have been burned up over the Pacific Ocean.
+Another mission attempted to send actual bitcoin to the moon aboard the Astrobotic Peregrine mission in January 2024, but the spacecraft had a fuel leak on the way to the moon, sending the payload ( including the bitcoin) to crash back and burn up in the atmosphere, leaving Space Blue and the Lunaprise museum 2months later in February 2024 as the first project to successfully land bitcoin art and bitcoin white paper and bitcoin projects stowed inside of the Lunaprise time capsule. BitMEX had announced previously their plans, one large step for Bitcoin but it failed. The crypto exchange had previously announced plans to deposit a physical wallet containing a single bitcoin on the surface of the moon. The wallet was in the form of a commemorative coin but was presumed to have been burned up over the Pacific Ocean.
 
 # Space Mission Overview:
 
@@ -249,7 +249,7 @@ Studying radio astronomy, plume-surface interactions, and space weather interact
 Demonstrating communication and navigation node capabilities
 Demonstrating precision landing technologies 
 
-The Lunaprise Archive and art museum was bolted to the Odessyus lander and contained a series of 18 metallic and nanofiche discs which store the content as both TIFF image files inscribed onto the discs and a digital archive of mp4 and mp3 files. No battery or other power was required for the Lunaprise payload, assuring its success regardless if the lander tipped over or even crashed 
+The Lunaprise Archive and art museum was bolted to the Odysseus Lander and contained a series of 18 metallic and nano fiche discs which store the content as both TIFF image files inscribed onto the discs and a digital archive of mp4 and mp3 files. No battery or other power was required for the Lunaprise payload, assuring its success regardless if the lander tipped over or even crashed 
  
 The Lander's Mission ended after it landed sideways near the moon's south pole and lost power during a lunar nightfall. The Lander's final image was sent on February 22, and it will remain inoperable on the Moon's surface. 
  

@@ -273,7 +273,7 @@ LUNAPRISE IS LANDED ON THE MOON'S SOUTH POLE- THE PROXIMITY OF FUTURE PLANNED NA
 
 https://en.wikipedia.org/wiki/Lunar_south_pole#/media/File:Full_Moon_with_south_polar_markings.jpg
 
-As NASA prepares to send astronauts back to the Moon under Artemis, the agency has identified 13 candidate landing regions, each within proximity of the Lunaprise archives,  near the lunar South Pole. Each region contains multiple potential landing sites for Artemis III, which will be the first of the Artemis missions to bring crew to the lunar surface, including the first woman to set foot on the Moon.
+As NASA prepares to send astronauts back to the Moon under Artemis, the agency has identified 13 candidate landing regions, each within proximity of the Lunaprise archives, near the lunar South Pole. Each region contains multiple potential landing sites for Artemis III, which will be the first of the Artemis missions to bring crew to the lunar surface, including the first woman to set foot on the Moon.
 https://www.nasa.gov/news-release/nasa-identifies-candidate-regions-for-landing-next-americans-on-moon/
 
 ![image](https://github.com/user-attachments/assets/c4b9d54c-67ad-426a-9744-432db0322695)
@@ -283,7 +283,7 @@ Each of these regions is located within six degrees of latitude of the lunar Sou
 To select the regions, an agency-wide team of scientists and engineers assessed the area near the lunar South Pole using data from NASA’s Lunar Reconnaissance Orbiter and decades of publications and lunar science findings. In addition to considering launch window availability, the team evaluated regions based on their ability to accommodate a safe landing, using criteria including terrain slope, ease of communications with Earth, and lighting conditions. To determine accessibility, the team also considered the combined capabilities of the Space Launch System rocket, the Orion spacecraft, and the SpaceX-provided Starship human landing system.
 
 
-## Lunaprise  COSPAR ID: 2024- 030A
+## Lunaprise COSPAR ID: 2024- 030A
 
 ![image](https://github.com/user-attachments/assets/3fb46ec7-9ac2-4b51-a5f4-9e5336fb88b1)
 
@@ -333,7 +333,7 @@ Space Blue unites visionary artists, innovative NFTs, and groundbreaking project
 
 
 # Lunaprise Technical
-The images contained in this section include a sample of  actual disk images taken before, during and after the installation process. (copyright Galactic Legacy Labs)
+The images contained in this section include a sample of actual disk images taken before, during and after the installation process. (copyright Galactic Legacy Labs)
 
 ![image](https://github.com/user-attachments/assets/9fd57cbf-1693-4287-81b9-eaddbd57c2cf)
 
@@ -358,7 +358,7 @@ Above: Oblique image showing the IM-1 landing area, acquired from an altitude of
 
 Above: Odysseus touched down on the Moon on Thursday, 22 February, at 23:23:53 UTC (17:23 CST). The arrow indicates the Nova-C lander; the image width is 973 meters, NAC M1463440322L [NASA/GSFC/Arizona State University
 
-Lunar Disc Etching Exanple 
+Lunar Disc Etching Example 
 https://drive.google.com/file/d/1AyajXiaz8TMlJXr5NO5dOT9KGEaRVm73/view?usp=drivesdk
 
 Lunaprise Flight Video 
@@ -396,7 +396,7 @@ https://photos.app.goo.gl/ZmHxaXLY1yT5Nzny7
 
 
 ![image](https://github.com/user-attachments/assets/d3047585-160b-4de2-a641-0c951c642959)
-Above: Dallas Santana -Space Blue Founder, Lori Taylor-Galatic Legacy Labs Co-Founder, Nova Spivach-Arch Mission Co-Founder.
+Above: Dallas Santana -Space Blue Founder, Lori Taylor-Galactic Legacy Labs Co-Founder, Nova Spivack-Arch Mission Co-Founder.
 
 Dignitaries and influential persons attended a black tie gala held at Kennedy Space Center on February 14th, 2024 including Shark Tank Founder Kevin Harrington, former Forbes Monaco Crypto Editor Dustin Plantholt, NASA Astronaut Trainer/Art Curator Mike Mongo,  Prince Lorenzo Di'Medici,  Galactic Legacy Labs Co-Founder Lori Taylor, Space Blue Founder Dallas Santana, 7X Grammy Winner Malik Yusef,  Pink Floyd former band Member Scott Page, Sundance Film Winner Michael P. Nash, Hollywood Actors and Influencers, Fashion Designer Dalia Mcphee, Socialite and Art Curator Stacy Engman, Chief Izzy of Lakota Indian Nation,  and numerous hedge funds/family offices, crypto and blockchain advisors and funds, and art galleries founders including Budja Gallery and artists from over 19 different countries flew in for the special occasion.
 
@@ -417,7 +417,7 @@ It is the opinion of curators for the Lunaprise museum that blockchain is not th
 # Future Space Missions: AI (Artificial Intelligence) will play a significant role in future space missions led by Lunaprise and SpaceBlue.
 
 There are currently plans to participate in 2026-2030 in future advances of sending bitcoin mining tools for testing bitcoin nodes on the moon, additional  digital art to the moon ( limited to a maximum of 22 projects), AI (Artificial Intelligence) generative art,  and physical and holographic art to the moon in missions between 2026 and 2030. Also, SpaceBlue's team has met with SpaceX about the plans of having humans who are part of SpaceBlue's expanding music, art, film, and blockchain communities participate in future space missions. Marshmello the Arctic Pet Dog project has also been onboarded and accepted for inclusion in NASA's own digital archiving planned for NASA's arrival on Mars under the plans for the Artemis mission.
-## Artemis 2 Mission Flight Around The Moon. A handful of Lunaprise participants names are added to chip which was placed in capsule for trip around the moon.
+## Artemis 2 Mission Flight Around the Moon. A handful of Lunaprise participants names are added to chip which was placed in capsule for trip around the moon.
 Four astronauts will fly around the Moon and back on Artemis II, the first crewed flight under NASA's Artemis campaign. NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, as well as CSA (Canadian Space Agency) astronaut Jeremy Hansen will be the first humans aboard the SLS (Space Launch System) rocket, Orion spacecraft, and supporting ground systems as the crew ventures into the harsh environment of space. This flight is another step toward crewed missions to the lunar surface and helping the agency prepare for future astronaut missions to Mars.
 <img width="2048" height="820" alt="image" src="https://github.com/user-attachments/assets/585c5779-1922-4a72-8146-4315680852fb" />
 

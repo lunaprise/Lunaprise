@@ -4,7 +4,7 @@ l# The 1st Art and Digital Assets Museum On The Moon
 # Launched on SpaceX Falcon 9 on 2.15.2024 from Kennedy Space Center
 # Landed on Moon South Pole on 2.22.2024 
 # Location: Malapert Latitude Longitude Diameter A 80.13°S 1.44°E
-# Estimated $7.0+ Billion in RWA ( Real World Assets, Art, Music Catalogs, A List Brands, and Bitcoin Projects) have their twin digital and metallic and bitcoin inscribed assets installed in the Lunaprise Museum.
+# Estimated $7.0+ Billion in RWA (Real World Assets, Art, Music Catalogs, A List Brands, and Bitcoin Projects) have their twin digital and metallic and bitcoin inscribed assets installed in the Lunaprise Museum.
 
 Galactic Legacy Labs, along with its partners Space Blue and the Arch Mission Foundation ("AMF") made international headlines and history by sending human creativity to the lunar surface. Space Blue oversaw the final curation of the 222 art projects at the Lunaprise Museum, compiling the final list of artwork, artists, and developing the certification processes for all artwork involved. The Lunaprise archive includes artists curated in the Lunar Art Archive, a project steered by AMF. The Lunaprise was attached to the Odysseus Lunar Lander, which landed on the Moon on February 22nd of 2024. For the first time in over 50 years, NASA and the United States landed on the Moon, and this time with the Lunaprise, it was with a historic human and artistic timestamp of past and present, lasting in space for over 1 billion years.
 The landing site is within proximity of where NASA's Artemis mission is planning to send humans to land and build a colony on the south pole region of the moon.
@@ -23,9 +23,9 @@ Advancing the first AI-generated film project on the Moon, Raise, executive prod
 Also noted: Cinematographer Isauro Mercado III received recognition for placing a record 2,777 photographic images in the lunar museum.
 
 ![image](https://github.com/user-attachments/assets/d02734ed-9b22-44af-8a4e-820fd89e9c2f)
-The image above shows the location of 18 layered Lunaprise Time Capsule Disc Systems bolted to the Odysseus lander,  which stored over 77,000 artifacts (images, mp3s, mp4 files). The image on the right shows an actual image of the Odysseus lunar lander on the south pole of the moon snapped by a Lunar camera "selfie".
+The image above shows the location of 18 layered Lunaprise Time Capsule Disc Systems bolted to the Odysseus lander, which stored over 77,000 artifacts (images, mp3s, mp4 files). The image on the right shows an actual image of the Odysseus lunar lander on the south pole of the moon snapped by a Lunar camera "selfie".
 
-ACCEPTABLE PUBLIC USES: Lunaprise retains the rights to any derived products, including search engine-type applications, and metadata retrieval programs developed using such metadata, used in part or whole, including blockchain use; such rights belong solely to Lunaprise. Lunaprise only grants permission for approved in writing official space bona fide news media, educators, personnel, and scientific users to download and use related content and captions, if applicable, for personal, educational, and research uses and only with written approval by Lunaprise. Any use otherwise is considered an infringement of Lunaprise's intellectual property and will be prosecuted to the fullest extent of the law. For approved parties,  the following credit line is required: "Lunaprise-Galactic Legacy Labs-Space Bluecr 2024, used with permission. Photos and videos owned by third parties we advise you to check sources to verify if you can use them in news media and we have listed herein any such credits to third parties who supplied photos and videos. Logos and tradenames of The Lunaprise, Space Blue, and other parties who collaborated on the space mission are not allowed for use in any worldwide media or project and remain the sole property of the respective owners of such tradenames and logos.
+ACCEPTABLE PUBLIC USES: Lunaprise retains the rights to any derived products, including search engine-type applications, and metadata retrieval programs developed using such metadata, used in part or whole, including blockchain use; such rights belong solely to Lunaprise. Lunaprise only grants permission for approved in writing official space bona fide news media, educators, personnel, and scientific users to download and use related content and captions, if applicable, for personal, educational, and research uses and only with written approval by Lunaprise. Any use otherwise is considered an infringement of Lunaprise's intellectual property and will be prosecuted to the fullest extent of the law. For approved parties, the following credit line is required: "Lunaprise-Galactic Legacy Labs-Space Bluecr 2024, used with permission. Photos and videos owned by third parties we advise you to check sources to verify if you can use them in news media and we have listed herein any such credits to third parties who supplied photos and videos. Logos and tradenames of The Lunaprise, Space Blue, and other parties who collaborated on the space mission are not allowed for use in any worldwide media or project and remain the sole property of the respective owners of such tradenames and logos.
 
 # Lunaprise Museum Curator
 Space Blue, under the leadership of Dallas Santana, oversaw the Lunaprise museum curation and employed art historians, professors of art, blockchain advisors, NFT (nonfungible token) experts, auctioneer advisors, art collectors, sports collectors, car collectors, renowned art galleries, and news editorial relationships for assistance in compiling the final art projects selected for the museum. Learn more at https://www.spaceblue.club
@@ -38,12 +38,12 @@ Some images in the official Lunaprise book may be for illustration purposes only
 
 
 
-Only Lunaprise is the official payload of  digital and inscribed art (other than Jeff Koons "Moon Phases," which were attached to the Odysseus Lander separately under separate arrangements with the lander company. 
+Only Lunaprise is the official payload of digital and inscribed art (other than Jeff Koons "Moon Phases," which were attached to the Odysseus Lander separately under separate arrangements with the lander company. 
 
-#LEGAL NOTICE. Should any bogus party falsely make fraudulent  claims that they are an authorized party regarding the Lunaprise, Lunaprise discs,  please contact legal@gll.space and legal@spaceblue.club with such information. All tips will be kept confidential 
+#LEGAL NOTICE. Should any bogus party falsely make fraudulent claims that they are an authorized party regarding the Lunaprise, Lunaprise discs,  please contact legal@gll.space and legal@spaceblue.club with such information. All tips will be kept confidential 
 
 #SOLE LEGAL AUTHORITY 
-Only Galactic Legacy Labs and its partner Space Blue is authorized to certify the contents of the Lunaprise and the only official contracted party to have attached the Lunaprise discs to the  lunar lander. Learn more at github.com/lunaprise
+Only Galactic Legacy Labs and its partner Space Blue are authorized to certify the contents of the Lunaprise and the only official contracted party to have attached the Lunaprise discs to the lunar lander. Learn more at github.com/lunaprise
 
 ![image](https://github.com/user-attachments/assets/18c6a1e0-5ccd-4bd8-a5ee-ca0c40c21238)
 
@@ -89,11 +89,11 @@ Only Lunaprise, and its official curator Space Blue, has the authority to review
 This database and important metadata may be updated from time to time.
 
 
-Metadata is solely owned by Lunaprise and  organized from important records and data pertaining to the inscribing of artifacts and art onto to the Lunaprise discs and museum and important mission details and dates, and time periods are expected to be published solely at https://verify.spaceblue.club during Q4-2024. Artist names ( but a numeric key code will identify art projects) will not be included in the Metadata due to privacy policies protecting artists in the Lunaprise mission but may be shared by the artist publicly and in blockchain systems and public exhibits, subject to the discretion of the artist.
+Metadata is solely owned by Lunaprise and organized from important records and data pertaining to the inscribing of artifacts and art onto to the Lunaprise discs and museum and important mission details and dates, and time periods are expected to be published solely at https://verify.spaceblue.club during Q4-2024. Artist names (but a numeric key code will identify art projects) will not be included in the Metadata due to privacy policies protecting artists in the Lunaprise mission but may be shared by the artist publicly and in blockchain systems and public exhibits, subject to the discretion of the artist.
 
 All Lunaprise Metadata issued is under a limited license to use by the artist and third parties as described herein, and no grant of ownership rights has been granted to such Metadata, which may be revoked at any time by Space Blue for violation of the Space Blue terms and conditions referenced herein. Lunaprise reserves the right to determine the methods and practices in organizing and exporting such data and determining the final sets of metadata issued under these terms and conditions.
 
-The art piece/artifact identifier number, along with important metadata, will be minted and inscribed into the Bitcoin ordinal  blockchain archive system solely by Lunaprise and is to be announced after the launch of the artwork on the moon. 
+The art piece/artifact identifier number, along with important metadata, will be minted and inscribed into the Bitcoin ordinal blockchain archive system solely by Lunaprise and is to be announced after the launch of the artwork on the moon. 
 It is the opinion of curators for the Lunaprise museum that blockchain is not the only method for verifying ownership or provenance of art in the Lunaprise museum, and that methods long held by the art industry for chain of title, such as written authorized certification by the artists, also co-signed by Lunaprise's official curator; Space Blue,   may also be used by artists.
 
 ## Important Metadata will include:
@@ -121,14 +121,14 @@ It is the opinion of curators for the Lunaprise museum that blockchain is not th
 
 • Longitudinal/Latitude coordinates where the artwork rests on the moon
 
-• Other important scientific and historical metadata  as determined by Space Blue.
+• Other important scientific and historical metadata as determined by Space Blue.
 
 ## Important Metadata will not include:
 
 • Confidential Data per confidentiality agreements with third parties.
 
 • Confidential Imagery/Files
-Art Collection Name ( the artist's property may be released publicly at their own discretion, as it is protected from public viewing except with consent or the artist)
+Art Collection Name (the artist's property may be released publicly at their own discretion, as it is protected from public viewing except with consent or the artist)
 
 • Photos/video protected by confidentiality agreements.
 
@@ -137,14 +137,14 @@ Art Collection Name ( the artist's property may be released publicly at their ow
 # Lunaprise 222 Art Projects
 ![image](https://github.com/user-attachments/assets/d3e29072-b233-4e99-aac1-19aa12cff7db)
 
-222 artists spanning over 30,000 years includes 100 of the greatest Renessiasance era artists of all time (from Leonardo Davinci, Van Gough, 
-Michaelangelo and many more), Michael Jackson's Original painting he did called Love Fantasia ( QR Tag Enabled)
-Lunar Records (compilation of music anthology including many notable Grammy-winning icons like Jimi Hendrix, The Who, Pink Floyd, James Brown, Elvis, Janis Joplin, Jefferson Airplane, Bob Dylan, and many more including contemporary artists Timbaland, Justin Timberlake, Taylor Swift, Scott Page, Journey, Yanni, Sabrina Carpenter, Becky G, Billy Ray Cyrus and hundreds more), Original Artwork of the top 22 female athletes of the world ("Lotus Games"),  "The Sci-Fi 9th Raider" full feature film co-starring "CL7" (NFT collector) and Disney star Daniel Curtis Lee, 9th Raider film cinematographer and photographer Isauro Mercado III, Samy Halim, Legion Universe (Stan Lee characters and screenplay), the award-winning documentary film and Sundance Winner "Climate Refugees I,"NFT art from Climate Refugees ( QR Code enabled) I, Veru Narula, beats from multi-Grammy-winning producer Timbaland (including contributions to Justin Timberlake and Jay-Z), Scott Page (Pink Floyd) QR code enabled, seven-time Grammy-winning producer Malik Yusef (known for collaborations with "Beyonce") QR code enabled, Marshmello (aka @cryptopup) as the first dog character to return to the moon since "Snoopy" in 1969, The Tardigees collection based on story of 2018 Israli lunar lander that crashed into moon with claimed Tardigees,  the captivating photography of award-winning photographer Pepe Soho, the art ptoject and character Dreamy QR code enabled, collectibles of 400 athletes of all time, rarest stamps, rare numisatic coins, Lunaprise Hall of Fame honoring the greatest icons, leaders, business titans… and more.
+222 artists spanning over 30,000 years includes 100 of the greatest Renaissance era artists of all time (from Leonardo Davinci, Van Gough, 
+Michaelangelo and many more), Michael Jackson's Original painting he did called Love Fantasia (QR Tag Enabled)
+Lunar Records (compilation of music anthology including many notable Grammy-winning icons like Jimi Hendrix, The Who, Pink Floyd, James Brown, Elvis, Janis Joplin, Jefferson Airplane, Bob Dylan, and many more including contemporary artists Timbaland, Justin Timberlake, Taylor Swift, Scott Page, Journey, Yanni, Sabrina Carpenter, Becky G, Billy Ray Cyrus and hundreds more), Original Artwork of the top 22 female athletes of the world ("Lotus Games"),  "The Sci-Fi 9th Raider" full feature film co-starring "CL7" (NFT collector) and Disney star Daniel Curtis Lee, 9th Raider film cinematographer and photographer Isauro Mercado III, Samy Halim, Legion Universe (Stan Lee characters and screenplay), the award-winning documentary film and Sundance Winner "Climate Refugees I,"NFT art from Climate Refugees (QR Code enabled) I, Veru Narula, beats from multi-Grammy-winning producer Timbaland (including contributions to Justin Timberlake and Jay-Z), Scott Page (Pink Floyd) QR code enabled, seven-time Grammy-winning producer Malik Yusef (known for collaborations with "Beyonce") QR code enabled, Marshmello (aka @cryptopup) as the first dog character to return to the moon since "Snoopy" in 1969, The Tardigrades collection based on story of 2018 Israeli lunar lander that crashed into moon with claimed tardigrades, the captivating photography of award-winning photographer Pepe Soho, the art project and character Dreamy QR code enabled, collectibles of 400 athletes of all time, rarest stamps, rare numismatic coins, Lunaprise Hall of Fame honoring the greatest icons, leaders, business titans… and more.
 
 ![image](https://github.com/user-attachments/assets/e45be493-fd9b-4cd9-8b3d-6ab3020a712a)
 
 
-_Art Title "Moontage"  Artist: Michael P. Nash 2024. The image depicts a representation of bits of art pieces collected from the Lunaprise Discs sent to the moon. Only 222 of the 77,000+ artifacts sent on the Lunaprise 16 disc layers  are represented here in a commemorative Art piece representing over 30,000 years of human art and culture,  done by Nash in collaboration with Lunaprise Museum curator Dallas Santana. QR code enabled.
+_Art Title "Moontage" Artist: Michael P. Nash 2024. The image depicts a representation of bits of art pieces collected from the Lunaprise Discs sent to the moon. Only 222 of the 77,000+ artifacts sent on the Lunaprise 16 disc layers  are represented here in a commemorative Art piece representing over 30,000 years of human art and culture,  done by Nash in collaboration with Lunaprise Museum curator Dallas Santana. QR code enabled.
 
 # Lunaprise Official Certified Artist and Fact Sheet Report Version 1.0 Dated 2.22.2024
 

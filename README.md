@@ -15,6 +15,19 @@ GitHub USE: The purpose of the Lunaprise archive and depository in GitHub is to 
 
 During Oscars Weekend 2026 (specifically at the Luxury Gala Oscar's Screening Party at the Universal Hilton) Dallas Santana, founder and curator of Space Blue (which curated the Lunaprise Museum), was honored with the inaugural Space and Film Innovator of the Century Award (also referred to as the first-ever Space Innovation in Film Award or Space Film Innovation Award).
 The award recognized his visionary leadership in curating the world's first lunar museum/time capsule, digital vault, and associated film projects on the Moon via the historic Lunaprise mission.
+Other Awards:
+
+During Freedom 250 / 4th of July celebrations in Washington, D.C.):
+Lunaprise Curator Dallas Santana and pioneering collaborators received prestigious "Space History Maker" medals at the Smithsonian National Air and Space Museum. This patriotic event, presented by Hidden Pioneers (led by Bill Montgomery, carrying forward NASA History maker Katherine Johnson's legacy), aligned with NASA flyovers and Lunaprise's America 250 exhibition.
+
+Recipients highlighted:
++Dallas Santana (Lunaprise Curator)
++Scott Page (Pink Floyd)
++Jack Sacco (composer and celebrated author)
++Roxanna Green (HWAL Inc. CEO and Lunar Records co-founder — noted as the first woman to lead such a music archive)
++Isauro Mercado III (award-winning photographer and The 9th Raider cinematographer, world record for most photos archived off-Earth in Lunaprise)
++Gerardo Velez (legendary Jimi Hendrix percussion band member at Woodstock)
++Brayden Bugazzi (notable artist, credited with the lunar museum collaboration "The Lost Warhols")
 
 Highlights included:
 Pioneering the placement of the first museum, digital vault, and movie (The 9th Raider) on the Moon.

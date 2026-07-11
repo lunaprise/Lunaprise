@@ -20,9 +20,7 @@ Highlights included:Pioneering the placement of the first museum, digital vault,
 Other Awards:
 
 During Freedom 250 / 4th of July celebrations in Washington, D.C.):
-Lunaprise Curator Dallas Santana and pioneering collaborators received prestigious "Space History Maker" medals at the Smithsonian National Air and Space Museum. This patriotic event, presented by Hidden Pioneers (led by Bill Montgomery, carrying forward NASA History maker Katherine Johnson's legacy), aligned with NASA flyovers and Lunaprise's America 250 exhibition.
-
-
+Lunaprise Curator Dallas Santana  received prestigious "Space History Maker" medal at the Smithsonian National Air and Space Museum. This patriotic event, presented by Hidden Pioneers (led by Bill Montgomery, carrying forward NASA History maker Katherine Johnson's legacy), aligned with NASA flyovers and Lunaprise's America 250 exhibition.
 
 Recipients highlighted:
 +Dallas Santana (Lunaprise Curator)

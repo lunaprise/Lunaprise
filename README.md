@@ -51,7 +51,7 @@ Some images in the official Lunaprise book may be for illustration purposes only
 
 
 
-Only Lunaprise is the official payload of digital and inscribed art (other than Jeff Koons "Moon Phases," which were attached to the Odysseus Lander separately under separate arrangements with the lander company. 
+Only Lunaprise is the official payload of digital and inscribed art (other than Jeff Koons "Moon Phases," which were attached to the Odysseus Lander separately under separate arrangements with the lander company). 
 
 #LEGAL NOTICE. Should any bogus party falsely make fraudulent claims that they are an authorized party regarding the Lunaprise, Lunaprise discs,  please contact legal@gll.space and legal@spaceblue.club with such information. All tips will be kept confidential 
 

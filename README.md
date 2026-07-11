@@ -1,4 +1,4 @@
-l# The 1st Art and Digital Assets Museum On The Moon
+ol# The 1st Art and Digital Assets Museum On The Moon
 
 ![image](https://github.com/user-attachments/assets/2573aafd-2ad8-43ed-81d7-a1965595b6b3)
 # Launched on SpaceX Falcon 9 on 2.15.2024 from Kennedy Space Center
@@ -25,7 +25,7 @@ Lunaprise Curator Dallas Santana  received prestigious "Space History Maker" med
 Recipients highlighted:
 +Dallas Santana (Lunaprise Curator)
 +Scott Page (Pink Floyd)
-+Lori Taylor (Co Founder of Galactic Legacy Labs- the first woman to lead a moon payload prokext to the moon)
++Lori Taylor (Co Founder of Galactic Legacy Labs- the first woman to lead a moon payload project to the moon)
 +Jack Sacco (composer-and celebrated author)
 +Roxanna Green (HWAL Inc. CEO and Lunar Records co-founder — noted as the first woman to lead such a music archive)
 +Isauro Mercado III (award-winning photographer and The 9th Raider cinematographer, world record for most photos archived off-Earth in Lunaprise)

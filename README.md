@@ -15,25 +15,27 @@ GitHub USE: The purpose of the Lunaprise archive and depository in GitHub is to 
 
 During Oscars Weekend 2026 (specifically at the Luxury Gala Oscar's Screening Party at the Universal Hilton) Dallas Santana, founder and curator of Space Blue (which curated the Lunaprise Museum), was honored with the inaugural Space and Film Innovator of the Century Award (also referred to as the first-ever Space Innovation in Film Award or Space Film Innovation Award).
 The award recognized his visionary leadership in curating the world's first lunar museum/time capsule, digital vault, and associated film projects on the Moon via the historic Lunaprise mission.
+Highlights included:Pioneering the placement of the first museum, digital vault, and movie (The 9th Raider) on the Moon.Preservation of cultural legacies, such as Stan Lee's last story and characters/screenplay (Legion of 5).Advancing the first AI-generated film project on the Moon, Raise, executive produced by Leonardo DiCaprio and created by Michael P. Nash.Also noted: Cinematographer Isauro Mercado III received recognition for placing a record 2,777 photographic images in the lunar museum.
+
 Other Awards:
 
 During Freedom 250 / 4th of July celebrations in Washington, D.C.):
 Lunaprise Curator Dallas Santana and pioneering collaborators received prestigious "Space History Maker" medals at the Smithsonian National Air and Space Museum. This patriotic event, presented by Hidden Pioneers (led by Bill Montgomery, carrying forward NASA History maker Katherine Johnson's legacy), aligned with NASA flyovers and Lunaprise's America 250 exhibition.
 
+
+
 Recipients highlighted:
 +Dallas Santana (Lunaprise Curator)
 +Scott Page (Pink Floyd)
-+Jack Sacco (composer and celebrated author)
++Lori Taylor (Co Founder of Galactic Legacy Labs- the first woman to lead a moon payload prokext to the moon)
++Jack Sacco (composer-and celebrated author)
 +Roxanna Green (HWAL Inc. CEO and Lunar Records co-founder — noted as the first woman to lead such a music archive)
 +Isauro Mercado III (award-winning photographer and The 9th Raider cinematographer, world record for most photos archived off-Earth in Lunaprise)
 +Gerardo Velez (legendary Jimi Hendrix percussion band member at Woodstock)
 +Brayden Bugazzi (notable artist, credited with the lunar museum collaboration "The Lost Warhols")
 
-Highlights included:
-Pioneering the placement of the first museum, digital vault, and movie (The 9th Raider) on the Moon.
-Preservation of cultural legacies, such as Stan Lee's last story and characters/screenplay (Legion of 5).
-Advancing the first AI-generated film project on the Moon, Raise, executive produced by Leonardo DiCaprio and created by Michael P. Nash.
-Also noted: Cinematographer Isauro Mercado III received recognition for placing a record 2,777 photographic images in the lunar museum.
+
+During Cannes Film Festival: Swann Awards.This prestigious French arts society recognized Dallas Santana/Space Blue for the importance and excellence of preservation of art in The Lunaprise museum ,specifically the 5000 year old Golden Mask artifact which is managed by co award recipient Ivanson Enterprises. 
 
 ![image](https://github.com/user-attachments/assets/d02734ed-9b22-44af-8a4e-820fd89e9c2f)
 The image above shows the location of 18 layered Lunaprise Time Capsule Disc Systems bolted to the Odysseus lander, which stored over 77,000 artifacts (images, mp3s, mp4 files). The image on the right shows an actual image of the Odysseus lunar lander on the south pole of the moon snapped by a Lunar camera "selfie".

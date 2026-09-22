@@ -208,10 +208,8 @@ Recognizing the top leaders of the past century. Notable Names inscribed into th
 100 top Web 3.0/cryptocurrency pioneers, including Satoshi Nakamoto, whose innovation makes it possible to authenticate earth artifacts, collectibles, and art assets linked to the Lunaprise Archive on the Moon.
 ![image](https://github.com/user-attachments/assets/10016f5c-16cd-4d49-85c0-31ac41f1ba14)
 
-# MICHAEL JACKSON'S ORIGINAL ART PIECE LOVE FANTASIA
-An art piece Michael Jackson drew inspired by his love of Walt Disney's famed project Fantasia. An exclusive project owned by collector J&B GLOBAL RESOURCES INC, and planned to be tokenized and fractionalized in the future. Tagged by Lunaprise QR tagged assets inscribed on the Lunaprise discs 
 
-#OTHER PROJECTS NOT LUSTED AS PART OF THE "222" CURATED ART PROJECTS:
+#OTHER PROJECTS NOT LISTED AS PART OF THE "222" CURATED ART PROJECTS:
 
 #Cryptopunk entire initial collectibles. considered the "OG" project of digital collectibles.
 

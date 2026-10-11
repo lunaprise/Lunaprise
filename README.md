@@ -35,7 +35,6 @@ Recipients highlighted:
 
 During Cannes Film Festival: Swann Awards.This prestigious French arts society recognized Dallas Santana/Space Blue for the importance and excellence of preservation of art in The Lunaprise museum ,specifically the 5000 year old Golden Mask artifact which is managed by co award recipient Ivanson Enterprises. 
 
-All awards are donated to the Soace Blue Foundation.
 
 ![image](https://github.com/user-attachments/assets/d02734ed-9b22-44af-8a4e-820fd89e9c2f)
 The image above shows the location of 18 layered Lunaprise Time Capsule Disc Systems bolted to the Odysseus lander, which stored over 77,000 artifacts (images, mp3s, mp4 files). The image on the right shows an actual image of the Odysseus lunar lander on the south pole of the moon snapped by a Lunar camera "selfie".
@@ -43,11 +42,11 @@ The image above shows the location of 18 layered Lunaprise Time Capsule Disc Sys
 ACCEPTABLE PUBLIC USES: Lunaprise retains the rights to any derived products, including search engine-type applications, and metadata retrieval programs developed using such metadata, used in part or whole, including blockchain use; such rights belong solely to Lunaprise. Lunaprise only grants permission for approved in writing official space bona fide news media, educators, personnel, and scientific users to download and use related content and captions, if applicable, for personal, educational, and research uses and only with written approval by Lunaprise. Any use otherwise is considered an infringement of Lunaprise's intellectual property and will be prosecuted to the fullest extent of the law. For approved parties, the following credit line is required: "Lunaprise-Galactic Legacy Labs-Space Blue 2024, used with permission. Photos and videos owned by third parties we advise you to check sources to verify if you can use them in news media and we have listed herein any such credits to third parties who supplied photos and videos. Logos and tradenames of The Lunaprise, Space Blue, and other parties who collaborated on the space mission are not allowed for use in any worldwide media or project and remain the sole property of the respective owners of such tradenames and logos.
 
 # Lunaprise Museum Curator
-Space Blue,a non profit foundation under the leadership of Dallas Santana, oversaw the Lunaprise museum curation and employed art historians, professors of art, blockchain advisors, NFT (nonfungible token) experts, auctioneer advisors, art collectors, sports collectors, car collectors, renowned art galleries, and news editorial relationships for assistance in compiling the final art projects selected for the museum. Learn more at https://www.spaceblue.club
+Space Blue,a non profit foundation under the leadership of Dallas Santana, oversaw the Lunaprise museum curation and employed art historians, professors of art, blockchain advisors, NFT (nonfungible token) experts, auctioneer advisors, art collectors, sports collectors, car collectors, renowned art galleries, and news editorial relationships for assistance in compiling the final art projects selected for the museum. Learn more at https://www.spaceblue.us
 
 
 Additional Notes:
-Some artists listed here may not have their artwork published in the Official Lunaprise Book which is under no obligation to certify or publish any artist's work.
+Some artists listed here may not have their artwork published in the official Lunaprise Book which is under no obligation to certify or publish any artist's work.
 
 Some images in the official Lunaprise book may be for illustration purposes only but are based on stories, text, or linked QR Codes archived on The Lunaprise Discs.
 
@@ -91,7 +90,7 @@ https://photos.app.goo.gl/TdpwRo2cX32vyJuk6
 
 For support email curator@spaceblue.club
 
-# Lunaprise Metadata
+# Lunaprise Metadata:
 How to verify and artist/artifact or art piece is part of The Lunaprise.
 
 # Visit the only authorized source for certification and authentication of artists and artifacts and art pieces sent to the moon at: https://verify.spaceblue.club
@@ -145,14 +144,14 @@ Art Collection Name (the artist's property may be released publicly at their own
 
 • Photos/video protected by confidentiality agreements.
 
-• Third-party data not under the control of Galactic Legacy Labs and Space Blue
+• Third-party data not under the control of Galactic Legacy Labs and Space Blue.
 
 # Lunaprise 222 Art Projects
 ![image](https://github.com/user-attachments/assets/d3e29072-b233-4e99-aac1-19aa12cff7db)
 
 222 artists spanning over 30,000 years includes 100 of the greatest Renaissance era artists of all time (from Leonardo Davinci, Van Gough, 
-Michaelangelo and many more), Michael Jackson's Original painting he did called Love Fantasia (QR Tag Enabled)
-Lunar Records (compilation of music anthology including many notable Grammy-winning icons like Jimi Hendrix, The Who, Pink Floyd, James Brown, Elvis, Janis Joplin, Jefferson Airplane, Bob Dylan, and many more including contemporary artists Timbaland, Justin Timberlake, Taylor Swift, Scott Page, Journey, Yanni, Sabrina Carpenter, Becky G, Billy Ray Cyrus and hundreds more), Original Artwork of the top 22 female athletes of the world ("Lotus Games"),  "The Sci-Fi 9th Raider" full feature film co-starring "CL7" (NFT collector) and Disney star Daniel Curtis Lee, 9th Raider film cinematographer and photographer Isauro Mercado III, Samy Halim, Legion Universe (Stan Lee characters and screenplay), the award-winning documentary film and Sundance Winner "Climate Refugees I,"NFT art from Climate Refugees (QR Code enabled) I, Veru Narula, beats from multi-Grammy-winning producer Timbaland (including contributions to Justin Timberlake and Jay-Z), Scott Page (Pink Floyd) QR code enabled, Marshmello (aka @cryptopup) as the first dog character to return to the moon since "Snoopy" in 1969, The Tardigrades collection based on story of 2018 Israeli lunar lander that crashed into moon with claimed tardigrades, the captivating photography of award-winning photographer Pepe Soho, the art project and character Dreamy QR code enabled, collectibles of 400 athletes of all time, rarest stamps, rare numismatic coins, Lunaprise Hall of Fame honoring the greatest icons, leaders, business titans… and more.
+Michaelangelo and many more),
+Lunar Records (compilation of music anthology including many notable Grammy-winning icons like Jimi Hendrix, The Who, Pink Floyd, James Brown, Elvis, Janis Joplin, Jefferson Airplane, Bob Dylan, and many more including contemporary artists Timbaland, Justin Timberlake, Taylor Swift, Scott Page, Journey, Yanni, Sabrina Carpenter (Drew Right Music video), Becky G, Billy Ray Cyrus and hundreds more), Original Artwork of the top 22 female athletes of the world ("Lotus Games"),  "The Sci-Fi 9th Raider" full feature film co-starring "CL7" (NFT collector) and Disney star Daniel Curtis Lee, 9th Raider film cinematographer and photographer Isauro Mercado III, Samy Halim, Legion Universe (Stan Lee characters and screenplay), the award-winning documentary film and Sundance Winner "Climate Refugees I,"NFT art from Climate Refugees (QR Code enabled) I, Veru Narula, beats from multi-Grammy-winning producer Timbaland (including contributions to Justin Timberlake and Jay-Z), Scott Page (Pink Floyd) QR code enabled, Marshmello (aka @cryptopup) as the first dog character to return to the moon since "Snoopy" in 1969, The Tardigrades collection based on story of 2018 Israeli lunar lander that crashed into moon with claimed tardigrades, the captivating photography of award-winning photographer Pepe Soho, the art project and character Dreamy QR code enabled, collectibles of 400 athletes of all time, rarest stamps, rare numismatic coins, Lunaprise Hall of Fame honoring the greatest icons, leaders, business titans… and more.
 
 ![image](https://github.com/user-attachments/assets/e45be493-fd9b-4cd9-8b3d-6ab3020a712a)
 
@@ -172,10 +171,10 @@ Collection: "Eternals Collection"-From Leonardo Da Vinci, Van Gogh, Michelangelo
 
 
 # First Bitcoin, Bitcoin Crypto Artwork, and Bitcoin White Paper on the Moon.
-The first installation of the earth of Bitcoin White Paper is now archived for over 1 billion years, along with private keys for Bitcoin, and archiving of Bitcoin storytelling and art collections through Bitcoin crypto art projects which are inscribed onto the metal discs in the Lunaprise Museum on the moon and pre-planned prior to the landing to be inscribed as bitcoin ordinal artifacts which will also last forever there. A prior attempt was made unsuccessfully in January 2024 by a previous Astrobotic's mission to land Bitcoin private keys and a physical art representation of a bitcoin on the moon, and the mission ended with the capsule burning up in the earth's atmosphere, resulting in the Lunaprise and Space Blue and its curator Dallas Santana taking credit for the first bitcoin to land on the moon literally when the Lunaprise landed about 30 days later on 2.22.2024 A.D.
+The first installation of the earth of Bitcoin White Paper is now archived for over 1 billion years, along with private keys for Bitcoin, and archiving of Bitcoin storytelling and art collections through Bitcoin crypto art projects which are inscribed onto the metal discs in the Lunaprise Museum on the moon and pre-planned prior to the landing to be inscribed as bitcoin ordinal artifacts which will also last forever there. A prior attempt was made unsuccessfully in January 2024 by a previous Astrobotic's mission to land Bitcoin private keys and a physical art representation of a bitcoin on the moon, and the mission ended with the capsule burning up in the earth's atmosphere, resulting in the Lunaprise and Space Blue and its curator Dallas Santana taking credit for the first bitcoin/bitcoin art to land on the moon literally when the Lunaprise landed about 30 days later on 2.22.2024 A.D.
 
 # First Grammy Winning and Iconic Music Archive on Moon: 777 top songs of all time by Lunar Records
-Details: A compilation of 777 top songs of all time, including a special focus on the Woodstock era "Summer of Love" top 30 music artists, airing worldwide in the same month as the Apollo 11 first moon landing by humans in July 1969. Plus, nearly 7000 artifacts of art, photographs, and video by Scott Page (Pink Floyd Band Member), including Pink Floyd tours, moments with Mick Jagger and the Rolling Stones, captured moments with Princess Diana, and other historic moments. Music archives in private playlists include Grammy hits and beats of Timbaland, Justin Timberlake, Taylor Swift, Becky G, and earlier works of Sabrina Carpenter. Artifacts include QR Code enabled artifacts tagged to QR Codes on disc.
+Details: A compilation of 777 top songs of all time, including a special focus on the Woodstock era "Summer of Love" top 30 music artists, airing worldwide in the same month as the Apollo 11 first moon landing by humans in July 1969. Plus, nearly 7000 artifacts of art, photographs, and video by Scott Page (Pink Floyd Band Member), including Pink Floyd tours, moments with Mick Jagger and the Rolling Stones, captured moments with Princess Diana, and other historic moments. Music archives in private playlists include Grammy hits and beats of Timbaland, Justin Timberlake, Taylor Swift, Becky G, and earlier works of Sabrina Carpenter(music video by Drew Right Music). Artifacts include QR Code enabled artifacts tagged to QR Codes on disc.
 ![image](https://github.com/user-attachments/assets/443bdff4-620e-4f9f-9e85-c1a7303b84c3)
 
 # QR Codes Stored on Lunaprise Discs to be Linked to Certain Selected Art and AI Generative Content and/or Inscribed on Blockchain.

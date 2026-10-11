@@ -6,7 +6,7 @@ ol# The 1st Art and Digital Assets Museum On The Moon
 # Location: Malapert Latitude Longitude Diameter A 80.13°S 1.44°E
 # RWA Linked (Real World Assets, Art, Music Catalogs, A List Brands, and Bitcoin Projects) owned by private parties, collectors and artists have their twin digital and metallic and bitcoin inscribed assets installed in the Lunaprise Museum.
 
-Galactic Legacy Labs, along with its partners Space Blue Foundation and the Arch Mission Foundation ("AMF") made international headlines and history by sending human creativity to the lunar surface. Space Blue oversaw the final curation of the 222 art projects at the Lunaprise Museum, compiling the final list of artwork, artists, and developing the certification processes for all artwork involved. it does not own any of the art projectd but acts as curator. The Lunaprise archive includes artists curated in the Lunar Art Archive, a project steered by AMF. The Lunaprise was attached to the Odysseus Lunar Lander, which landed on the Moon on February 22nd of 2024. For the first time in over 50 years, NASA and the United States landed on the Moon, and this time with the Lunaprise, it was with a historic human and artistic timestamp of past and present, lasting in space for over 1 billion years.
+Galactic Legacy Labs, along with its partners Space Blue Foundation and the Arch Mission Foundation ("AMF") made international headlines and history by sending human creativity to the lunar surface. Space Blue oversaw the final curation of the 222 art projects at the Lunaprise Museum, compiling the final list of artwork, artists, and developing the certification processes for all artwork involved. It does not own any of the art projects but acts as curator. The Lunaprise archive includes artists curated in the Lunar Art Archive, a project steered by AMF. The Lunaprise was attached to the Odysseus Lunar Lander, which landed on the Moon on February 22nd of 2024. For the first time in over 50 years, NASA and the United States landed on the Moon, and this time with the Lunaprise, it was with a historic human and artistic timestamp of past and present, lasting in space for over 1 billion years.
 The landing site is within proximity of where NASA's Artemis mission is planning to send humans to land and build a colony on the south pole region of the moon.
 
 GitHub USE: The purpose of the Lunaprise archive and depository in GitHub is to deposit and provide the public worldwide access to important information from the Lunaprise Time Capsule and Moon-based Lunar Museum, along with important descriptive information about the project.
@@ -15,12 +15,12 @@ GitHub USE: The purpose of the Lunaprise archive and depository in GitHub is to 
 
 During Oscars Weekend 2026 (specifically at the Luxury Gala Oscar's Screening Party at the Universal Hilton) Dallas Santana, founder and curator of Space Blue (which curated the Lunaprise Museum), was honored with the inaugural Space and Film Innovator of the Century Award (also referred to as the first-ever Space Innovation in Film Award or Space Film Innovation Award).
 The award recognized his visionary leadership in curating the world's first lunar museum/time capsule, digital vault, and associated film projects on the Moon via the historic Lunaprise mission.
-Highlights included:Pioneering the placement of the first museum, digital vault, and movie (The 9th Raider) on the Moon.Preservation of cultural legacies, such as Stan Lee's last story and characters/screenplay (Legion of 5).Advancing the first AI-generated film project on the Moon, Raise, executive produced by Leonardo DiCaprio and created by Michael P. Nash.Also noted: Cinematographer Isauro Mercado III received recognition for placing a record 2,777 photographic images in the lunar museum.
+Highlights included:Pioneering the placement of the first museum, digital vault, and movie (The 9th Raider) on the Moon.Preservation of cultural legacies, such as Stan Lee's last story and characters/screenplay (Legion of 5).Advancing the first AI-generated film project on the Moon ("Raise"- executive produced by Leonardo DiCaprio and created by Michael P. Nash).Also noted: Cinematographer Isauro Mercado III received recognition for placing a record 2,777 photographic images in the lunar museum.
 
 Other Awards:
 
-During Freedom 250 / 4th of July celebrations in Washington, D.C.):
-Lunaprise Curator Dallas Santana  received prestigious "Space History Maker" medal at the Smithsonian National Air and Space Museum. This patriotic event, presented by Hidden Pioneers (led by Bill Montgomery, carrying forward NASA History maker Katherine Johnson's legacy), aligned with NASA flyovers and Lunaprise's America 250 exhibition.
+During Freedom 250 /4th of July celebrations in Washington, D.C.):
+Lunaprise Curator Dallas Santana  received prestigious a "Space History Maker" medal at the Smithsonian National Air and Space Museum. This patriotic event, presented by Hidden Pioneers (led by Bill Montgomery, carrying forward his counsin's NASA History abd legacy  Katherine Johnson of "Hidden Figures"). The medal pinning aligned with NASA flyovers and Lunaprise's America 250 exhibition.
 
 Recipients highlighted:
 +Dallas Santana (Lunaprise Curator)
@@ -34,6 +34,7 @@ Recipients highlighted:
 
 
 During Cannes Film Festival: Swann Awards.This prestigious French arts society recognized Dallas Santana/Space Blue for the importance and excellence of preservation of art in The Lunaprise museum ,specifically the 5000 year old Golden Mask artifact which is managed by co award recipient Ivanson Enterprises. 
+
 All awards are donated to the Soace Blue Foundation.
 
 ![image](https://github.com/user-attachments/assets/d02734ed-9b22-44af-8a4e-820fd89e9c2f)

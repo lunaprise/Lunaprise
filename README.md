@@ -189,7 +189,7 @@ Collection: Curated by NFT Blue, this represents the first comprehensive collect
 
 # First Sports Hall of Fame on the Moon:
 Collection: 400 Masters of Sports
-Curator: NFT Blue, documenting the achievements of sports legends through  art and sports collectibles from Tom Brady, Muhammad Ali, and Jesse Owens, including the greatest 100 pro football players of all time, the greatest 20 basketball players of all time, and legends of Boxing, Formula 1, Olympic stars, and top female athletes.
+Curator: NFT Blue, documenting the achievements of sports legends through  art and sports collectibles from Tom Brady, Muhammad Ali, and Jesse Owens, including the greatest 100 pro football players of all time, the greatest 20 basketball players of all time, and legends of Boxing, Formula 1, Olympic stars, and top female athletes. Also Arnold Schatznegger, Sylvestor Stallone, Dolph Lungren private owned collectibles are included.
 
 # First Stan Lee Art Collection on Moon:
 Collection: Stan Lee- Legion Franchise
